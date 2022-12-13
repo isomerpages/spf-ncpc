@@ -3,7 +3,6 @@ title: About Us
 permalink: /aboutus/
 description: ""
 ---
-
 # About the Council
 The National Crime Prevention Council (NCPC) is a non-profit organisation committed to promoting public awareness of and concern about crime and to propagate the concept of self-help in crime prevention. The Council comprises representatives from the commercial and industrial sectors, as well as from the public sector and the Singapore Police Force (SPF). The NCPC is incorporated as a charity and depends entirely on donations and sponsorships to run its programmes and activities. It is registered as a society with the Registry of Societies.
 
