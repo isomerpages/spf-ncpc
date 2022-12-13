@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://ncpc.org.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.d2lbmnnayfe7jh.amplifyapp.com
 prod: https://master.d2lbmnnayfe7jh.amplifyapp.com
 resources_name: news-release
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
