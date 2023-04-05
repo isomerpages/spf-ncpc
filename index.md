@@ -33,9 +33,10 @@ sections:
       image: /images/Home/crimewatch-2023-ep1.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Crime Prevention Training
+      subtitle: 3 Feb 2023
+      description: 1MBFC. Marina Boulevard from 2pm to 4pm
+      button: More upcoming events
       alt: Image alt text
+      url: /upcomingevents
 ---
