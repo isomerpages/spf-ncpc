@@ -10,11 +10,11 @@ notification: To learn more about the common scams in Singapore, please visit
   the Scam Alert! website
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Banners/home-banner.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Scamshield
+          description: Mobile App to fight Scam Messages
+          url: /scamshield
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
