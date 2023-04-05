@@ -23,34 +23,59 @@ links:
         url: /non-financial
       - title: FAQs
         url: /faqs
-  - title: Crime Preventive Advisories
+  - title: CRIME PREVENTIVE ADVISORIES
     url: "#"
     sublinks:
-      - title: Submenu Title
-        url: /permalink
-  - title: News & Events
-    url: "#"
-    sublinks: []
-  - title: Publications
-    url: "#"
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
-  - title: Scamshield
-    url: "#"
-    sublinks: []
-  - title: Join Us
+      - title: INDIVIDUALS
+        url: /individuals
+      - title: BUSINESS
+        url: /business
+  - title: NEWS & EVENTS
     url: "#"
     sublinks:
-      - title: Submenu Title
-        url: /permalink
-  - title: Donation
+      - title: MEDIA RELEASES
+        url: /media
+      - title: UPCOMING EVENTS
+        url: /upcomingevents
+      - title: PAST EVENTS
+        url: /pastevents
+  - title: PUBLICATIONS
     url: "#"
     sublinks:
-      - title: Submenu Title
-        url: /permalink
-  - title: Contact
+      - title: ANNUAL REPORT
+        url: /annualreport
+      - title: CAMPAIGNS/PROGRAMMES
+        url: /campaigns
+      - title: ANTI ILLEGAL BETTING
+        url: /redcard
+      - title: DELTA LEAGUE
+        url: /delta-league
+      - title: MAKING SINGAPORE SAFE
+        url: /making-singapore-safe
+      - title: TAXI DRIVER'S HANDBOOK
+        url: /taxi-driver-handbook
+      - title: ICPC 2011 E-BOOK
+        url: /icpc-ebook
+      - title: CPTED GUIDE BOOK
+        url: /cpted
+      - title: CRIME PREVENTION BADGE TEST
+        url: /cppb
+  - title: SCAMSHIELD
     url: "#"
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: ABOUT SCAMSHIELD
+        url: /aboutscamshield
+  - title: JOIN US
+    url: "#"
+    sublinks:
+      - title: CRIME PREVENTION AMBASSADORS
+        url: /cpas
+  - title: DONATION
+    url: "#"
+    sublinks:
+      - title: HOW TO DONATE
+        url: /sponsorship
+      - title: OUR MAJOR DONORS
+        url: /sponsors
+  - title: CONTACT
+    url: /contact
