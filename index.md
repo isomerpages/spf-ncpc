@@ -20,9 +20,13 @@ sections:
         - title: Follow Us on Facebook
           description: Latest Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
-  - resources:
-      title: Crime Preventive Advisories
-      button: Know more
+  - infopic:
+      title: Outrage of Modesty
+      subtitle: Crime Preventive Advisories
+      description: Protect yourself. If you get molested, call the police.
+      button: Learn more
+      alt: Image alt text
+      url: "#"
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
@@ -30,13 +34,18 @@ sections:
         their way up the chain to cripple an unlicensed moneylending syndicate!
       button: Watch now
       url: https://www.mewatch.sg/watch/Crimewatch-2023-E1-Loanshark-Network-362269
-      image: /images/Home/crimewatch-2023-ep1.jpg
+      image: /images/Home/crime-watch-2023.JPG
       alt: Image alt text
   - infopic:
-      title: Crime Prevention Training
-      subtitle: 3 Feb 2023
-      description: 1MBFC. Marina Boulevard from 2pm to 4pm
-      button: More upcoming events
+      title: ScamShield
+      subtitle: Mobile app
+      description: ScamShield is a new mobile app that  fight scam messages and calls
+        which plague mobile phone users.
+      button: Know more
+      url: "@"
       alt: Image alt text
-      url: /upcomingevents
+  - resources:
+      title: Upcoming Events
+      subtitle: Join us at our events
+      button: View more events
 ---
