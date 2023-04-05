@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: National Crime Prevention Council
+description: National Crime Prevention Council is a non-profit organization
+  committed to promoting public awareness of and concern about crime and to
+  propagate the concept of self-help in crime prevention.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -29,4 +31,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
