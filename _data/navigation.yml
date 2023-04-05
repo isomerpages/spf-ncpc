@@ -1,14 +1,28 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Home
+  - title: HOME
     url: /
-  - title: About Us
+  - title: ABOUT US
     url: "#"
     sublinks:
-      - title: Introduction
+      - title: INTRODUCTION
         url: /about
-      - title: Vision & Mission
+      - title: OUR VISION & MISSION
         url: /vision
+      - title: CHAIRMAN'S MESSAGE
+        url: /chairman
+      - title: OUR HISTORY
+        url: /history
+      - title: MAKE UP OF NCPC
+        url: /makeupofncpc
+      - title: COUNCIL MEMBERS
+        url: /councilmembers
+      - title: SECRETARIAT
+        url: /secretariat
+      - title: NON-FINANCIAL INFO
+        url: /non-financial
+      - title: FAQs
+        url: /faqs
   - title: Crime Preventive Advisories
     url: "#"
     sublinks:
