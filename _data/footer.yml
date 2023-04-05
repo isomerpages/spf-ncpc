@@ -1,9 +1,6 @@
-contact_us: /contact-us/
+contact_us: /contact/
 show_reach: false
-faq: /faq/
+faq: /faqs
 social_media:
   facebook: https://www.facebook.com/ncpc.sg
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/your.insta/
-  linkedin: https://www.linkedin.com/company/YourAgency
+  instagram: https://www.instagram.com/NCPCSG
