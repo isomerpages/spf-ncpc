@@ -6,14 +6,11 @@ description: National Crime Prevention Council is a non-profit organization
   propagate the concept of self-help in crime prevention.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: To learn more about the common scams in Singapore, please visit
+  the Scam Alert! website
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
