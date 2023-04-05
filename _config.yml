@@ -1,9 +1,9 @@
-title: Title
+title: National Crime Prevention Council
 url: https://ncpc.org.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#a10327"
+  secondary-color: "#71011b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: National Crime Prevention Council is a non-profit organization
+  committed to promoting public awareness of and concern about crime and to
+  propagate the concept of self-help in crime prevention.
 permalink: none
 baseurl: ""
 exclude:
