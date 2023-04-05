@@ -6,8 +6,7 @@ description: National Crime Prevention Council is a non-profit organization
   propagate the concept of self-help in crime prevention.
 image: /images/isomer-logo.svg
 permalink: /
-notification: To learn more about the common scams in Singapore, please visit
-  the Scam Alert! website
+notification: Website will be down for maintenance on 30 Apr 2023
 sections:
   - hero:
       background: /images/Banners/home-banner.jpg
@@ -15,16 +14,10 @@ sections:
         - title: Scamshield
           description: Mobile App to fight Scam Messages
           url: /scamshield
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Scam Alert website
+          description: Learn about Singapore common scams
+          url: https://www.scamalerts.sg
+        - title: Follow Us on Facebook
+          description: Latest Crime Prevention updates
+          url: https://www.facebook.com/ncpc.sg
 ---
