@@ -15,22 +15,27 @@ sections:
           description: Mobile App to fight Scam Messages
           url: /scamshield
         - title: Scam Alert website
-          description: Learn about Singapore common scams
+          description: Latest Singapore Scams
           url: https://www.scamalerts.sg
         - title: Follow Us on Facebook
           description: Latest Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Crime Preventive Advisories
+      button: Know more
   - infopic:
-      title: Episode 1
-      subtitle: Crimewatch 2023
+      title: Crimewatch 2023
+      subtitle: Episode 1
       description: Watch how officers from the Criminal Investigation Department work
         their way up the chain to cripple an unlicensed moneylending syndicate!
       button: Watch now
       url: https://www.mewatch.sg/watch/Crimewatch-2023-E1-Loanshark-Network-362269
-      image: /images/Home/crimewatch-2023.jpg
+      image: /images/Home/crimewatch-2023-ep1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
