@@ -1,8 +1,40 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Home
+    url: /
+  - title: About Us
+    url: "#"
+    sublinks:
+      - title: Introduction
+        url: /about
+  - title: Crime Preventive Advisories
+    url: "#"
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: News & Events
+    url: "#"
+    sublinks: []
+  - title: Publications
+    url: "#"
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: Scamshield
+    url: "#"
+    sublinks: []
+  - title: Join Us
+    url: "#"
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: Donation
+    url: "#"
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: Contact
+    url: "#"
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
