@@ -25,9 +25,9 @@ sections:
   - infobar:
       title: About NCPC
       subtitle: Introduction
-      description: NCPC is an organisation committed to promoting public awareness of
+      description: "NCPC is an organisation committed to promoting public awareness of
         and concern about crime and to propagate the concept of self-help in
-        crime prevention.
+        crime prevention. "
       button: Learn more
       url: about
   - infopic:
