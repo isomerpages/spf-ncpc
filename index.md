@@ -57,5 +57,5 @@ sections:
       button: More upcoming events
       alt: Image alt text
       url: /upcomingevents
-      image: /images/Home/crime-prevention-roadshow.jpg
+      image: /images/Home/crime-prevention-roadshow-home.jpg
 ---
