@@ -29,6 +29,20 @@ sections:
       button: Learn more
       url: about
   - infopic:
+      title: Outrage of Modesty
+      subtitle: Individual Crime Advisories
+      description: Protect yourself. If you get molested, call the police.
+      button: Learn more
+      alt: Image alt text
+      url: /outrageofmodesty
+      image: /images/Home/outrage-of-modesty.jpg
+  - infobar:
+      title: Cyber Crime
+      subtitle: Business Crime Advisories
+      description: Be alert of internet scams! Don’t expose yourself to extortion.
+      button: Learn More
+      url: /cybercrime
+  - infopic:
       title: ScamShield
       subtitle: Download Now At App Store
       description: ScamShield is a mobile app in IOS & Andriod that  fight scam
@@ -38,21 +52,13 @@ sections:
       alt: Image alt text
       image: /images/Home/img-21-revised.jpg
   - infopic:
-      title: Outrage of Modesty
-      subtitle: Crime Advisories
-      description: Protect yourself. If you get molested, call the police.
-      button: Learn more
-      alt: Image alt text
-      url: /outrageofmodesty
-      image: /images/Home/outrage-of-modesty.jpg
-  - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
       description: Watch how officers from the Criminal Investigation Department work
         their way up the chain to cripple an unlicensed moneylending syndicate!
       button: Watch now
       url: https://www.mewatch.sg/watch/Crimewatch-2023-E1-Loanshark-Network-362269
-      image: /images/Home/crime-watch-2023.JPG
+      image: /images/Home/img-21-crime-watch.png
       alt: Image alt text
   - resources:
       title: Upcoming Events
