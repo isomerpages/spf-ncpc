@@ -9,7 +9,7 @@ permalink: /
 notification: Website will be down for maintenance on 30 Apr 2023
 sections:
   - hero:
-      background: /images/Banners/home-banner.jpg
+      background: /images/Banners/banner.jpg
       key_highlights:
         - title: Scamshield
           description: Mobile App to fight Scam Messages
@@ -20,13 +20,15 @@ sections:
         - title: Follow Us on Facebook
           description: Latest Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
-  - infopic:
-      title: Outrage of Modesty
-      subtitle: Crime Preventive Advisories
-      description: Protect yourself. If you get molested, call the police.
-      button: Learn more
-      alt: Image alt text
-      url: "#"
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
@@ -44,8 +46,10 @@ sections:
       button: Know more
       url: "@"
       alt: Image alt text
-  - resources:
-      title: Upcoming Events
-      subtitle: Join us at our events
-      button: View more events
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
