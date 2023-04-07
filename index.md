@@ -40,10 +40,10 @@ sections:
       image: /images/Home/outrage-of-modesty.jpg
   - infopic:
       title: ScamShield
-      subtitle: Download Now At App Store
-      description: ScamShield is a mobile app in IOS & Andriod that  fight scam
-        messages and calls which plague mobile phone users.
-      button: Know more
+      subtitle: Available Now At App Store
+      description: ScamShield is a mobile app available in IOS & Andriod that fight
+        scam messages and calls which plague mobile phone users.
+      button: Download now
       url: /scamshield
       alt: Image alt text
       image: /images/Home/img-21-revised.jpg
