@@ -35,12 +35,6 @@ sections:
       url: /scamshield
       alt: Image alt text
       image: /images/Home/img-21-revised.jpg
-  - infobar:
-      title: Scam Alert SG
-      subtitle: I Can Act Against Scams
-      description: Learn more about common scams in Singapore.
-      button: Visit Now
-      url: https://www.scamalert.sg
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
