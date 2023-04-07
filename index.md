@@ -41,7 +41,7 @@ sections:
   - infobar:
       title: The New Job
       subtitle: Latest Scams
-      description: <iframe width="560" height="315"
+      description: <iframe width="800" height="515"
         src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
