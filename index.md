@@ -28,19 +28,23 @@ sections:
         crime prevention.
       button: Learn more
       url: about
-  - resources:
-      title: Crime Advisories
-      subtitle: Individual
-      button: Learn more
   - infopic:
       title: ScamShield
-      subtitle: Mobile app
-      description: ScamShield is a new mobile app that  fight scam messages and calls
-        which plague mobile phone users.
+      subtitle: Download Now At App Store
+      description: ScamShield is a mobile app in IOS & Andriod that  fight scam
+        messages and calls which plague mobile phone users.
       button: Know more
       url: /scamshield
       alt: Image alt text
       image: /images/Home/img-21-revised.jpg
+  - infopic:
+      title: Outrage of Modesty
+      subtitle: Crime Advisories
+      description: Protect yourself. If you get molested, call the police.
+      button: Learn more
+      alt: Image alt text
+      url: /outrageofmodesty
+      image: /images/Home/outrage-of-modesty.jpg
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
@@ -50,12 +54,8 @@ sections:
       url: https://www.mewatch.sg/watch/Crimewatch-2023-E1-Loanshark-Network-362269
       image: /images/Home/crime-watch-2023.JPG
       alt: Image alt text
-  - infopic:
-      title: Crime Prevention Training
-      subtitle: 3 Feb 2023 2pm-5pm
-      description: "Venue: 1MBFC. Marina Boulevard"
-      button: More upcoming events
-      alt: Image alt text
-      url: /upcomingevents
-      image: /images/Home/crime-prevention-roadshow-home.jpg
+  - resources:
+      title: Upcoming Events
+      subtitle: Join Us
+      button: More Events
 ---
