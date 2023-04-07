@@ -38,6 +38,18 @@ sections:
       alt: Image alt text
       url: /outrageofmodesty
       image: /images/Home/outrage-of-modesty.jpg
+  - infobar:
+      title: The New Job
+      subtitle: Latest Scams
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen></iframe>
+  - resources:
+      title: Upcoming Events
+      subtitle: Join & Engage with us
+      button: More Events
   - infopic:
       title: ScamShield
       subtitle: Available Now At App Store
@@ -56,8 +68,4 @@ sections:
       url: https://www.mewatch.sg/watch/Crimewatch-2023-E1-Loanshark-Network-362269
       image: /images/Home/img-21-crime-watch.png
       alt: Image alt text
-  - resources:
-      title: Upcoming Events
-      subtitle: Join & Engage with us
-      button: More Events
 ---
