@@ -54,7 +54,9 @@ sections:
   - infobar:
       title: The New Job
       subtitle: Latest Video
-      description: <iframe width="800" height="515"
+      description: If that new job is too good to be true, it might be a scam. Do not
+        commit too quickly and check the credibility of the job offer! <iframe
+        width="800" height="515"
         src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
