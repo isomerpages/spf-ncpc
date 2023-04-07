@@ -32,7 +32,7 @@ sections:
       url: about
   - infopic:
       title: Outrage of Modesty
-      subtitle: Individual Crime Advisories
+      subtitle: Crime Advisories
       description: Protect yourself. If you get molested, call the police.
       button: Learn more
       alt: Image alt text
