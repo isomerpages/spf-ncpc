@@ -3,7 +3,7 @@ url: https://ncpc.org.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#a10327"
-  secondary-color: "#71011b"
+  secondary-color: "#e29aa7"
   media-colors:
     - title: media-color-one
       color: "#a20427"
