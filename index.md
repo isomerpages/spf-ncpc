@@ -38,14 +38,6 @@ sections:
       alt: Image alt text
       url: /outrageofmodesty
       image: /images/Home/outrage-of-modesty.jpg
-  - infobar:
-      title: The New Job
-      subtitle: Latest Scams
-      description: <iframe width="800" height="515"
-        src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen></iframe>
   - resources:
       title: Upcoming Events
       subtitle: Join & Engage with us
@@ -59,6 +51,16 @@ sections:
       url: /scamshield
       alt: Image alt text
       image: /images/Home/img-21-revised-2.jpg
+  - infobar:
+      title: The New Job
+      subtitle: Latest Video
+      description: <iframe width="800" height="515"
+        src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen></iframe>
+      button: More Video
+      url: https://www.youtube.com/@nationalcrimepreventioncou9791
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
