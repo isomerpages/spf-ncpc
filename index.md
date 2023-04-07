@@ -10,16 +10,6 @@ notification: Website will be down for maintenance on 30 Apr 2023
 sections:
   - hero:
       background: /images/Banners/hero-banner-home.png
-      key_highlights:
-        - title: Scamshield
-          description: Mobile App to fight Scam Messages
-          url: /scamshield
-        - title: Scam Alert website
-          description: Latest Singapore Scams
-          url: https://www.scamalerts.sg
-        - title: Follow Us on Facebook
-          description: Latest Crime Prevention updates
-          url: https://www.facebook.com/ncpc.sg
   - infobar:
       title: About NCPC
       subtitle: Introduction
