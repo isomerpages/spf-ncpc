@@ -9,7 +9,7 @@ permalink: /
 notification: Website will be down for maintenance on 30 Apr 2023
 sections:
   - hero:
-      background: /images/Banners/banner.jpg
+      background: /images/Banners/hero-banner-home.png
       key_highlights:
         - title: Scamshield
           description: Mobile App to fight Scam Messages
@@ -21,14 +21,26 @@ sections:
           description: Latest Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: About NCPC
+      subtitle: Introduction
+      description: NCPC is an organisation committed to promoting public awareness of
+        and concern about crime and to propagate the concept of self-help in
+        crime prevention.
+      button: Learn more
+      url: about
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
+  - infopic:
+      title: ScamShield
+      subtitle: Mobile app
+      description: ScamShield is a new mobile app that  fight scam messages and calls
+        which plague mobile phone users.
+      button: Know more
+      url: /scamshield
+      alt: Image alt text
+      image: /images/Home/img-21-revised.jpg
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
@@ -39,17 +51,11 @@ sections:
       image: /images/Home/crime-watch-2023.JPG
       alt: Image alt text
   - infopic:
-      title: ScamShield
-      subtitle: Mobile app
-      description: ScamShield is a new mobile app that  fight scam messages and calls
-        which plague mobile phone users.
-      button: Know more
-      url: "@"
+      title: Crime Prevention Training
+      subtitle: 3 Feb 2023 2pm-5pm
+      description: "Venue: 1MBFC. Marina Boulevard"
+      button: More upcoming events
       alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      url: /upcomingevents
+      image: /images/Home/bankscam-desktop.png
 ---
