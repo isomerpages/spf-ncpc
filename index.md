@@ -26,12 +26,6 @@ sections:
       alt: Image alt text
       url: /outrageofmodesty
       image: /images/Home/outrage-of-modesty.jpg
-  - infobar:
-      title: Cyber Crime
-      subtitle: Business Crime Advisories
-      description: Be alert of internet scams! Don’t expose yourself to extortion.
-      button: Learn More
-      url: /cybercrime
   - infopic:
       title: ScamShield
       subtitle: Download Now At App Store
@@ -41,6 +35,12 @@ sections:
       url: /scamshield
       alt: Image alt text
       image: /images/Home/img-21-revised.jpg
+  - infobar:
+      title: Scam Alert SG
+      subtitle: I Can Act Against Scams
+      description: Learn more about common scams in Singapore.
+      button: Visit Now
+      url: https://www.scamalert.sg
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 1
