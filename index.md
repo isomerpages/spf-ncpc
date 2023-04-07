@@ -9,7 +9,10 @@ permalink: /
 notification: Website will be down for maintenance on 30 Apr 2023
 sections:
   - hero:
-      background: /images/Banners/hero-banner-home.png
+      background: /images/Banners/hero-banner-home-bg-revised.png
+      title: I can Act against Scams
+      button: Learn more
+      url: https://www.scamalert.sg/act
   - infobar:
       title: About NCPC
       subtitle: Introduction
