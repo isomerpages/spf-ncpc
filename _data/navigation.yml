@@ -5,77 +5,77 @@ links:
   - title: ABOUT US
     url: "#"
     sublinks:
-      - title: INTRODUCTION
+      - title: Introduction
         url: /about
-      - title: OUR VISION & MISSION
+      - title: Our VIsion & Mission
         url: /vision
-      - title: CHAIRMAN'S MESSAGE
+      - title: Chairman's Message
         url: /chairman
-      - title: OUR HISTORY
+      - title: Our History
         url: /history
-      - title: MAKE UP OF NCPC
+      - title: Make Up of NCPC
         url: /makeupofncpc
-      - title: COUNCIL MEMBERS
+      - title: Council Members
         url: /councilmembers
-      - title: SECRETARIAT
+      - title: Secretariat
         url: /secretariat
-      - title: NON-FINANCIAL INFO
+      - title: Non-Financial Info
         url: /non-financial
-      - title: FAQs
+      - title: Faqs
         url: /faqs
   - title: CRIME PREVENTIVE ADVISORIES
     url: "#"
     sublinks:
-      - title: INDIVIDUALS
+      - title: Individuals
         url: /individuals
-      - title: BUSINESS
+      - title: Business & Associations
         url: /business
   - title: NEWS & EVENTS
     url: "#"
     sublinks:
-      - title: MEDIA RELEASES
+      - title: Media Releases
         url: /media
-      - title: UPCOMING EVENTS
+      - title: Upcoming Events
         url: /upcomingevents
-      - title: PAST EVENTS
+      - title: Past Events
         url: /pastevents
   - title: PUBLICATIONS
     url: "#"
     sublinks:
-      - title: ANNUAL REPORT
+      - title: Annual Report
         url: /annualreport
-      - title: CAMPAIGNS/PROGRAMME
+      - title: Campaign/Programme
         url: /campaigns
-      - title: ANTI ILLEGAL BETTING
+      - title: Anti illegal Betting
         url: /redcard
-      - title: DELTA LEAGUE
+      - title: Delta League
         url: /delta-league
-      - title: MAKING SINGAPORE SAFE
+      - title: Making Singapore Safe
         url: /making-singapore-safe
-      - title: TAXI DRIVER'S HANDBOOK
+      - title: Taxi Driver's Handbook
         url: /taxi-driver-handbook
-      - title: ICPC 2011 E-BOOK
+      - title: ICPC 2011 E-Book
         url: /icpc-ebook
-      - title: CPTED GUIDE BOOK
+      - title: CPTED Guide Book
         url: /cpted
-      - title: CRIME PREVENTION BADGE TEST
+      - title: Crime Prevention Badge Test
         url: /cppb
   - title: SCAMSHIELD
     url: "#"
     sublinks:
-      - title: ABOUT SCAMSHIELD
+      - title: About ScamShield
         url: /aboutscamshield
   - title: JOIN US
     url: "#"
     sublinks:
-      - title: CRIME PREVENTION AMBASSADORS
+      - title: Crime Prevention Ambassadors
         url: /cpas
   - title: DONATION
     url: "#"
     sublinks:
-      - title: HOW TO DONATE
+      - title: How to Donate
         url: /sponsorship
-      - title: OUR MAJOR DONORS
+      - title: Our Major Donors
         url: /sponsors
-  - title: CONTACT
+  - title: Contact
     url: /contact
