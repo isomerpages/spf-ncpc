@@ -2,19 +2,19 @@ title: National Crime Prevention Council
 url: https://ncpc.org.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#a10327"
-  secondary-color: "#e29aa7"
+  primary-color: "#71011b"
+  secondary-color: "#a20427"
   media-colors:
     - title: media-color-one
-      color: "#a20427"
+      color: "#71011b"
     - title: media-color-two
-      color: "#a20427"
+      color: "#71011b"
     - title: media-color-three
-      color: "#a20427"
+      color: "#71011b"
     - title: media-color-four
-      color: "#a20427"
+      color: "#71011b"
     - title: media-color-five
-      color: "#a20427"
+      color: "#71011b"
 description: National Crime Prevention Council is a non-profit organization
   committed to promoting public awareness of and concern about crime and to
   propagate the concept of self-help in crime prevention.
