@@ -58,6 +58,6 @@ sections:
       alt: Image alt text
   - resources:
       title: Upcoming Events
-      subtitle: Join Us
+      subtitle: Join & Engage with us
       button: More Events
 ---
