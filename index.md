@@ -29,9 +29,9 @@ sections:
       button: Learn more
       url: about
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Crime Advisories
+      subtitle: Individual
+      button: Learn more
   - infopic:
       title: ScamShield
       subtitle: Mobile app
