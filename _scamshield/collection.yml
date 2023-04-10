@@ -1,0 +1,4 @@
+collections:
+  scamshield:
+    output: true
+    order: []
