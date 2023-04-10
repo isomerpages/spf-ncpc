@@ -1,0 +1,4 @@
+collections:
+  crime-preventive-advisories:
+    output: true
+    order: []
