@@ -1,0 +1,4 @@
+collections:
+  donation:
+    output: true
+    order: []
