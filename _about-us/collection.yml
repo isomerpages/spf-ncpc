@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - About Us/Introduction.md
       - About Us/.keep
