@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our History.md
       - Introduction.md
       - Our Vision & Mission.md
       - Chairman's Message.md
