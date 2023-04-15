@@ -46,7 +46,7 @@ PREVENTIVE MEASURES IN THE LIFT
 * Avoid taking the lift with a stranger. Let the stranger take the lift and wait for the next one; and
 * When entering the lift alone, stay close to the lift button panel. Press “Door Open” and step out immediately when a stranger rushes in as the lift door is closing.
 
-If you are confronted by a thief, stay calm and take note of his or her appearance, attire, height, or any other distinctive physical features if possible. Call the Police as soon as possible so that our officers can reach the location quickly to assist you.
+If you are confronted by a thief, stay calm and take note of his or her appearance, attire, height, or any other distinctive physical features if possible. Call the Police as soon as possible so that our officers can reach the location quickly to assist you.<br><br>
 
 <hr>
 
