@@ -28,7 +28,7 @@ PREVENTIVE MEASURES
 If the premise is undergoing renovation
 
 * Secure your vacant unit with a close-shackled lock; and
-* Do not leave home appliances in your vacant unit. Arrange for the delivery of such items after you have moved in.
+* Do not leave home appliances in your vacant unit. Arrange for the delivery of such items after you have moved in
 
 <hr>
 
