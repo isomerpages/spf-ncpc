@@ -4,7 +4,7 @@ permalink: /pickpocket/
 description: ""
 third_nav_title: Individual
 ---
-**How if can happen**
+How if can happen
 
 Heard of trade secrets?
 
@@ -15,7 +15,7 @@ Heard of trade secrets?
 * Do not doze off in the bus or MRT train and leave your belongings unattended.
 * Do not be distracted by strangers creating a commotion or accidentally spilling something on you. Be wary of such situations.
 
-**Preventive measures**
+Preventive measures
 
 Precautions for women
 
@@ -26,7 +26,7 @@ Precautions for women
 Precautions for men
 * They prefer men who keep wallets in the rear trousers or chest pockets. So men, keep your wallet in your side trousers pocket.
 
-**Punishment**
+Punishment
 
 A person convicted of pickpocket is liable to:
 
