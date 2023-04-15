@@ -2,6 +2,7 @@ collections:
   crime-preventive-advisories:
     output: true
     order:
+      - Individual/Outrage of Modesty.md
       - Individual/.keep
       - Individual/House Breaking.md
       - Individual/Robbery.md
