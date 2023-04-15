@@ -2,11 +2,11 @@ collections:
   crime-preventive-advisories:
     output: true
     order:
-      - Individual/Youth Crime.md
-      - Individual/Outrage of Modesty.md
       - Individual/.keep
       - Individual/House Breaking.md
       - Individual/Robbery.md
       - Individual/Snatch Thief.md
       - Individual/Pick Pocket.md
       - Individual/Shop Theft.md
+      - Individual/Outrage of Modesty.md
+      - Individual/Youth Crime.md
