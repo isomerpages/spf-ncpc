@@ -4,7 +4,7 @@ permalink: /robbery/
 description: ""
 third_nav_title: Individual
 ---
-**In Homes**
+In Homes
 
 How It Can Happen:
 
@@ -20,7 +20,7 @@ Preventive Measures:
 * Verify the identity of anyone who claims to be a public servant, door-to-door salesman or representative from other organisations. Call his organisation through the number obtained from your telephone directory. Do not rely on the number that he gives you.
 * Inform family members in advance if someone unknown is being sent to the house. Call the Police at "999" if in doubt.
 
-**In Lifts/Streets**
+In Lifts/Streets
 
 How It Can Happen:
 
@@ -46,7 +46,7 @@ Preventive Measures in the Lift:
 
 If you are confronted by a thief, stay calm and take note of his or her appearance, attire, height, or any other distinctive physical features if possible. Call the Police as soon as possible so that our officers can reach the location quickly to assist you.
 
-**Punishment**
+Punishment
 
 A person convicted of robbery is liable to:
 
