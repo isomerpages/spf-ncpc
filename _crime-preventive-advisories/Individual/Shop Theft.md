@@ -11,13 +11,16 @@ HOW IT CAN HAPPEN
 *   Culprits tend to try on items such as belts, clothes and accessories before concealing the items under their clothes or simply leaving without taking them off.
 *   Culprits tend to make payments only for some of the items in the shopping basket and the other items were taken without paying.
 
+<hr>
+
 PREVENTIVE MEASURES
 
 *   Retailers are encouraged to set up chat groups to facilitate quick exchange of crime information and retail best practices.
 *   Retailers are advised to install CCTVs around the shop front.
 *   Retailers are advised to place expensive items in locked-up display cabinets and/or near the cashier counters.
 
+<hr>
+
 PUNISHMENT
 
 * Fine and/or imprisonment up to 7 years.
-
