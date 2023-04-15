@@ -2,5 +2,6 @@ collections:
   crime-preventive-advisories:
     output: true
     order:
+      - Individual/ROBBERY.md
       - Individual/HOUSEBREAKING.md
       - Individual/.keep
