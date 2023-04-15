@@ -4,14 +4,14 @@ permalink: /snatchthief/
 description: ""
 third_nav_title: Individual
 ---
-**How it can happen**
+How it can happen
 
 *   Approaching victim on the pretext of striking up a conversation or seeking assistance.
 *   Snatching the handbag from behind the victim.
 *   Soiling victim’s clothing and offering to clean dirt stains on it.
 *   Telling victim that his money has dropped on the floor.
 
-**Preventive measures**
+Preventive measures
 
 * Avoid wearing lots of jewellery and carrying large sums of cash;
 * Carry your sling bag in front of you, or clasp it firmly under your arm;
@@ -20,7 +20,7 @@ third_nav_title: Individual
 * When returning home alone or late at night, arrange for a family member or trusted friend to escort you home; and
 * If you suspect that you are being followed, remain calm. Proceed to a crowded area or call the Police for assistance.
 
-**If you are taking the lift**
+If you are taking the lift
 
 * Avoid taking the lift with a stranger. Let the stranger take the lift and wait for the next one; and
 * When entering the lift alone, stay close to the lift button panel. Press “Door Open” and step out immediately when a stranger rushes in as the lift door is closing.
