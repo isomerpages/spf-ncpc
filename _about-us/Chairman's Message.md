@@ -3,7 +3,7 @@ title: Chairman's Message
 permalink: /chairman/
 description: ""
 ---
-#### <font style="color:#a20427;">Message from Chairman</font>
+#### <font style="color:#a20427;">MESSAGE FROM CHAIRMAN</font>
 
 ![](/images/About/header-border.png)
 
