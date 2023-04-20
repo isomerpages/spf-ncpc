@@ -3,6 +3,10 @@ title: Make Up of NCPC
 permalink: /makeupofncpc/
 description: ""
 ---
+#### <font style="color:#a20427;">Make up of NCPC</font>
+
+![](/images/About/header-border.png)
+
 The Council is made up of a Chairman, a Vice-chairman and 20 members appointed by the Minister for Home Affairs. All members of the Council serve as volunteers and are supported by a full-time secretariat.
 
 The Council's membership reflects Singapore's diversity. It includes individuals with varied and diverse experience in organisations such as :-
