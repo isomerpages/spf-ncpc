@@ -3,6 +3,10 @@ title: Our History
 permalink: /history/
 description: ""
 ---
+#### <font style="color:#a20427;">History of NCPC</font>
+
+![](/images/About/header-border.png)
+
 The setting up of a National Crime Prevention Council was first proposed by the Ministry of Home Affairs, in its Addendum to the Presidential Address to Parliament released on 9 Feb 1981. The proposed council would comprise influential representatives from the commercial, manufacturing, construction and insurance sectors, the security industry, the Police and the Ministry of Home Affairs. A main aim of the council was to increase public co-operation in the prevention of crimes.
 
 Hence, on 4 Jul 1981, the National Crime Prevention Council was inaugurated by the then Minister for Home Affairs, Mr Chua Sian Chin with the objectives of:
