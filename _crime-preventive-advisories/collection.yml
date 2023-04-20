@@ -2,6 +2,7 @@ collections:
   crime-preventive-advisories:
     output: true
     order:
+      - Individual/Senior Citizen.md
       - Individual/Taxi Driver.md
       - Individual/.keep
       - Individual/House Breaking.md
