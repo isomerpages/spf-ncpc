@@ -3,6 +3,10 @@ title: Chairman's Message
 permalink: /chairman/
 description: ""
 ---
+#### <font style="color:#a20427;">Message from Chairman</font>
+
+![](/images/About/header-border.png)
+
 The National Crime Prevention Council was established in 1981 to change mindsets and work in close partnership with the police and community to prevent crime. 2021 was a most significant year indeed, as we commemorated the Council’s 40th Anniversary and faced unprecedented challenges caused by the Covid-19 pandemic.
 
 As Singaporeans stayed at home and engaged in more online activities, criminals adapted quickly and launched waves after waves of scam ‘attacks’. As a result, there was a 52.9% jump in scam cases in 2021, lifting the total number of reported crimes to 46,196 cases, from 37,273 cases in 2020. If scams and cybercrimes were excluded, the total number of crimes in 2021 actually fell by 1% to 19,303 cases.
@@ -15,6 +19,5 @@ The role of the Council has evolved over the past four decades. The pervasivenes
 
 Happy 40th Anniversary, NCPC!
 
-**GERALD SINGHAM** , JP, BBM (L), PBM  
-Chairman  
-NCPC
+**GERALD SINGHAM**&nbsp;, JP, BBM (L), PBM  
+Chairman, NCPC
