@@ -4,7 +4,7 @@ permalink: /hotels/
 description: ""
 third_nav_title: Business
 ---
-How it can happen
+Introduction
 
 Hotel is a service industry. Good service includes security. A hotel with the best service but poor security would expose guests to crime risks and compromise reputation and goodwill. Singapore has an excellent reputation among tourists of being secure and safe. Hoteliers are responsible for the protection of property and well-being of their guests. We should not lower our guard against crime or be lulled into complacency that crime is under control.
 
