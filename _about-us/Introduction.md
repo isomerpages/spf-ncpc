@@ -3,7 +3,7 @@ title: Introduction
 permalink: /about/
 description: ""
 ---
-#### <font style="color:#a20427;">About NCPC</font>
+#### <font style="color:#a20427;">ABOUT NCPC</font>
 
 ![](/images/About/header-border.png)
 
