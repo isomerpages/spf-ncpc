@@ -3,7 +3,7 @@ title: Make Up of NCPC
 permalink: /makeupofncpc/
 description: ""
 ---
-#### <font style="color:#a20427;">Make up of NCPC</font>
+#### <font style="color:#a20427;">MAKE UP OF NCPC</font>
 
 ![](/images/About/header-border.png)
 
