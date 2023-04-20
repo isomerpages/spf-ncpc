@@ -4,7 +4,13 @@ permalink: /housebreaking/
 description: ""
 third_nav_title: Individual
 ---
-HOW IT CAN HAPPEN
+#### <font style="color:#a20427;">HOUSE BREAKING</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/housebreak.jpg)
+
+#### <font style="color:#a20427;">How it can happen</font>
 
 Don’t make burglars feel welcome. Secure your home. Burglars can find ways into your home by various methods:
 
@@ -16,7 +22,7 @@ Don’t make burglars feel welcome. Secure your home. Burglars can find ways int
 
 <hr>
 
-PREVENTIVE MEASURES
+#### <font style="color:#a20427;">Preventive measures</font>
 
 * Make sure that all doors, windows and other openings are properly secured with strong grilles and good quality close-shackled locks. Change the lock promptly if the key is lost or stolen; Do not leave large sums of cash in your premises. Jewelleries and valuable items should be kept in a bank or a good quality safe; Cancel all deliveries (for example newspapers, magazines) when on holiday or business closure, even if it is for a few days;
 * Install adequate CCTV systems or security alarms. Service them regularly and ensure that they are in good working condition;
@@ -32,7 +38,7 @@ If the premise is undergoing renovation
 
 <hr>
 
-PUNISHMENT
+#### <font style="color:#a20427;">Punishment</font>
 
 A person convicted of housebreaking and theft by day is liable to:
 
