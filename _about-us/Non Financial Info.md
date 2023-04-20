@@ -12,9 +12,13 @@ New Phoenix Park
 28 Irrawaddy Road  
 Singapore 329560
 
+<hr>
+
 #### **Contact Information**  
 Email Address:&nbsp;[enquiries@ncpc.org.sg](mailto:enquiries@ncpc.org.sg)  
 Facebook:&nbsp;[www.facebook.com/ncpc.sg](https://www.facebook.com/ncpc.sg)
+
+<hr>
 
 #### **Auditor**  
 Ernst &amp; Young LLP  
@@ -24,11 +28,15 @@ Singapore 048583
 Tel: (65) 6535 7777  
 Fax: (65) 6532 7662
 
+<hr>
+
 #### **Charity Status**  
 UEN: S81SS0085J  
 Charity Registration Date : 28 Nov 1984  
 Type of Entity: Society  
 Date of Establishment: 4 July 1981
+
+<hr>
 
 #### **IPC Status**  
 IPC No: IPC000420  
