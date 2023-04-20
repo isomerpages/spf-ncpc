@@ -2,8 +2,6 @@ collections:
   crime-preventive-advisories:
     output: true
     order:
-      - Individual/Senior Citizen.md
-      - Individual/Taxi Driver.md
       - Individual/.keep
       - Individual/House Breaking.md
       - Individual/Robbery.md
@@ -12,3 +10,5 @@ collections:
       - Individual/Shop Theft.md
       - Individual/Outrage of Modesty.md
       - Individual/Youth Crime.md
+      - Individual/Taxi Driver.md
+      - Individual/Senior Citizen.md
