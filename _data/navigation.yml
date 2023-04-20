@@ -2,7 +2,7 @@ logo: /images/logo-ncpc2.jpg
 links:
   - title: HOME
     url: /
-  - title: ABOUT US
+  - title: ABOUT NCPC
     url: "#"
     sublinks:
       - title: Introduction
@@ -61,11 +61,7 @@ links:
       - title: Crime Prevention Badge Test
         url: /cppb
   - title: SCAMSHIELD
-    url: scamshield
-    sublinks: []
-  - title: JOIN US
-    url: joinus
-    sublinks: []
+    url: /scamshield
   - title: DONATION
     url: "#"
     sublinks:
@@ -73,5 +69,7 @@ links:
         url: /sponsorship
       - title: Our Major Donors
         url: /sponsors
-  - title: Contact
+  - title: JOIN US
+    url: /joinus
+  - title: CONTACT
     url: /contact
