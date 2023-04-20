@@ -3,7 +3,7 @@ title: Our Vision and Mission
 permalink: /vision/
 description: ""
 ---
-#### <font style="color:#a20427;">Our Vision &amp; Mission</font>
+#### <font style="color:#a20427;">OUR VISION &amp; MISSION</font>
 
 ![](/images/About/header-border.png)
 
