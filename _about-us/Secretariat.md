@@ -3,7 +3,7 @@ title: Secretariat
 permalink: /secretariat/
 description: ""
 ---
-#### <font style="color:#a20427;">The Secretariat</font>
+#### <font style="color:#a20427;">THE SECRETARIAT</font>
 
 ![](/images/About/header-border.png)
 
