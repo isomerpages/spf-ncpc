@@ -2,6 +2,7 @@ collections:
   crime-preventive-advisories:
     output: true
     order:
+      - Business/Security in Hotels.md
       - Business/.keep
       - Individual/.keep
       - Individual/House Breaking.md
