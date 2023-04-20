@@ -3,6 +3,6 @@ title: Council Members
 permalink: /councilmembers/
 description: ""
 ---
-#### <font style="color:#a20427;">The Council</font>
+#### <font style="color:#a20427;">THE COUNCIL</font>
 
 ![](/images/About/header-border.png)
