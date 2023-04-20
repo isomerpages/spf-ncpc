@@ -20,7 +20,7 @@ Facilitate the Council by providing administrative and operation support to the 
 Updates on our events are posted on our website and Facebook page. You can like our facebook page to receive the latest crime prevention advisories and information on our crime prevention events, including Crime Watch.
 
 ##### <font style="color:#a20427;">In what ways can I contribute to help enhance crime prevention awareness within the community?</font>
-You can join us a Crime Prevention Ambassador (CPA) and please click here to sign up.
+You can join us a Crime Prevention Ambassador (CPA) and please click [here](/joinus) to sign up.
 
 ##### <font style="color:#a20427;">Who are the CPAs and what are their roles?</font>
 For more information, please visit the Home Team Volunteers website.
