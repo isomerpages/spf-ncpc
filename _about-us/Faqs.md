@@ -3,6 +3,9 @@ title: Faqs
 permalink: /faqs/
 description: ""
 ---
+#### <font style="color:#a20427;">Faqs</font>
+
+![](/images/About/header-border.png)
 
 <p><strong>Is the National Crime Prevention Council (NCPC) part of the Singapore Police Force?</strong><br>
 No, NCPC is a non-profit voluntary organisation. It is incorporated as a charity and registered as a society with the Registry of Societies.</p>
