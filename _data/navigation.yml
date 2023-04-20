@@ -61,15 +61,11 @@ links:
       - title: Crime Prevention Badge Test
         url: /cppb
   - title: SCAMSHIELD
-    url: "#"
-    sublinks:
-      - title: About ScamShield
-        url: /aboutscamshield
+    url: scamshield
+    sublinks: []
   - title: JOIN US
-    url: "#"
-    sublinks:
-      - title: Crime Prevention Ambassadors
-        url: /cpas
+    url: joinus
+    sublinks: []
   - title: DONATION
     url: "#"
     sublinks:
