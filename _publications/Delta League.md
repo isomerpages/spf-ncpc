@@ -3,12 +3,12 @@ title: Delta League
 permalink: /delta-league-book/
 description: ""
 ---
-#### <font style="color:#a20427;">DELTA LEAGUE</font>
+#### <font style="color:#a20427;">ABOUT DELTA LEAGUE</font>
 
 ![](/images/About/header-border.png)
 
 
-##### <font style="color:#a20427;">ABOUT DELTA LEAGUE</font>
+##### <font style="color:#a20427;">BACKGROUND OF DELTA LEAGUE</font>
 
 The Delta League is a youth outreach and engagement programme jointly organized by the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC) during the June and December school holidays to keep the youths meaningfully occupied through football, raise their crime prevention awareness and the consequence of being involved in crime. Next year, we are celebrating the 10th Anniversary of Delta League.
 
