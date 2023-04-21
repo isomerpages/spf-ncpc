@@ -4,7 +4,13 @@ permalink: /outragemodesty/
 description: ""
 third_nav_title: Individual
 ---
-HOW IT CAN HAPPEN
+#### <font style="color:#a20427;">OUTRAGE OF MODESTY</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/omodesty.jpg)
+
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN</font>
 
 *   At lifts, corridors, dark and quiet places.
 *   On public transport, e.g. buses, MRT trains, etc.
@@ -12,9 +18,9 @@ HOW IT CAN HAPPEN
 
 <hr>
 
-PREVENTIVE MEASURES
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
-Preventive Measures
+**Preventive Measures**
 
 *   Be aware of your surroundings and stay alert to any suspicious person(s);
 *   Avoid walking through dimly lit, quiet and secluded places;
@@ -22,21 +28,21 @@ Preventive Measures
 *   If you suspect that you are being followed, remain calm. Proceed to a crowded area or call the Police for assistance.
 
 
-If you are taking the lift
+**If you are taking the lift**
 
 *   Whenever possible, avoid taking the lift with suspicious person(s),if alone; and
 *   When entering the lift alone, stay close to the lift button panel. Press "Door Open" and step out immediately when a suspicious person(s) rushes in as the lift door is closing.
 *   Carry along with you a shrill alarm
 
  
-If you are taking the public transport
+**If you are taking the public transport**
 
 *   Be alert and attentive to your surroundings. When possible, move away if someone stands or sits exceptionally close to you;
 *   If you are molested, call for help immediately by shouting, seek help from people nearby or activate a shrill alarm to increase the chances of apprehending the culprit early. Call ‘999’ as soon as possible; and
 *   Approach the station manager or contact Police for assistance if you see any suspicious looking passenger.
 
  
-For young children
+**For young children**
 
 *   Young children should be accompanied home at all times. Ensure that your young ones do not wander in public places alone without adult supervision; and
 *   Remind your young ones not to talk to strangers.
@@ -45,7 +51,7 @@ If you are confronted by a molester, stay calm and take note of his/her appearan
 
 <hr>
 
-PUNISHMENT
+##### <font style="color:#a20427;">PUNISHMENT</font>
 
 A person convicted of outrage of modesty is liable to:
 
