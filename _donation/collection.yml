@@ -2,5 +2,5 @@ collections:
   donation:
     output: true
     order:
-      - Our Major Donors.md
       - How to Donate.md
+      - Our Major Donors.md
