@@ -1,4 +1,5 @@
 collections:
   donation:
     output: true
-    order: []
+    order:
+      - How to Donate.md
