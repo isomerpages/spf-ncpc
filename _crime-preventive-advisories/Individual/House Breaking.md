@@ -10,7 +10,7 @@ third_nav_title: Individual
 
 ![](/images/Crime/housebreak.jpg)
 
-##### <font style="color:#a20427;">How IT CAN HAPPEN</font>
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN</font>
 
 Don’t make burglars feel welcome. Secure your home. Burglars can find ways into your home by various methods:
 
