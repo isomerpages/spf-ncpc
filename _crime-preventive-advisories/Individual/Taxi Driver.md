@@ -4,7 +4,13 @@ permalink: /taxirobbery/
 description: ""
 third_nav_title: Individual
 ---
-How it can happen
+#### <font style="color:#a20427;">TAXI DRIVER</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/taxi-robbery.jpg)
+
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN</font>
 
 The low taxi crime rate in Singapore speaks for the close rapport and cooperation between the Police and the taxi drivers. With the large number of taxis in Singapore, taxi drivers help the Police by using their radio sets to report crime occurrences / traffic accidents on our roads through their operators to the Police.
 
@@ -14,7 +20,7 @@ Taxi drivers are not allowed to choose their passengers, they could be vulnerabl
 
 <hr>
 
-Preventive measures
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
 **Minimise Your Risk Against Robbery**
 
@@ -53,7 +59,7 @@ Preventive measures
 
 <hr>
 
-At the scene of an accident
+##### <font style="color:#a20427;">AT THE SCENE OF THE ACCIDENT</font>
 
 **What you should do if you are involved in an accident.**
 
@@ -90,3 +96,5 @@ At the scene of an accident
     *   At least one person involved in the accident was taken to hospital from the accident scene by an ambulance; or
     *   The injured was conveyed to hospital using other transport but is subsequently hospitalized or given outpatient medical leave of 3 days or more; or
     *   No one was conveyed from accident scene to a hospital, but one or more persons involved subsequently required hospitalization or outpatient medical leave of 3 days or more.
+
+##### <font style="color:#a20427;">Download Taxi Handbook</font>
