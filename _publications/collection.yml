@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Delta League.md
       - Making Singapore Safe.md
       - Taxi Driver Handbook.md
       - ICPC 2011 EBOOK.md
