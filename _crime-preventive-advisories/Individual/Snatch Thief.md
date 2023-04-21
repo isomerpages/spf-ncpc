@@ -4,7 +4,13 @@ permalink: /snatchthief/
 description: ""
 third_nav_title: Individual
 ---
-HOW IT CAN HAPPEN
+#### <font style="color:#a20427;">SNATCH THIEF</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/snatchtheft.jpg)
+
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN</font>
 
 *   Approaching victim on the pretext of striking up a conversation or seeking assistance.
 *   Snatching the handbag from behind the victim.
@@ -13,7 +19,7 @@ HOW IT CAN HAPPEN
 
 <hr>
 
-PREVENTIVE MEASURES
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
 * Avoid wearing lots of jewellery and carrying large sums of cash;
 * Carry your sling bag in front of you, or clasp it firmly under your arm;
@@ -24,7 +30,7 @@ PREVENTIVE MEASURES
 
 <hr>
 
-IF YOU ARE TAKING THE LIFT
+##### <font style="color:#a20427;">IF YOU ARE TAKING THE LIFT</font>
 
 * Avoid taking the lift with a stranger. Let the stranger take the lift and wait for the next one; and
 * When entering the lift alone, stay close to the lift button panel. Press “Door Open” and step out immediately when a stranger rushes in as the lift door is closing.
