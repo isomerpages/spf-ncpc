@@ -10,7 +10,7 @@ description: ""
 
 ##### <font style="color:#a20427;">BACKGROUND OF DELTA LEAGUE</font>
 
-The Delta League is a youth outreach and engagement programme jointly organized by the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC) during the June and December school holidays to keep the youths meaningfully occupied through football, raise their crime prevention awareness and the consequence of being involved in crime. Next year, we are celebrating the 10th Anniversary of Delta League.
+The Delta League is a youth outreach and engagement programme jointly organized by the [Background of Delta League](https://www.spf.gov.sg) and the [National Crime Prevention Council (NCPC)](https://www.ncpc.org.sg) during the June and December school holidays to keep the youths meaningfully occupied through football, raise their crime prevention awareness and the consequence of being involved in crime. Next year, we are celebrating the 10th Anniversary of Delta League.
 
 Delta League is truly unique as it is not just a sports tournament. Using football as the key platform of engagement, Delta League draws the youths into a series of self-improvement and crime awareness activities. Beyond the football matches, the youths are given opportunity to interact with Police officers and life coaches, as well as to take part in satellite community and crime prevention activities. The youths will also learn about crime prevention and the consequences of crime and can showcase their creativity and design skills by designing crime prevention materials.
 
