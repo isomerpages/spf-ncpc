@@ -4,7 +4,13 @@ permalink: /seniorcrime/
 description: ""
 third_nav_title: Individual
 ---
-How it can happen
+#### <font style="color:#a20427;">SENIOR CITIZEN</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/senior_citizen.jpg)
+
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN</font>
 
 **Live Your Golden Years with Crime Prevention**
 
@@ -14,7 +20,7 @@ Please click onto the following&nbsp;[video (English)](https://www.ncpc.org.sg/s
 
 <hr>
 
-Preventive measures
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
 **Staying indoors**
 
@@ -34,7 +40,7 @@ Preventive measures
 **Staying Outdoors**
 
 *   Walk in pairs or group and only in well-lit areas.
-*   Always sling your handbag infront of you or hold it under your arm and walk facing oncoming traffic to prevent it being snatched.
+*   Always sling your handbag in front of you or hold it under your arm and walk facing oncoming traffic to prevent it being snatched.
 *   Carrying a personal alarm for extra protection.
 *   Be aware of your surroundings and avoid areas that increase your chances of being assaulted.
 *   Never flaunt your wealth such as watches and jewellery in public as this might draw attention to theft. Keep valuable especially jewellery out of sight.
@@ -48,7 +54,7 @@ Preventive measures
 
 <hr>
 
-Conclusion
+##### <font style="color:#a20427;">CONCLUSION</font>
 
 If crime appears uninvited to you, it is vital that you should not fight back as you can easily sustain serious injuries, even death, in resisting. Remain calm and try to memorise the assailant's appearance. Call the police immediately once you are safe to do so.
 
