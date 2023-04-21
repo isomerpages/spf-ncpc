@@ -4,16 +4,22 @@ permalink: /robbery/
 description: ""
 third_nav_title: Individual
 ---
-IN HOMES
+#### <font style="color:#a20427;">ROBBERY</font>
 
-HOW IT CAN HAPPEN
+![](/images/About/header-border.png)
+
+![](/images/Crime/robbery.jpg)
+
+##### <font style="color:#a20427;">IN HOMES</font>
+
+**HOW IT CAN HAPPEN**
 
 * Entering or forcing through unsecured doors or other entrances.
 * Waiting for the victim to enter or leave the premises and then forcing his way in together with the victim.
 * Impersonating as a public servant or door-to-door salesman.
 * Entering the premises on the pretext of delivering goods or hampers, using the toilet or telephone, and viewing the premises in response to a newspaper advertisement for rental or sale.
 
-PREVENTIVE MEASURES
+**PREVENTIVE MEASURES**
 
 * Padlock the grille gates so that the culprit cannot rush or force his way in when the door is opened. Always deal with strangers through a locked grille gate.
 * Never open doors to strangers. Use the door viewer to have a good look at the stranger. Talk to the stranger with a chain latch/door limiter fastened if it is available.
@@ -22,9 +28,9 @@ PREVENTIVE MEASURES
 
 <hr>
 
-IN LIFTS/STREETS
+##### <font style="color:#a20427;">IN LIFTS/STREETS</font>
 
-HOW IT CAN HAPPEN
+**HOW IT CAN HAPPEN**
 
 * Loitering at lift landings or void decks to ambush the victim while he or she is waiting to take the lift.
 * Entering the lift as the lift door is closing and robbing the victim when he or she is confined in it.
@@ -33,7 +39,7 @@ HOW IT CAN HAPPEN
 * Using the pretext of asking for road directions, time, assistance, and taking the opportunity to rob you.
 * Directing your attention to stains or dirt (such as ketchup or ice-cream stains) on your clothes and taking the opportunity to rob you.
 
-PREVENTIVE MEASURES IN THE STREET
+**PREVENTIVE MEASURES IN THE STREET**
 
 * Avoid wearing lots of jewellery and carrying large sums of cash;
 * Do not show your cash or valuables in public;
@@ -41,7 +47,7 @@ PREVENTIVE MEASURES IN THE STREET
 * Carry a shrill alarm to sound for help;\When returning home alone or late at night, arrange for a family member or trusted friend to escort you home; and
 * If you suspect that you are being followed, remain calm. Proceed to a crowded area or call the Police for assistance.
 
-PREVENTIVE MEASURES IN THE LIFT
+**PREVENTIVE MEASURES IN THE LIFT**
 
 * Avoid taking the lift with a stranger. Let the stranger take the lift and wait for the next one; and
 * When entering the lift alone, stay close to the lift button panel. Press “Door Open” and step out immediately when a stranger rushes in as the lift door is closing.
@@ -50,7 +56,7 @@ If you are confronted by a thief, stay calm and take note of his or her appearan
 
 <hr>
 
-PUNISHMENT
+##### <font style="color:#a20427;">PUNISHMENT</font>
 
 A person convicted of robbery is liable to:
 
