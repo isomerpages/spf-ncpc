@@ -2,5 +2,6 @@ collections:
   publications:
     output: true
     order:
+      - ICPC 2011 EBOOK.md
       - CPTED Guidebook.md
       - Crime Prevention Test.md
