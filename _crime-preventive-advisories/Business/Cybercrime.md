@@ -4,7 +4,13 @@ permalink: /cybercrime/
 description: ""
 third_nav_title: Business
 ---
-Introduction
+#### <font style="color:#a20427;">CYBERCRIME</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/cybercrime.jpg)
+
+##### <font style="color:#a20427;">INTRODUCTION</font>
 
 **What is Cybercrime?**  
 
@@ -18,7 +24,7 @@ Cybercrime are criminal acts related to the use of computers such as:
 
 <hr>
 
-Preventive measures
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
 **Preventive Measures**
 
