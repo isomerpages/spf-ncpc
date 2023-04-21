@@ -4,7 +4,13 @@ permalink: /internetsafety/
 description: ""
 third_nav_title: Business
 ---
-Introduction
+#### <font style="color:#a20427;">INTERNET SAFETY</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/internetsafety.jpg)
+
+##### <font style="color:#a20427;">INTRODUCTION</font>
 
 There are some people waiting for opportunities to harm or take advantage of children. Don't give them that chance!
 
@@ -12,7 +18,7 @@ Here are some tips on how to use the Internet safely. Keep them by your computer
 
 <hr>
 
-Dos
+##### <font style="color:#a20427;">DOS</font>
 
 *   Use the internet to gain information for school projects, to upgrade your knowledge &amp; learn about new things like sciences, sports and hobbies, etc.
 *   Check your computer system regularly to make sure that no foreign programmes or file have been installed in them.
@@ -24,7 +30,7 @@ Dos
 
 <hr>
 
-Donts
+##### <font style="color:#a20427;">DONTS</font>
 
 *   Don't reveal personal information about you or your family, or exchange personal photos with strangers.
 *   Don't enter chat rooms unless you have obtained permission from your parents or guardian.
@@ -36,4 +42,3 @@ Donts
 *   Don't experiment with hacking tools.
 *   Don't try to gain access to other person's computer unless you have obtained permission
 *   Please contact the Police if you have any information on cybercrime. Together, we can prevent crime.
-
