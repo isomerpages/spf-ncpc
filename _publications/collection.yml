@@ -2,4 +2,5 @@ collections:
   publications:
     output: true
     order:
+      - CPTED Guidebook.md
       - Crime Prevention Test.md
