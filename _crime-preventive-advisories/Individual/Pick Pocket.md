@@ -4,9 +4,15 @@ permalink: /pickpocket/
 description: ""
 third_nav_title: Individual
 ---
-HOW IT CAN HAPPEN
+#### <font style="color:#a20427;">PICKPOCKET</font>
 
-Heard of trade secrets?
+![](/images/About/header-border.png)
+
+![](/images/Crime/pickpocket.jpg)
+
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN</font>
+
+**Heard of trade secrets?**
 
 * Businesses, companies and organisations have them. Well, so do pickpockets! Here are some of their secrets and police advice on how to avoid becoming a victim. Pickpockets target at people in crowds who carry cash in public.
 * Do not display excessive cash in the public as this might draw unnecessary attention, instead use NETS &amp; ATM cards for cashless transactions where possible.
@@ -17,20 +23,20 @@ Heard of trade secrets?
 
 <hr>
 
-PREVENTIVE MEASURES
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
-Precautions for women
+**Precautions for women**
 
 * They look out for ladies with handbags especially handbags carried with clasps facing outwards.
 * Ladies, carry your bag tightly under your arm and always keep it properly fastened. Sling your handbag in front of you so that you can keep an eye on it.
 * Never leave your handbag in a shopping basket or trolley.
 
-Precautions for men
+**Precautions for men**
 * They prefer men who keep wallets in the rear trousers or chest pockets. So men, keep your wallet in your side trousers pocket.
 
 <hr>
 
-PUNISHMENT
+##### <font style="color:#a20427;">PUNISHMENT</font>
 
 A person convicted of pickpocket is liable to:
 
