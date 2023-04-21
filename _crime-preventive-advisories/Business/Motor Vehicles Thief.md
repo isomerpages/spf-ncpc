@@ -4,7 +4,13 @@ permalink: /motortheft/
 description: ""
 third_nav_title: Business
 ---
-How it can happen
+#### <font style="color:#a20427;">MOTOR VEHICLES THIEF</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/vehicle.jpg)
+
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN</font>
 *   Tampering with the doors and windows of the car.
 *   Tampering with the keyhole.
 *   Smashing the windows or windscreen.
@@ -13,7 +19,7 @@ How it can happen
 
 <hr>
 
-Preventive measures
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
 *   Park in well-lit areas;
 *   Install an anti-theft system;
@@ -38,7 +44,7 @@ The following devices are recommended to enhance the security of your vehicle:
 
 <hr>
 
-Punishment
+##### <font style="color:#a20427;">PUNISHMENT</font>
 
 **A person convicted of motor vehicle theft is liable to:**
 
