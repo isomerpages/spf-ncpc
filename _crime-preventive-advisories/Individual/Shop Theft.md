@@ -4,7 +4,13 @@ permalink: /shoptheft/
 description: ""
 third_nav_title: Individual
 ---
-HOW IT CAN HAPPEN 
+#### <font style="color:#a20427;">SHOP THEFT</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/shoptheft.jpg)
+
+##### <font style="color:#a20427;">HOW IT CAN HAPPEN </font>
 
 *   Items were usually stolen by culprits when no one was looking at them.
 *   Culprits either operate alone or in groups of two to three persons with one subject distracting the staff while the remaining person(s) steal items on display.
@@ -13,7 +19,7 @@ HOW IT CAN HAPPEN
 
 <hr>
 
-PREVENTIVE MEASURES
+##### <font style="color:#a20427;">PREVENTIVE MEASURES</font>
 
 *   Retailers are encouraged to set up chat groups to facilitate quick exchange of crime information and retail best practices.
 *   Retailers are advised to install CCTVs around the shop front.
@@ -21,6 +27,6 @@ PREVENTIVE MEASURES
 
 <hr>
 
-PUNISHMENT
+##### <font style="color:#a20427;">PUNISHMENT</font>
 
 * Fine and/or imprisonment up to 7 years.
