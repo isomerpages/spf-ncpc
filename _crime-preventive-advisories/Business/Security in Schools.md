@@ -4,7 +4,13 @@ permalink: /schools/
 description: ""
 third_nav_title: Business
 ---
-Introduction
+#### <font style="color:#a20427;">SECURRITY IN SCHOOLS</font>
+
+![](/images/About/header-border.png)
+
+![](/images/Crime/school.jpg)
+
+##### <font style="color:#a20427;">INTRODUCTION</font>
 
 Security in schools is crucial to the education and safety of our children. It can be enhanced with a little effort by everyone and by following some simple procedures.
 
@@ -14,7 +20,7 @@ Every effort counts. So let's do our part and keep out crime and fire.
 
 <hr><hr>
 
-Security measures
+##### <font style="color:#a20427;">SECURITY MEASURES</font>
 
 **Perimeter Fencing**
 
