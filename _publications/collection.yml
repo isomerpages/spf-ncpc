@@ -2,8 +2,8 @@ collections:
   publications:
     output: true
     order:
-      - Annual Reports.md
       - Media Releases.md
+      - Annual Reports.md
       - Anti illegal Betting.md
       - Delta League.md
       - Making Singapore Safe.md
