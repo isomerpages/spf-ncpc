@@ -22,6 +22,18 @@ Through this test, students will learn the importance of crime prevention and th
 
 **Activities**
 
-1. Read the Crime Prevention Proficiency Handbook
-2. Complete the theory and practical tests below
-3. Download and fill in the score card
+* Read the Crime Prevention Proficiency Handbook
+* Complete the theory and practical tests [here](https://testmoz.com/6465948)
+* Download and fill in the score card
+
+![](/images/Publications/badge-test-9yrs.JPG)
+
+##### <font style="color:#a20427;">Crime Prevention Proficiency Badge Test for 13 - 18 years old</font>
+
+**Activities**
+
+* Read the Crime Prevention Proficiency Handbook
+* Complete the theory and practical tests [here](https://testmoz.com/6576960)
+* Download and fill in the score card
+
+![](/images/Publications/badge-test-13yrs.JPG)
