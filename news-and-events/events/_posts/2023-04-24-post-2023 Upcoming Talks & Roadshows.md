@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### <font style="color:#a20427;">ROADSHOWS &amp; TALKS</font>
+#### <font style="color:#a20427;">TALKS and ROADSHOWS</font>
 
 ![](/images/About/header-border.png)
 
