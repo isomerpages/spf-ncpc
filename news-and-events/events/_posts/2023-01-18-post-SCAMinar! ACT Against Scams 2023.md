@@ -10,7 +10,7 @@ image: ""
 
 ![](/images/About/header-border.png)
 
-![](/images/scaminar-1.jpg)
+![](/images/Events/scaminar-1.jpg)
 
 NCPC collaborated with the Home Team Behavioural Sciences Centre, Ministry of Home Affairs and the Police to organise SCAMinar! ACT Against Scams 2023 event on 18 Jan 2023. The seminar, graced by Minister of State, Ministry of Home Affairs &amp; Ministry of Social and Family Development, Ms Sun Xueling, equipped attendees with various scam prevention tips and information. Two panel discussions were also held to discuss the impact of scams in Singapore and the various scam prevention initiatives rolled out by organisations.
 
