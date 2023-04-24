@@ -46,7 +46,7 @@ Below are the events that are happening:
 | 4 Mar  | 0930:1130hrs | Crime Prevention Talk| HDB Hub, B2 Auditorium|
 | 3 Mar  | 1130:1230hrs | Crime Prevention Talk| 1 Engku Aman Road, #03-04|
 
-##### <font style="color:#a20427;">Feb  2023</font>
+##### <font style="color:#a20427;">Feb 2023</font>
 
 | Date | Time | Venue | Event |
 | -------- | -------- | -------- |-------- |
@@ -55,3 +55,13 @@ Below are the events that are happening:
 | 8 Feb | 1500:1600hrs| Crime Prevention Exhibition| Blk 318, Ang Mo Kio|
 | 4 Feb | 1100:1300hrs | Crime Prevention Talk|  Agency for Integrated Care (AIC), Lengkee CC|
 | 3 Feb  | 1400:1700hrs | Crime Prevention Training| MBFC. Marina Boulevard|
+
+##### <font style="color:#a20427;">Jan 2023</font>
+
+| Date | Time | Venue | Event |
+| -------- | -------- | -------- |-------- |
+| 26 Jan | 1030:1130hrs | Crime Prevention Talk| Bedok North NPC|
+| 13 Jan | 1400:1500hrs | Crime Prevention Talk| Bedok North NPC|
+| 13 Jan | 1000:1100hrs | Crime Prevention Talk - Virtual| AAS|
+| 10 Jan | 1400:1700hrs | Crime Prevention Talk (2 sessions)|  SAF Sembawang Camp|
+| 6 Jan | 1000:1`00hrs | Crime Prevention Talk - Virtual| Henry Park Primary School Brownies|
