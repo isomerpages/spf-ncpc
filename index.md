@@ -39,9 +39,9 @@ sections:
       url: /outrageofmodesty
       image: /images/Home/outrage-of-modesty.jpg
   - resources:
-      title: Upcoming Events
+      title: News & Events
       subtitle: Join & Engage with us
-      button: More Events
+      button: View More
   - infobar:
       title: The New Job
       subtitle: Latest Video
