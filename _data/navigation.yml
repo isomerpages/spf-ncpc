@@ -36,9 +36,9 @@ links:
       - title: Media Releases
         url: /media
       - title: Upcoming Events
-        url: /upcomingevents
+        url: /news-and-events/events/2023/
       - title: Past Events
-        url: /pastevents
+        url: news-and-events
   - title: PUBLICATIONS
     url: "#"
     sublinks:
