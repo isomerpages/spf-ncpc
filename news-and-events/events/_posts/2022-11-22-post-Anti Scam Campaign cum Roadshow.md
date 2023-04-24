@@ -10,7 +10,7 @@ image: ""
 
 ![](/images/About/header-border.png)
 
-![](/images/crime-prevention-roadshow.jpg)
+![](/images/Events/crime-prevention-roadshow.jpg)
 
 NCPC held its annual Year-End Crime Prevention roadshow at J Canopy on 22 November 2022. Besides having various fun-filled activities to educate participants on crime prevention, an award ceremony was also held to give recognition to 12 teams from various Grassroots Organisations (GROs) who participated in the “Anti-Scam Challenge Shield” organised by Queenstown Neighbourhood Police Centre.
 
