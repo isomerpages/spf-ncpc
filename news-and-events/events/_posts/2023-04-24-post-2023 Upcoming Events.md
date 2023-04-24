@@ -41,7 +41,7 @@ Below are the events that are happening:
 | 23 Mar | 1430:1530hrs| Crime Prevention Talk via Zoom| Elias Park Primary School. Cub Scouts|
 | 18 Mar | 0830:1130hrs | Crime Prevention Exhibition|  Yew Tee CC|
 | 12 Mar  | 1000:1200hrs | Crime Prevention Talk| HDB Hub, B2 Auditorium|
-| 11 Mar  | 1100:1130hrs | Crime Prevention Talk| Furama City Centre,60 Eu Tong Sen Street|
+| 11 Mar  | 1100:1130hrs | Crime Prevention Talk| Furama City Centre|
 | 8 Mar  | 1100:1130hrs | Crime Prevention Talk| MBS Ballroom|
 | 4 Mar  | 0930:1130hrs | Crime Prevention Talk| HDB Hub, B2 Auditorium|
 | 3 Mar  | 1130:1230hrs | Crime Prevention Talk| 1 Engku Aman Road, #03-04|
