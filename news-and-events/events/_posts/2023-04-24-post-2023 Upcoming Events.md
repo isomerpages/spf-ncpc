@@ -18,7 +18,7 @@ Below are the events that are happening:
 | -------- | -------- | -------- |-------- |
 | 19 May | 1000:1200hrs | Crime Prevention Talk via Zoom| Seng Kang Primary School Brownies|
 | 18 May | 1000:1230hrs | Crime Prevention Talk| CDAC @ Tampines Blk 158, Tampines St 12|
-| 14 May | 0830:1130hrs| Crime Prevention Exhibition| Block 690 Choa Chua Kang Crescent MPH Yew Tee Zone 9 RN|
+| 14 May | 0830:1130hrs| Crime Prevention Exhibition| Blk 690 Choa Chua Kang Crescent MPH Yew Tee Zone 9 RN|
 | 12 May | 1000:1200hrs | Crime Prevention Talk| Blk 505, Choa Chu Kang St 52, Limbang Green RN|
 | 9 May  | 1400:1530hrs | Crime Prevention Talk| Blk 145 Yishun|
 
@@ -26,7 +26,7 @@ Below are the events that are happening:
 
 | Date | Time | Venue | Event |
 | -------- | -------- | -------- |-------- |
-| 29 Apr | 1000:1130hrs | Crime Prevention Talk| HPB Auditorium 3,Second Hospital Avenue (168937)|
+| 29 Apr | 1000:1130hrs | Crime Prevention Talk| HPB Auditorium 3,Second Hospital Avenue|
 | 21 Apr | 1100:1200hrs | Crime Prevention Talk| Blk 18 Ghim Moh Rd #01-115 Singapore 270018|
 | 16 Apr | 1600:1830hrs| Crime Prevention Talk| Blk 334 Sembawang Close|
 | 9 Apr | 1000:1100hrs | Crime Prevention Talk| Blk 15, Upper Boon Keng Road|
