@@ -22,9 +22,9 @@ Through this test, students will learn the importance of crime prevention and th
 
 **Activities**
 
-* Read the Crime Prevention Proficiency Handbook
+* Read the [Crime Prevention Proficiency Handbook](https://appdev.ifdemo.com/ncpcorgsg/images/media/NCPC_24March.pdf)
 * Complete the theory and practical tests [here](https://testmoz.com/6465948)
-* Download and fill in the score card
+* [Download](https://appdev.ifdemo.com/ncpcorgsg/downloads/Score_Card_13-18_2.pdf) and fill in the score card
 
 ![](/images/Publications/badge-test-9yrs.JPG)
 
@@ -32,8 +32,8 @@ Through this test, students will learn the importance of crime prevention and th
 
 **Activities**
 
-* Read the Crime Prevention Proficiency Handbook
+* Read the [Crime Prevention Proficiency Handbook](https://appdev.ifdemo.com/ncpcorgsg/images/media/NCPC_24March.pdf)
 * Complete the theory and practical tests [here](https://testmoz.com/6576960)
-* Download and fill in the score card
+* [Download](https://appdev.ifdemo.com/ncpcorgsg/downloads/Score_Card_13-18_2.pdf) and fill in the score card
 
 ![](/images/Publications/badge-test-13yrs.JPG)
