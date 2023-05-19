@@ -14,4 +14,4 @@ The purpose of this guidebook is to raise awareness of homeowners, developers, a
 
 Notwithstanding the relevance and usefulness of CPTED, the recommendations in this guidebook may not be compatible with the requirements, standards and codes of various relevant authorities. In such situations, the demands of the authorities will take precedence over the recommendations in this guidebook.
 
-Please click&nbsp;here&nbsp;to download a copy of the CPTED Guidebook.
+Please click&nbsp;[here](https://appdev.ifdemo.com/ncpcorgsg/images/media/CPTED.pdf)&nbsp;to download a copy of the CPTED Guidebook.
