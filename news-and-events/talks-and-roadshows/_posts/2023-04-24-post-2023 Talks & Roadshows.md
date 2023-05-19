@@ -16,15 +16,15 @@ Below are the events that are happening:
 
 | Date | Time | Venue | Event |
 | -------- | -------- | -------- |-------- |
-| 28 Jun | 1100:1200hrs | Crime Prevention Talk | Blk 344 Clementi Ave 5 #01-132 <br>Singapore 120344|
-| 25 Jun | 0900:1900hrs | Crime Prevention Exhibition cum skit | Toa Payoh Hub|
-| 24 Jun | 0900:1900hrs | Crime Prevention Exhibition cum skit | Toa Payoh Hub|
-| 18 Jun | 0900:1900hrs | Crime Prevention Exhibition cum skit | Punggol Waterway Shopping Centre|
-| 17 Jun | 0900:1900hrs | Crime Prevention Exhibition cum skit | Punggol Waterway Shopping Centre|
-| 15 Jun | 1100:1300hrs | Crime Prevention Talk| 14, International Business Park (IBP) S(609922)|
+| 28 Jun | 1100:1200hrs | Crime Prevention Talk | Blk 344 Clementi Ave 5 <br>#01-132 <br>Singapore 120344|
+| 25 Jun | 0900:1900hrs | Crime Prevention <br>Exhibition cum skit | Toa Payoh Hub|
+| 24 Jun | 0900:1900hrs | Crime Prevention<br> Exhibition cum skit | Toa Payoh Hub|
+| 18 Jun | 0900:1900hrs | Crime Prevention <br>Exhibition cum skit | Punggol Waterway <br>Shopping Centre|
+| 17 Jun | 0900:1900hrs | Crime Prevention <br>Exhibition cum skit | Punggol Waterway <br>Shopping Centre|
+| 15 Jun | 1100:1300hrs | Crime Prevention Talk| 14, International Business Park <br>S(609922)|
 | 13 Jun | 1500:1700hrs| Crime Prevention Talk| LINKED for SMU students|
 | 13 Jun | 1100:1200hrs | Crime Prevention Talk| Blk 32 Bendeemer Road|
-| 4 Jun  | 1100:1200hrs | Crime Prevention Exhibition| Jurong Central R N Zone A|
+| 4 Jun  | 1100:1200hrs | Crime Prevention <br>Exhibition| Jurong Central R N Zone A|
 
 ##### <font style="color:#a20427;">May 2023</font>
 
