@@ -25,9 +25,9 @@ sections:
   - infobar:
       title: About NCPC
       subtitle: Introduction
-      description: "NCPC is an organisation committed to promoting public awareness of
+      description: NCPC is an organisation committed to promoting public awareness of
         and concern about crime and to propagate the concept of self-help in
-        crime prevention. "
+        crime prevention.
       button: Learn more
       url: about
   - infopic:
@@ -49,7 +49,7 @@ sections:
         src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen></iframe>
+        picture-in-picture; web-share" allowfullscreen=""></iframe>
       button: More Video
       url: https://www.youtube.com/@nationalcrimepreventioncou9791
   - infopic:
@@ -63,11 +63,11 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infopic:
       title: Crimewatch 2023
-      subtitle: Episode 1
+      subtitle: Episode 2
       description: Watch how officers from the Criminal Investigation Department work
         their way up the chain to cripple an unlicensed moneylending syndicate!
       button: Watch now
-      url: https://www.mewatch.sg/watch/Crimewatch-2023-E1-Loanshark-Network-362269
+      url: https://www.youtube.com/watch?v=PsgBwyNzQ6w&ab_channel=Entertainment-Mediacorp
       image: /images/Home/img-21-crime-watch.png
       alt: Image alt text
 ---
