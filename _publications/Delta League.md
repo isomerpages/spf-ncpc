@@ -30,4 +30,4 @@ The Delta League, introduced in June 2011 by the Singapore Police Force, has hel
 
 This book chronicles how the League began, and how it rapidly expanded over its first two years, and the strong partnership between the Singapore Police Force and the National Crime Prevention Council. Through the twice-yearly football tournament as well as specially designed programmes – including mentoring, community-involvement activities and even free tattoo-removal services – the League helps youths realise that they can do more with their lives.
 
-Please click here to download a copy of the Delta League Book.
+Please click [here](https://appdev.ifdemo.com/ncpcorgsg/images/media/Delta-League.pdf) to download a copy of the Delta League Book.
