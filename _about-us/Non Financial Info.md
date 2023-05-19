@@ -40,4 +40,4 @@ Date of Establishment: 4 July 1981
 
 ##### <font style="color:#a20427;">IPC Status </font>
 IPC No: IPC000420  
-IPC Period: 28 May 2020 to 27 May 2023
+IPC Period: 28 May 2023 to 27 May 2026
