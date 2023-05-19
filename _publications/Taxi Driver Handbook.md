@@ -11,5 +11,4 @@ The Taxi Driver's Handbook was a joint collaboration between the National Crime 
 
 A total of 50,000 handbooks were produced and distributed to taxi drivers to educate them on crime prevention and road safety.
 
-Please click here to download a copy of the Taxi Driver's Handbook.
-
+Please click [here](https://appdev.ifdemo.com/ncpcorgsg/images/media/Taxi-Driver-Handbook.pdf) to download a copy of the Taxi Driver's Handbook.
