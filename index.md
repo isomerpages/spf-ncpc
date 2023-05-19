@@ -64,8 +64,8 @@ sections:
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 2
-      description: Watch how officers from the Criminal Investigation Department work
-        their way up the chain to cripple an unlicensed moneylending syndicate!
+      description: Officers of the Commercial Affairs Department tracked down a
+        suspect who committed a series of e-commerce scams.
       button: Watch now
       url: https://www.youtube.com/watch?v=PsgBwyNzQ6w&ab_channel=Entertainment-Mediacorp
       image: /images/Home/img-21-crime-watch.png
