@@ -37,3 +37,12 @@ Through this test, students will learn the importance of crime prevention and th
 * [Download](https://appdev.ifdemo.com/ncpcorgsg/downloads/Score_Card_13-18_2.pdf) and fill in the score card
 
 ![](/images/Publications/badge-test-13yrs.JPG)
+
+<hr>
+
+##### <font style="color:#a20427;">Resources</font>
+
+*   [Shoptheft is a Crime : A moment of thrill can lead to a lifetime of regret!](https://appdev.ifdemo.com/ncpcorgsg/downloads/publications/cppb/shoptheft-is-a-crime-a-moment-of-thrill-can-lead-to-a-lifetime-of-regret.pdf)
+*   [A moment of joy, a lifetime of regret.](https://appdev.ifdemo.com/ncpcorgsg/downloads/publications/cppb/a-moment-of-weakness-leads-to-a-lifetime-of-regret-1.pdf)
+*   [A moment of weakness leads a lifetime of regret](https://appdev.ifdemo.com/ncpcorgsg/downloads/publications/cppb/a-moment-of-weakness-leads-to-a-lifetime-of-regret.pdf)
+*   [Being involved in fights hurt everyone.](https://appdev.ifdemo.com/ncpcorgsg/downloads/publications/cppb/being-involved-in-fights-hurt-everyone.pdf)
