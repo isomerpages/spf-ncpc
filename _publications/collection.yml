@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Crime Watch.md
       - Media Releases.md
       - Annual Reports.md
       - Anti illegal Betting.md
