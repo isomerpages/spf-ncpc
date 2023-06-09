@@ -51,7 +51,7 @@ sections:
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture; web-share" allowfullscreen=""></iframe>
       button: More Video
-      url: https://www.youtube.com/@nationalcrimepreventioncou9791
+      url: https://www.youtube.com/@NCPCsingapore
   - infopic:
       title: ScamShield
       subtitle: Available Now At App Store
