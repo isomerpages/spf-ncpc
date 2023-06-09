@@ -64,8 +64,8 @@ sections:
   - infopic:
       title: Crimewatch 2023
       subtitle: Episode 3
-      description: Officers of the Commercial Affairs Department tracked down a
-        suspect who committed a series of e-commerce scams.
+      description: A distress signal alerted the Police to a case of armed robbery at
+        a pawnshop.
       button: Watch now
       url: https://www.youtube.com/watch?v=wfsQ_2e_y-M&ab_channel=Entertainment-Mediacorp
       image: /images/Home/img-21-crime-watch.png
