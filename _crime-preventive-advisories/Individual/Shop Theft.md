@@ -8,7 +8,7 @@ third_nav_title: Individual
 
 ![](/images/About/header-border.png)
 
-![](/images/Crime/shoptheft.jpg)
+![](/images/Crime/shoptheft2.jpg)
 
 ##### <font style="color:#a20427;">HOW IT CAN HAPPEN </font>
 
