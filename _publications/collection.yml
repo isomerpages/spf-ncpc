@@ -2,9 +2,9 @@ collections:
   publications:
     output: true
     order:
-      - Crime Watch.md
       - Media Releases.md
       - Annual Reports.md
+      - Crime Watch.md
       - Anti illegal Betting.md
       - Delta League.md
       - Making Singapore Safe.md
