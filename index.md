@@ -6,7 +6,7 @@ description: National Crime Prevention Council is a non-profit organization
   propagate the concept of self-help in crime prevention.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Website will be down for maintenance on 30 Apr 2023
+notification: ""
 sections:
   - hero:
       background: /images/Banners/hero-banner-home-bg-revised-2.png
