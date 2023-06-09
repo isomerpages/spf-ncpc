@@ -5,13 +5,8 @@ description: ""
 ---
 #### <font style="color:#a20427;">THE COUNCIL</font>
 
-![](/images/About/header-border.png)
-
 #### <font style="color:#a20427;">PATRON</font>
 
 | Title | Name | Designation |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-
-
