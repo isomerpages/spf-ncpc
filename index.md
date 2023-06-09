@@ -1,32 +1,73 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: National Crime Prevention Council
+description: National Crime Prevention Council is a non-profit organization
+  committed to promoting public awareness of and concern about crime and to
+  propagate the concept of self-help in crime prevention.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Website will be down for maintenance on 30 Apr 2023
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Banners/hero-banner-home-bg-revised-2.png
+      title: I can Act Against Scams
+      key_highlights:
+        - title: ScamAlert SG
+          description: Learn about Common Scams
+          url: https://www.scamalert.sg
+        - title: Like us on Facebook
+          description: Get Crime Prevention updates
+          url: https://www.facebook.com/ncpc.sg
+        - title: Join the Fight
+          description: Lets Fight Against Scams
+          url: https://www.scamalert.sg/fight
+      subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
+  - infobar:
+      title: About NCPC
+      subtitle: Introduction
+      description: NCPC is an organisation committed to promoting public awareness of
+        and concern about crime and to propagate the concept of self-help in
+        crime prevention.
+      button: Learn more
+      url: about
+  - infopic:
+      title: Outrage of Modesty
+      subtitle: Crime Advisories
+      description: Protect yourself. If you get molested, call the police.
+      button: Learn more
+      alt: Image alt text
+      url: /outrageofmodesty
+      image: /images/Home/outrage-of-modesty.jpg
+  - resources:
+      title: News & Events
+      subtitle: Join & Engage with us
+      button: View More
+  - infobar:
+      title: The New Job
+      subtitle: Latest Video
+      description: <iframe width="800" height="515"
+        src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen=""></iframe>
+      button: More Video
+      url: https://www.youtube.com/@nationalcrimepreventioncou9791
+  - infopic:
+      title: ScamShield
+      subtitle: Available Now At App Store
+      description: ScamShield is a mobile app available in IOS & Andriod that fight
+        scam messages and calls which plague mobile phone users.
+      button: Download now
+      url: /scamshield
+      alt: Image alt text
+      image: /images/Home/img-21-revised-2.jpg
+  - infopic:
+      title: Crimewatch 2023
+      subtitle: Episode 2
+      description: Officers of the Commercial Affairs Department tracked down a
+        suspect who committed a series of e-commerce scams.
+      button: Watch now
+      url: https://www.youtube.com/watch?v=PsgBwyNzQ6w&ab_channel=Entertainment-Mediacorp
+      image: /images/Home/img-21-crime-watch.png
+      alt: Image alt text
 ---
-

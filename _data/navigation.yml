@@ -1,15 +1,75 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo-ncpc2.jpg
 links:
-  - title: Contact Us
+  - title: HOME
+    url: /
+  - title: ABOUT NCPC
+    url: "#"
+    sublinks:
+      - title: Introduction
+        url: /about
+      - title: Our VIsion & Mission
+        url: /vision
+      - title: Chairman's Message
+        url: /chairman
+      - title: Our History
+        url: /history
+      - title: Make Up of NCPC
+        url: /makeupofncpc
+      - title: Council Members
+        url: /councilmembers
+      - title: Secretariat
+        url: /secretariat
+      - title: Non-Financial Info
+        url: /non-financial
+      - title: FAQs
+        url: /faqs
+  - title: CRIME PREVENTIVE ADVISORIES
+    url: "#"
+    sublinks:
+      - title: Individuals
+        url: /housebreaking
+      - title: Business & Associations
+        url: /business
+  - title: NEWS & EVENTS
+    url: "#"
+    sublinks:
+      - title: Media Releases
+        url: /media
+      - title: Talks & Roadshows
+        url: /news-and-events/talks-and-roadshows/
+      - title: Events News
+        url: /news-and-events/event-news/
+  - title: PUBLICATIONS
+    url: "#"
+    sublinks:
+      - title: Annual Report
+        url: /annualreport
+      - title: Campaigns
+        url: /campaigns
+      - title: Anti illegal Betting
+        url: /redcard
+      - title: Delta League
+        url: /delta-league
+      - title: Making Singapore Safe
+        url: /making-singapore-safe
+      - title: Taxi Driver's Handbook
+        url: /taxi-driver-handbook
+      - title: ICPC 2011 E-Book
+        url: /icpc-ebook
+      - title: CPTED Guide Book
+        url: /cpted
+      - title: Crime Prevention Badge Test
+        url: /cppb
+  - title: SCAMSHIELD
+    url: /scamshield
+  - title: DONATION
+    url: "#"
+    sublinks:
+      - title: How to Donate
+        url: /sponsorship
+      - title: Our Major Donors
+        url: /sponsors
+  - title: JOIN US
+    url: /joinus
+  - title: CONTACT
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
