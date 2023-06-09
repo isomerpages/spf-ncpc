@@ -8,6 +8,7 @@ description: ""
 #### <font style="color:#a20427;">PATRON</font>
 
 | Title | Name | Designation |
+| -------- | -------- | -------- |
 | Patron-in-Chief     | Mr K Shanmugam    | Minister <br>Home Affairs and Law    |
 | Patron     | Dr Shaw Vee Meng, PBM     | Chairman <br>The Shaw Organisation Pte Ltd<br> The Shaw Foundation Pte Ltd    |
 | Patron     | Mr Lim Hock Chee, BBM     | Chief Executive Officer <br>Sheng Siong Group Ltd   |
