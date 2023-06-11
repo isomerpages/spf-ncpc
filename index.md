@@ -6,7 +6,7 @@ description: National Crime Prevention Council is a non-profit organization
   propagate the concept of self-help in crime prevention.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Website will be down for maintenance on 30 Apr 2023
+notification: ""
 sections:
   - hero:
       background: /images/Banners/hero-banner-home-bg-revised-2.png
@@ -63,11 +63,11 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infopic:
       title: Crimewatch 2023
-      subtitle: Episode 2
-      description: Officers of the Commercial Affairs Department tracked down a
-        suspect who committed a series of e-commerce scams.
+      subtitle: Episode 3
+      description: A distress signal alerted the Police to a case of armed robbery at
+        a pawnshop.
       button: Watch now
-      url: https://www.youtube.com/watch?v=PsgBwyNzQ6w&ab_channel=Entertainment-Mediacorp
+      url: https://www.youtube.com/watch?v=wfsQ_2e_y-M&ab_channel=Entertainment-Mediacorp
       image: /images/Home/img-21-crime-watch.png
       alt: Image alt text
 ---

@@ -5,8 +5,6 @@ description: ""
 ---
 #### <font style="color:#a20427;">THE COUNCIL</font>
 
-![](/images/About/header-border.png)
-
 #### <font style="color:#a20427;">PATRON</font>
 
 | Title | Name | Designation |
@@ -15,7 +13,9 @@ description: ""
 | Patron     | Dr Shaw Vee Meng, PBM     | Chairman <br>The Shaw Organisation Pte Ltd<br> The Shaw Foundation Pte Ltd    |
 | Patron     | Mr Lim Hock Chee, BBM     | Chief Executive Officer <br>Sheng Siong Group Ltd   |
 | Chairman     | Mr Gerald Balendran Singham,<br> JP, BBM(L), PBM     | Global Vice-Chair and ASEAN CEO <br> Dentons Rodyk &amp; Davidson LLP |
+
 #### <font style="color:#a20427;">COUNCIL MEMBERS</font>
+
 | Title | Name | Designation |
 | -------- | -------- | -------- |
 | Vice Chairman | Mr Tan Puay Kern, <br>BBM, PBM, PPA(P), AMBCI | Vice President <br>Security Service Department <br> Marina Bay Sands Pte Ltd |

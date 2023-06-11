@@ -1,5 +1,5 @@
 ---
-title: Faqs
+title: FAQs
 permalink: /faqs/
 description: ""
 ---
