@@ -4,7 +4,7 @@ permalink: /schools/
 description: ""
 third_nav_title: Business
 ---
-#### <font style="color:#a20427;">SECURRITY IN SCHOOLS</font>
+#### <font style="color:#a20427;">SECURITY IN SCHOOLS</font>
 
 ![](/images/About/header-border.png)
 
