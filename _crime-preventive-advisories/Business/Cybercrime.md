@@ -8,7 +8,7 @@ third_nav_title: Business
 
 ![](/images/About/header-border.png)
 
-![](/images/Crime/cybercrime.jpg)
+![](/images/Crime/cyber-crime2.jpg)
 
 ##### <font style="color:#a20427;">INTRODUCTION</font>
 
