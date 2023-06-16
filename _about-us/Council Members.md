@@ -12,12 +12,12 @@ description: ""
 | Patron-in-Chief     | Mr K Shanmugam    | Minister <br>Home Affairs and Law    |
 | Patron     | Dr Shaw Vee Meng, PBM     | Chairman <br>The Shaw Organisation Pte Ltd<br> The Shaw Foundation Pte Ltd    |
 | Patron     | Mr Lim Hock Chee, BBM     | Chief Executive Officer <br>Sheng Siong Group Ltd   |
-| Chairman     | Mr Gerald Balendran Singham,<br> JP, BBM(L), PBM     | Global Vice-Chair and ASEAN CEO <br> Dentons Rodyk &amp; Davidson LLP |
 
 #### <font style="color:#a20427;">COUNCIL MEMBERS</font>
 
 | Title | Name | Designation |
 | -------- | -------- | -------- |
+| Chairman     | Mr Gerald Balendran Singham,<br> JP, BBM(L), PBM     | Global Vice-Chair and ASEAN CEO <br> Dentons Rodyk &amp; Davidson LLP |
 | Vice Chairman | Mr Tan Puay Kern, <br>BBM, PBM, PPA(P), AMBCI | Vice President <br>Security Service Department <br> Marina Bay Sands Pte Ltd |
 | Honorary Treasurer | Mr Steven Goh | Managing Director <br> Orchard Road Business Association |
 | Council Member | Mr. Benjamin Tay | Chief Executive Officer <br> Power Automation Pte Ltd |

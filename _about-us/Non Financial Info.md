@@ -21,12 +21,12 @@ Facebook:&nbsp;[www.facebook.com/ncpc.sg](https://www.facebook.com/ncpc.sg)
 <hr>
 
 ##### <font style="color:#a20427;">Auditor</font>
-Ernst &amp; Young LLP  
-One Raffles Quay  
-North Tower, Level 18  
-Singapore 048583  
-Tel: (65) 6535 7777  
-Fax: (65) 6532 7662
+RSM Chio Lim LLP
+8 Wilkie Road
+#03-08 Wilkie Edge
+Singapore 228095
+Tel: (65) 6533 7600
+Fax: (65) 6538 7600
 
 <hr>
 

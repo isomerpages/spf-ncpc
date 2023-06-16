@@ -1,5 +1,5 @@
 ---
-title: Security in Hotels
+title: Security in hotels
 permalink: /hotels/
 description: ""
 third_nav_title: Business
