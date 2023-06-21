@@ -37,7 +37,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /outrageofmodesty
-      image: /images/Home/outrage-of-modesty.jpg
+      image: /images/Crime/omodesty2.jpg
   - resources:
       title: News & Events
       subtitle: Join & Engage with us
