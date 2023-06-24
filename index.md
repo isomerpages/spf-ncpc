@@ -36,7 +36,7 @@ sections:
       description: Protect yourself. If you get molested, call the police.
       button: Learn more
       alt: Image alt text
-      url: /outragemodesty/
+      url: https://www.ncpc.org.sg/outragemodesty/
       image: /images/Crime/omodesty2.jpg
   - resources:
       title: News & Events
