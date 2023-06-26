@@ -1,7 +1,7 @@
 ---
 title: 2023 Talks & Roadshows
 permalink: /news-and-events/events/2023/
-date: 2023-04-24
+date: 2023-06-01
 layout: post
 description: ""
 image: ""

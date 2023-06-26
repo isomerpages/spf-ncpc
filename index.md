@@ -36,8 +36,8 @@ sections:
       description: Protect yourself. If you get molested, call the police.
       button: Learn more
       alt: Image alt text
-      url: /outrageofmodesty
-      image: /images/Home/outrage-of-modesty.jpg
+      url: https://www.ncpc.org.sg/outragemodesty/
+      image: /images/Crime/omodesty2.jpg
   - resources:
       title: News & Events
       subtitle: Join & Engage with us
@@ -68,6 +68,6 @@ sections:
         a pawnshop.
       button: Watch now
       url: https://www.youtube.com/watch?v=wfsQ_2e_y-M&ab_channel=Entertainment-Mediacorp
-      image: /images/Home/img-21-crime-watch.png
+      image: /images/Home/img-21-crime-watch-2.png
       alt: Image alt text
 ---
