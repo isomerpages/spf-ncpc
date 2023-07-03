@@ -10,7 +10,6 @@ image: ""
 
 ![](/images/Events/police-community-roadshows-1.jpg)
 
-![](/images/Events/police-community-roadshows-2.jpg)
-
 NCPC was featured at the Police Community Roadshows held at One Punggol and HDB Hub to raise awareness on the "I can ACT against Scams" campaign and to promote the download of the ScamShield app. Our ever committed  Crime Prevention Ambassadors were also present and had performed skits on the “Fake Friend Call Scams” during the roadshows.
 
+![](/images/Events/police-community-roadshows-2.jpg)
