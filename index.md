@@ -62,7 +62,7 @@ sections:
       alt: Image alt text
       image: /images/Home/img-21-revised-2.jpg
   - infopic:
-      title: Crimewatch 2023
+      title: CrimeWatch 2023
       subtitle: Episode 4
       description: After a group of men robbed a moneylender, officers tapped on
         PolCams and led an operation involving Police units to swiftly bring the
