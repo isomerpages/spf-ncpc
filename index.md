@@ -62,12 +62,13 @@ sections:
       alt: Image alt text
       image: /images/Home/img-21-revised-2.jpg
   - infopic:
-      title: Crimewatch 2023
-      subtitle: Episode 3
-      description: A distress signal alerted the Police to a case of armed robbery at
-        a pawnshop.
+      title: CrimeWatch 2023
+      subtitle: Episode 4
+      description: After a group of men robbed a moneylender, officers tapped on
+        PolCams and led an operation involving Police units to swiftly bring the
+        suspects to justice.
       button: Watch now
-      url: https://www.youtube.com/watch?v=wfsQ_2e_y-M&ab_channel=Entertainment-Mediacorp
-      image: /images/Home/img-21-crime-watch-2.png
+      url: https://www.youtube.com/watch?v=hAexD8-AKfA&t=172s
+      image: /images/Home/crimewatch23-ep4.png
       alt: Image alt text
 ---
