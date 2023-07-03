@@ -12,6 +12,18 @@ image: ""
 
 Below are the events that are happening:
 
+##### <font style="color:#a20427;">July 2023</font>
+
+| Date | Time | Venue | Event |
+| -------- | -------- | -------- |-------- |
+| 28 Jul | 1000:1245hrs | Crime Prevention Talk | UTown, <br> Auditorium 2|
+| 20 Jul | 1430:1530hrs | Crime Prevention Talk via Zoom | Henry Park Primary School|
+| 8 Jul  | 0930:1030hrs | Crime Prevention <br> Talk cum Filming| OCBC Bank <br> Marine Parade Central |
+| 2 Jul  | 0930:1030hrs | Crime Prevention Talk| OCBC Bank Wisma Atria Singapore |
+| 2 Jul  | 0830:1030hrs | Crime Prevention <br>Exhibition| Yew Tee CC|
+
+
+
 ##### <font style="color:#a20427;">June 2023</font>
 
 | Date | Time | Venue | Event |
