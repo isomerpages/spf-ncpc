@@ -25,14 +25,14 @@ description: ""
 | Council Member | Mr Dan Yock Hau, <br>PPA(P), PPA(G), PP, PBS | Assistant Chief Executive <br>(National Cyber Resilience) <br>Cyber Security Agency of Singapore |
 | Council Member| Mr Jeff Wu | Senior Director<br>Trust &amp; Safety Law Enforcement <br>Outreach Asia-Pacific <br>Facebook Singapore Private Ltd. |
 | Council Member | Mr Jimmy Toh | Chief Executive Director <br> People's Association |
-| Council Member | Mr Kee Rui Xiong | Executive Director<br>Capital Markets Group, <br>Corporate Finance &amp; Consumer Department, <br>Markets &amp; Investment Group, <br>Reserve Management Department<br>Monetary Authority of Singapore |
+| Council Member | Mr Kee Rui Xiong | Executive Director<br>Capital Markets Group, <br>Corporate Finance &amp; Consumer Department, <br>Monetary Authority of Singapore |
 | Council Member | Mr Kenneth Loo | Chief Operating Officer <br>Straits Construction Singapore Pte Ltd |
 | Council Member | Mr Nicholas Aaron Khoo | Chief Operating Officer <br> Global Star Acquisition Inc. |
 | Council Member | Mr Koh Chong Mong<br> PPA(P), PBS | Cluster Superintendent, South 7 <br> Ministry of Education |
 | Council Member | Mr Lian Ghim Hua | Deputy Commissioner (Operations)<br> Singapore Police Force |
 | Council Member | Mr Lim Chin Keong | Managing Director<br> Progress Galvanizing Pte Ltd |
 | Council Member | Dr Majeed Khader<br> PPA (G) &amp; PPA (P), PBS | Director HTBSC,<br> Senior Consultant Psychologist<br> Home Team Behavioural Sciences Centre |
-| Council Member | Mr Mike Chan<br>PPA(P), PPA(G), PBS | Deputy Chief Executive Officer (Estate) <br> Housing &amp; Development Board |
+| Council Member | Mr Mike Chan<br>PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS, | Deputy Chief Executive Officer (Estate) <br> Housing &amp; Development Board |
 | Council Member | Mr Ng Khee Jin<br> PBM | Creative Partner <br> Kheej LLP |
 | Council Member | Professor Shirley Ho | Associate Vice President for Humanities, <br>Social Sciences &amp; Research Communication <br> Nanyang Technological University |
 | Council Member | Mr Charles Shng Yunn Chinn | Director (Community Partnership Department) <br> Singapore Police Force |
