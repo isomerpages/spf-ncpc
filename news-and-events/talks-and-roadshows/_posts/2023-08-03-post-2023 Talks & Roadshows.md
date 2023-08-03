@@ -1,7 +1,7 @@
 ---
 title: 2023 Talks & Roadshows
 permalink: /news-and-events/events/2023/
-date: 2023-07-03
+date: 2023-08-03
 layout: post
 description: ""
 image: ""
@@ -11,6 +11,22 @@ image: ""
 ![](/images/About/header-border.png)
 
 Below are the events that are happening:
+
+##### <font style="color:#a20427;">August 2023</font>
+
+ | Date | Time | Venue | Event |
+| -------- | -------- | -------- |-------- |
+| 28 Aug | 1000:1130hrs | Crime Prevention Talk | Bukit Panjang Gospel Church |
+| 26 Aug | 1000:1130hrs | Crime Prevention Talk | Yew Tee Zone 7 RC <br> Blk 603, Choa Chu Kang |
+| 17 Aug | 1400:1530hrs | Crime Prevention Talk | Blk 158, Tampines St 12|
+| 15 Aug | 1400:1530hrs | Crime Prevention Talk | Blk 145, Yishun|
+| 13 Aug | 1100:1600hrs | Crime Prevention Exhibition | National University of Singapore|
+| 12 Aug | 1030:1130hrs | Crime Prevention Talk | Fernvale Community Club, <br>Level 4 Multi-purpose Hall|
+| 9 Aug | 0700:1100hrs | Crime Prevention Talk | Gain City Megastore, Sungei Kadut|
+| 5 Aug | 1430:1630hrs | Crime Prevention Skit | People”s Park Complex|
+| 4 Aug | 1430:1630hrs | Crime Prevention Talk, Webinar | Technology Crime Policy Branch, CID|
+
+
 
 ##### <font style="color:#a20427;">July 2023</font>
 
