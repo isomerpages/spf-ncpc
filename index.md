@@ -64,9 +64,9 @@ sections:
   - infopic:
       title: CrimeWatch 2023
       subtitle: Episode 5
-      description: After a group of men robbed a moneylender, officers tapped on
-        PolCams and led an operation involving Police units to swiftly bring the
-        suspects to justice.
+      description: "Multi-million-dollar case of credit card identity theft, officers
+        trace the digital footprint and utilise technology to apprehend the
+        suspect. "
       button: Watch now
       url: https://www.youtube.com/watch?v=U3G1Sd03z4s&t=1s
       image: /images/Home/crimewatch ep 5.png
