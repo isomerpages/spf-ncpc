@@ -12,6 +12,17 @@ image: ""
 
 Below are the events that are happening:
 
+##### <font style="color:#a20427;">September 2023</font>
+
+ | Date | Time | Venue | Event |
+| -------- | -------- | -------- |-------- |
+| 23 Sep | 1800:2100hrs | Crime Prevention Exhibition | SengKang Central Grand Mall  |
+| 19 Sep | 0830:0930hrs | Crime Prevention Talk via Zoom | Scouts CCA at Dazhong Primary School |
+| 16 Sep | 0830:0930hrs | Crime Prevention Talk via Zoom |Sengkang Townhall |
+| 4 Sep | 1600:1700hrs | Crime Prevention Talk | Power Solution <br>438B, Alexandra Road, #05-01, Singapore 119968
+ |
+
+
 ##### <font style="color:#a20427;">August 2023</font>
 
  | Date | Time | Venue | Event |
