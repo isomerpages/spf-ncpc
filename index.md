@@ -63,12 +63,12 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infopic:
       title: CrimeWatch 2023
-      subtitle: Episode 5
-      description: "Multi-million-dollar case of credit card identity theft, officers
-        trace the digital footprint and utilise technology to apprehend the
-        suspect. "
+      subtitle: Episode 6
+      description: Choosing the wrong path can lead to grievous consequences. Watch
+        how officers swiftly bring two young suspects in a slashing case to
+        justice.
       button: Watch now
-      url: https://www.youtube.com/watch?v=U3G1Sd03z4s&t=1s
+      url: https://www.youtube.com/watch?v=Ws0WX2KcPJs
       image: /images/Home/crimewatch ep 5.png
       alt: Image alt text
 ---
