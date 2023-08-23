@@ -21,11 +21,9 @@ Facebook:&nbsp;[www.facebook.com/ncpc.sg](https://www.facebook.com/ncpc.sg)
 <hr>
 
 ##### <font style="color:#a20427;">Auditor</font>
-RSM Chio Lim LLP
-8 Wilkie Road
-#03-08 Wilkie Edge
-Singapore 228095
-Tel: (65) 6533 7600
+RSM Chio Lim LLP <br>
+8 Wilkie Road, #03-08 Wilkie Edge, Singapore 228095 <br>
+Tel: (65) 6533 7600 <br>
 Fax: (65) 6538 7600
 
 <hr>
