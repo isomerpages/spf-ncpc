@@ -9,6 +9,7 @@ description: ""
 
 | EPISODE | WATCH |
 | -------- | -------- |
+| 2023 EP6 - Slashing Case between two young suspects |  [Watch now](https://www.youtube.com/watch?v=Ws0WX2KcPJs)    |
 | 2023 EP5 - Identity Theft     |  [Watch now](https://www.youtube.com/watch?v=U3G1Sd03z4s&amp;t=1s)    |
 | 2023 EP4 - Moneylender Robbery     |  [Watch now](https://www.youtube.com/watch?v=hAexD8-AKfA&amp;t=172s)    |
 | 2023 EP3 - Armed Robbery     |  [Watch now](https://www.youtube.com/watch?v=wfsQ_2e_y-M&amp;ab_channel=Entertainment-Mediacorp)    |

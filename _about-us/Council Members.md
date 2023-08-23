@@ -33,7 +33,7 @@ description: ""
 | Council Member | Mr Ku Tse Kian| Executive Director, Regional Group Head, Business Development Group, Commercial Banking<br> United Overseas Bank Limited|
 | Council Member | Mr Lian Ghim Hua | Deputy Commissioner (Operations)<br> Singapore Police Force |
 | Council Member | Dr Majeed Khader<br> PPA (G) &amp; PPA (P), PBS | Director HTBSC,<br> Senior Consultant Psychologist<br> Home Team Behavioural Sciences Centre |
-| Council Member | Mr Mike Chan<br>PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS, | Deputy Chief Executive Officer (Estate) <br> Housing &amp; Development Board |
+| Council Member | Mr Mike Chan<br>PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS | Deputy Chief Executive Officer (Estate) <br> Housing &amp; Development Board |
 | Council Member | Mr Ng Khee Jin<br> PBM | Creative Partner <br> Kheej LLP |
 | Council Member | Mr Steven Goh | Managing Director <br> Orchard Road Business Association |
 | Council Member | Mr Wong Voal Voal | Co-founder &amp; Managing Partner <br> IN.FOM |
