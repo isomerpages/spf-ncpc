@@ -64,9 +64,9 @@ sections:
   - infopic:
       title: CrimeWatch 2023
       subtitle: Episode 7
-      description: Falling prey to scammers, a retiree almost loses his life savings.
-        Watch how police & bank intervene to trace the funds and break up a
-        money mule network
+      description: Falling prey to scammers, a retiree almost loses all his life
+        savings. Watch how police & bank intervene to trace the funds and break
+        up a money mule network
       button: Watch now
       url: https://www.youtube.com/watch?v=uIpIZVFV0z0
       image: /images/Home/crimewatch ep7.png
