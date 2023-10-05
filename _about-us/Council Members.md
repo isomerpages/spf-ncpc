@@ -25,6 +25,7 @@ description: ""
 | Council Member | Dr Carol Soon | Principal Research Fellow, Institute of Policy Studies<br> National University of Singapore |
 | Council Member | Mr Charles Shng Yunn Chinn | Director (Community Partnership Department) <br> Singapore Police Force |
 | Council Member | Mr Dan Yock Hau, <br>PPA(P), PPA(G), PP, PBS | Assistant Chief Executive <br>(National Cyber Resilience) <br>Cyber Security Agency of Singapore |
+| Council Member | Mr Daryl Poon | Head of Trust &amp; Safety (Southeast-Asia I &amp; Northeast Asia) <br> Meta |
 | Council Member | Dr Hana Alhadad | Senior Consultant &amp; Lead Researcher <br> Association of Women for Action and Research (AWARE) |
 | Council Member | Mr Jimmy Toh Yong Leng <br> PPA(G), PBS | Chief Executive Director <br> People's Association |
 | Council Member | Mr Kee Rui Xiong | Executive Director<br>Capital Markets Group, <br>Corporate Finance &amp; Consumer Department, <br>Monetary Authority of Singapore |

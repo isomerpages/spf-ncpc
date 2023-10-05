@@ -1,7 +1,7 @@
 ---
 title: 2023 Talks & Roadshows
 permalink: /news-and-events/events/2023/
-date: 2023-08-23
+date: 2023-10-01
 layout: post
 description: ""
 image: ""
@@ -12,9 +12,24 @@ image: ""
 
 Below are the events that are happening:
 
+
+##### <font style="color:#a20427;">October 2023</font>
+
+| Date | Time | Venue | Event |
+| -------- | -------- | -------- |-------- |
+| 22 Oct | 0800:1200hrs | Crime Prevention Talk | Rivervale CC |
+| 22 Oct | 1430:1630hrs | Crime Prevention Exhibition | Seng Kang |
+| 20 Oct | 1500:1600hrs | Crime Prevention Talk | Serangoon Secondary School <br> Scouts |
+| 19 Oct | 1100:1200hrs | Crime Prevention Talk | 39 SCE Nee Soon Camp |
+| 14 Oct | 1000:1200hrs | Crime Prevention Talk | Chua Chu Kang Construction Site |
+| 7 Oct | 1230:1530hrs | Crime Prevention Exhibition | Hibiscus Pavilion <br> Blk 439 &amp; 440 Hougang Ave 8 |
+| 7 Oct | 0900:1200hrs | Crime Prevention Exhibition | Livia Condo Function Room <br> 61, Pasir Ris Grove, Singapore 518215 |
+| 5 Oct | 1600:1700hrs | Crime Prevention Talk | Power Solution <br> 438B Alexandra Road , #05-01 (Lift Lobby 1 ) Singapore 119968 |
+| 1 Oct | 0900:1200hrs | Crime Prevention Exhibition | Blk 440 Pasir Ris Drive 4 ,<br> next to Giant Supermarket |
+
 ##### <font style="color:#a20427;">September 2023</font>
 
- | Date | Time | Venue | Event |
+| Date | Time | Venue | Event |
 | -------- | -------- | -------- |-------- |
 | 23 Sep | 1800:2100hrs | Crime Prevention Exhibition | SengKang Central Grand Mall  |
 | 19 Sep | 0830:0930hrs | Crime Prevention Talk via Zoom | Scouts CCA at Dazhong Primary School |
