@@ -7,7 +7,7 @@ description: ""
 
 <hr>
 
-##### <font style="color:#a20427;">STORY 1: MONEY MULE </font>
+##### <font style="color:#a20427;">STORY 1: I JUST DID IT FOR MONEY, AND I DON'T MEAN ANY HARM TO OTHERS </font>
 
 ![](/images/school%20story%201%20-%20money%20mule.png)
 
