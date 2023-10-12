@@ -87,4 +87,3 @@ Gangs are illegal in Singapore. According to the law, gangs are called unlawful 
 *   Imprisonment for a term which may extend to 10 years; and caning.
 
 Members of the public who are concerned that their children may be involved in gang-related activities or have any information on such activities can&nbsp;**call the Police Hotline at 1800-255-0000**.
-
