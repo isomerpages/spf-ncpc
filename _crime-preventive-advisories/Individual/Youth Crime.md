@@ -36,7 +36,8 @@ You are regarded as a gang member as long as you know that your friends are memb
 * Recruiting or introducing new members to the gang.
 * Accompanying gang members in outings.
 * Being present with gang members during:
-* Staring incidents.\Settlements talks.
+* Staring incidents
+* Settlements talks.
 * Fights.
 * Search of rival gang members to seek revenge.
 * Funeral wake and procession of gang member or his relative, etc.
