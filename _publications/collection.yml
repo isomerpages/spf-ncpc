@@ -2,7 +2,6 @@ collections:
   publications:
     output: true
     order:
-      - Youth Stories.md
       - Media Releases.md
       - Annual Reports.md
       - CrimeWatch.md
@@ -14,3 +13,4 @@ collections:
       - ICPC 2011 EBOOK.md
       - CPTED Guidebook.md
       - Crime Prevention Test.md
+      - Youth Stories.md
