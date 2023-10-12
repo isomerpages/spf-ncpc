@@ -92,3 +92,9 @@ Members of the public who are concerned that their children may be involved in g
 ##### <font style="color:#a20427;">MONEY MULE</font>
 
 ![](/images/school%20story%201%20-%20money%20mule.png)
+
+<hr>
+
+##### <font style="color:#a20427;">The Consequences Of My Choices, A tale Of Regret</font>
+
+![](/images/sec%20school%20story%202%20-%20the%20consequences%20of%20my%20choices,%20a%20tale%20of%20regret.png)
