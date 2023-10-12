@@ -89,3 +89,4 @@ Members of the public who are concerned that their children may be involved in g
 
 ##### <font style="color:#a20427;">MONEY MULE</font>
 
+![](/images/school%20story%201%20-%20money%20mule.png)
