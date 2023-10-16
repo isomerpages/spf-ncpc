@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Joint Year End Primary School Holiday Advisory.md
       - Media Releases.md
       - Annual Reports.md
       - CrimeWatch.md
