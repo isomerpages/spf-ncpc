@@ -1,9 +1,9 @@
 ---
-title: Joint Year End School Holiday Advisory
+title: Joint Year End Secondary School Holiday Advisory
 permalink: /jointyearendschoolholidayadvisory/
 description: ""
 ---
-#### <font style="color:#a20427;">JOINT YEAR-END SCHOOL HOLIDAY ADVISORY</font>
+#### <font style="color:#a20427;">JOINT YEAR-END SECONDARY SCHOOL HOLIDAY ADVISORY</font>
 
 <hr>
 
@@ -35,13 +35,3 @@ But Su hadn’t been “groggy from sleep”. It was most likely the same drug-i
 _\*Names have been changed._
 
 [https://www.cnb.gov.sg/educational-resources/for-youths/articles/article/Index/true-account-of-a-meth-abuser](https://www.cnb.gov.sg/educational-resources/for-youths/articles/article/Index/true-account-of-a-meth-abuser)
-
-##### <font style="color:#a20427;">STORY 4: STEALING A BICYCLE IS A CRIME </font>
-
-![](/images/stealing%20bicycle%20is%20a%20crime%20(3).png)
-
-<hr>
-
-##### <font style="color:#a20427;">STORY 5: A TALE OF TEMPTATION AND TRUST </font>
-
-![](/images/a%20tale%20of%20temptation%20and%20trust%20(3).png)

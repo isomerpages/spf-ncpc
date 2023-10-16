@@ -62,7 +62,9 @@ links:
         url: /cpted
       - title: Crime Prevention Badge Test
         url: /cppb
-      - title: School Holiday Advisory
+      - title: Pri School Holiday Advisory
+        url: /jye-pri-sch-hol-adv/
+      - title: Sec School Holiday Advisory
         url: /jointyearendschoolholidayadvisory/
   - title: SCAMSHIELD
     url: /scamshield
