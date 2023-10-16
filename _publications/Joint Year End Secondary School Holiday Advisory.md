@@ -15,7 +15,7 @@ description: ""
 
 ##### <font style="color:#a20427;">STORY 2: THE CONSEQUENCES OF MY CHOICES. A TALE OF REGRET </font>
 
-![](/images/sec%20school%20story%202%20-%20the%20consequences%20of%20my%20choices,%20a%20tale%20of%20regret.png)
+![](/images/the%20consequences%20of%20my%20choices%20-%20%20a%20tale%20of%20regret-1.png)
 <hr>
 
 ##### <font style="color:#a20427;">STORY 3: TRUE ACCOUNT OF A METH ABUSER </font>
