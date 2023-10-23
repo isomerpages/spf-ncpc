@@ -1,7 +1,7 @@
 ---
 title: 2023 Talks & Roadshows
 permalink: /news-and-events/events/2023/
-date: 2023-10-01
+date: 2023-10-23
 layout: post
 description: ""
 image: ""
@@ -11,6 +11,21 @@ image: ""
 ![](/images/About/header-border.png)
 
 Below are the events that are happening:
+
+##### <font style="color:#a20427;">November 2023</font>
+
+| Date | Time | Venue | Event |
+| -------- | -------- | -------- |-------- |
+| 4 Nov | 1000:1130hrs | Crime Prevention Talk | SAMH Group Homes |
+| 4 Nov | 1000:1130hrs | Crime Prevention Exhibition | Blk 116 Serangoon North Ave 1, Void deck |
+| 5 Nov | 1100:1600hrs | Crime Prevention Exhibition | Northshore Plaza 1  |
+| 8 Nov | 1000:1700hrs | Crime Prevention Talk | National University of Singapore |
+| 9 - 10 Nov | 1100:1800hrs | Crime Prevention Exhibition | UOB Plaza<br> 80, Raffles Place|
+| 15 Nov | 1000:1100hrs | Crime Prevention Talk | Castrol Singapore <br> 10 Jalan Tepong, Singapore 619328 |
+| 15 - 17 Nov | 0900:1800hrs | Crime Prevention Exhibition | Marina Bay Sands |
+| 22 - 23 Nov | 1000:1500hrs | Crime Prevention Exhibition |Marina Bay Sands |
+| 24 - 25 Nov | 1100:1700hrs | Home Team Festival | Singapore Expo |
+| 26 Nov | 1000:1200hrs |  Crime Prevention Talk w CGS | Woodlands |
 
 
 ##### <font style="color:#a20427;">October 2023</font>
