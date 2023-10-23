@@ -5,6 +5,10 @@ description: ""
 ---
 #### <font style="color:#a20427;">JOINT YEAR-END SECONDARY SCHOOL HOLIDAY ADVISORY</font>
 
+![](/images/spf%20year-end%20joint%20school%20holiday%20advisory_secondary_v3-1.png)
+![](/images/spf%20year-end%20joint%20school%20holiday%20advisory_secondary_v3-2.png)
+![](/images/spf%20year-end%20joint%20school%20holiday%20advisory_secondary_v3-3.png)
+
 <hr>
 
 ##### <font style="color:#a20427;">STORY 1: I JUST DID IT FOR MONEY, AND I DON'T MEAN ANY HARM TO OTHERS </font>
