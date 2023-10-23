@@ -9,6 +9,7 @@ description: ""
 
  |Year | Link |
  -------- | -------- |
+|Annual Report FY 2022 / 2023 | [Download](https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/NCPC_AR2023_Online.pdf) |
 |Annual Report FY 2021 / 2022 | [Download](https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/NCPC_AR2022_Online.pdf) |
 |Annual Report FY 2020 / 2021 | [Download](https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/annual_2021_3.pdf) |
 |Annual Report FY 2019 / 2020 | [Download](https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/annual_2020.pdf) |
