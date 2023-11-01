@@ -8,6 +8,8 @@ image: ""
 ---
 #### <font style="color:#a20427;">THE ANNUAL HOTEL SECURITY CONFERENCE CUM AWARD PRESENTATION 2023</font>
 
+![](/images/About/header-border.png)
+
 ![](/images/hotel%20award%20ceremony.jpg)![](/images/About/header-border.png)
 
 The Annual Hotel Security Conference cum Awards Presentation Ceremony, co-organised by NCPC, Singapore Hotel Association and Singapore Police Force, was held on 26 October 2023 at the Furama RiverFront Singapore. 
