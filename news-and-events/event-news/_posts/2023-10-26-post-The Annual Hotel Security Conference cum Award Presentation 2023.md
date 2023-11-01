@@ -12,5 +12,4 @@ image: ""
 
 The Annual Hotel Security Conference cum Awards Presentation Ceremony, co-organised by NCPC, Singapore Hotel Association and Singapore Police Force, was held on 26 October 2023 at the Furama RiverFront Singapore. 
 
-The Hotel Security Awards were presented to 95 hotels for their contribution towards a high standard of security in the Singapore hotel industry. The Hotel Security Awards 2023 for individuals comprised three categories, namely, Honesty, Bravery, and Vigilance. A total of 254 hotel employees received the Certificate of Commendation while 17 were awarded for Special Mention for their acts of honesty, bravery, or vigilance. 
-
+The Hotel Security Awards were presented to 95 hotels for their contribution towards a high standard of security in the Singapore hotel industry. The Hotel Security Awards 2023 for individuals comprised three categories, namely, Honesty, Bravery, and Vigilance. A total of 254 hotel employees received the Certificate of Commendation while 17 were awarded for Special Mention for their acts of honesty, bravery, or vigilance.
