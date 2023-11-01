@@ -63,12 +63,12 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infopic:
       title: CrimeWatch 2023
-      subtitle: Episode 7
-      description: Falling prey to scammers, a retiree almost loses all his life
-        savings. Watch how police & bank intervene to trace the funds and break
-        up a money mule network
+      subtitle: Episode 8
+      description: An inter-agency effort is launched when ICA officers detect a
+        suspicious item. CNB then swiftly round up suspects and dismantle a drug
+        trafficking network.
       button: Watch now
-      url: https://www.youtube.com/watch?v=uIpIZVFV0z0
-      image: /images/Home/crimewatch ep7.png
+      url: https://www.youtube.com/watch?v=LlSWPny8NDs
+      image: /images/crimewatch ep8.png
       alt: Image alt text
 ---
