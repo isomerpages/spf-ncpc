@@ -8,7 +8,7 @@ variant: markdown
 
 | Year | Media Release |
 | -------- | -------- | 
-| 9 Nov 2023   | [Pledge of Commitment In The Fight Against Scams By The Real Estate Community Partners](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/JOINT-NEWS-RELEASE-PLEDGE-OF-COMMITMENT-IN-THE-FIGHT-AGAINST-SCAMS-BY-THE-REAL-ESTATE-COMMUNITY-PARTNERS.pdf)| 
+| 14 Nov 2023   | [Pledge of Commitment In The Fight Against Scams By The Real Estate Community Partners](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/JOINT-NEWS-RELEASE-PLEDGE-OF-COMMITMENT-IN-THE-FIGHT-AGAINST-SCAMS-BY-THE-REAL-ESTATE-COMMUNITY-PARTNERS.pdf)| 
 | 9 Nov 2023   | [Year-End Crime Prevention Campaign Launch 2023](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/Joint-News-Release-Year-End-Crime-Prevention-Campaign-Launch-2023-9Nov.pdf)| 
 | 2 Nov 2023   | [Launch Of Police Concept Train At Harbourfront Mrt Station](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/LAUNCH-OF-POLICE-CONCEPT-TRAIN-AT-HARBOURFRONT-MRT-STATION.pdf)| 
 | 17 Apr 2023  | [Anti-Scam And Cybersecurity Makeathon 2023](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/ANTI-SCAM-AND-CYBERSECURITY-MAKEATHON-2023-17Apr23.pdf)| 
