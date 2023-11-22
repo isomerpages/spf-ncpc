@@ -71,4 +71,15 @@ sections:
       url: https://www.youtube.com/watch?v=LlSWPny8NDs
       image: /images/crimewatch ep8.png
       alt: Image alt text
+  - infobar:
+      title: CrimeWatch
+      subtitle: Episode 8
+      id: infobar
+      description: <iframe width="800" height="515"
+        src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen=""></iframe>
+      button: Watch More
+      url: https://www.ncpc.org.sg/publications/crime-watch/
 ---
