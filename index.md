@@ -22,6 +22,7 @@ sections:
           description: Lets Fight Against Scams
           url: https://www.scamalert.sg/fight
       subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
+      variant: center
   - infobar:
       title: About NCPC
       subtitle: Introduction
@@ -76,10 +77,10 @@ sections:
       subtitle: Episode 8
       id: infobar
       description: <iframe width="800" height="515"
-        src="https://www.youtube.com/watch?v=LlSWPny8NDscontrols=0"
+        src="https://www.youtube.com/watch?v=LlSWPny8NDs?controls=0"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture; web-share" allowfullscreen=""></iframe>
-      button: Watch More Episodes
+      button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
 ---
