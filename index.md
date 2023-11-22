@@ -46,11 +46,11 @@ sections:
   - infobar:
       title: ACT Campaign Video
       subtitle: Latest Video
-      description: <iframe width="800" height="515"
-        src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen=""></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/cKVAeyAR3OU?si=DNOibGa0A7Bw0MXc"
+        height="315" width="560"></iframe>
       button: More Video
       url: https://www.youtube.com/@NCPCsingapore
   - infopic:
@@ -76,11 +76,11 @@ sections:
       title: CrimeWatch
       subtitle: Episode 8
       id: infobar
-      description: <iframe width="800" height="515"
-        src="https://www.youtube.com/watch?v=LlSWPny8NDs?controls=0"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen=""></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/LlSWPny8NDs?si=aMYPw6A8QLDajcXv"
+        height="315" width="560"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
 ---
