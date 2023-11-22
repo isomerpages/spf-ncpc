@@ -50,7 +50,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/cKVAeyAR3OU?si=DNOibGa0A7Bw0MXc"
-        height="315" width="560"></iframe>
+        height="555" width="800"></iframe>
       button: More Video
       url: https://www.youtube.com/@NCPCsingapore
   - infopic:
