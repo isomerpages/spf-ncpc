@@ -43,7 +43,7 @@ sections:
       subtitle: Join & Engage with us
       button: View More
   - infobar:
-      title: The New Job
+      title: ACT Campaign Video
       subtitle: Latest Video
       description: <iframe width="800" height="515"
         src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
