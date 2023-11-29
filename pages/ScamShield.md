@@ -2,11 +2,11 @@
 title: ScamShield
 permalink: /scamshield/
 description: ""
+variant: markdown
 ---
-
 #### <font style="color:#a20427">About ScamShield</font>
 
-###### <font style="color:#a20427">More than 600,000 people have downloaded the ScamShield App to block scam SMSes and calls.</font>
+###### <font style="color:#a20427">More than 700,000 people have downloaded the ScamShield App to block scam SMSes and calls.</font>
 
 [ScamShield](https://www.scamshield.org.sg/), a new mobile app, has been launched to fight scam messages and calls which plague mobile phone users. Developed by the National Crime Prevention Council (NCPC), in collaboration with Open Government Products (OGP), a division of the Government Technology Agency and the Singapore Police Force, the app was launched on 20 November 2020 by Mr Desmond Tan, Minister of State in the Ministry of Home Affairs and the Ministry of Sustainability and the Environment.  
 

@@ -22,6 +22,7 @@ sections:
           description: Lets Fight Against Scams
           url: https://www.scamalert.sg/fight
       subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
+      variant: center
   - infobar:
       title: About NCPC
       subtitle: Introduction
@@ -43,13 +44,13 @@ sections:
       subtitle: Join & Engage with us
       button: View More
   - infobar:
-      title: The New Job
+      title: ACT Campaign Video
       subtitle: Latest Video
-      description: <iframe width="800" height="515"
-        src="https://www.youtube.com/embed/97oCC7ySZ74?controls=0"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen=""></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/cKVAeyAR3OU?si=DNOibGa0A7Bw0MXc"
+        height="355" width="600"></iframe>
       button: More Video
       url: https://www.youtube.com/@NCPCsingapore
   - infopic:
@@ -61,14 +62,15 @@ sections:
       url: /scamshield
       alt: Image alt text
       image: /images/Home/img-21-revised-2.jpg
-  - infopic:
+  - infobar:
       title: CrimeWatch 2023
       subtitle: Episode 8
-      description: An inter-agency effort is launched when ICA officers detect a
-        suspicious item. CNB then swiftly round up suspects and dismantle a drug
-        trafficking network.
-      button: Watch now
-      url: https://www.youtube.com/watch?v=LlSWPny8NDs
-      image: /images/crimewatch ep8.png
-      alt: Image alt text
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/LlSWPny8NDs?si=aMYPw6A8QLDajcXv"
+        height="355" width="600"></iframe>
+      button: Watch More
+      url: https://www.ncpc.org.sg/publications/crime-watch/
 ---
