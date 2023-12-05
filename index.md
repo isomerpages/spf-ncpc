@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/Untitled_1.png
+      background: /images/Banners/Untitled_design_4___002_.png
       title: I can Act Against Scams
       key_highlights:
         - title: ScamAlert SG
