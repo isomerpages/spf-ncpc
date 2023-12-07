@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/Revised_Banner.jpg
+      background: /images/Banners/hero-banner-home-bg-revised-2.png
       title: I can Act Against Scams
       key_highlights:
         - title: ScamAlert SG
@@ -22,7 +22,7 @@ sections:
           description: Lets Fight Against Scams
           url: https://www.scamalert.sg/fight
       subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
-      variant: image
+      variant: center
   - infobar:
       title: About NCPC
       subtitle: Introduction
