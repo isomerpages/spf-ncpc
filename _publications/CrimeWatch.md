@@ -2,6 +2,7 @@
 title: CrimeWatch
 permalink: /publications/crime-watch/
 description: ""
+variant: markdown
 ---
 #### <font style="color:#a20427;">CRIMEWATCH</font>
 
@@ -9,6 +10,7 @@ description: ""
 
 | EPISODE | WATCH |
 | -------- | -------- |
+| 2023 EP9 - Cybercrime Case |  [Watch now](https://www.youtube.com/watch?v=xF5GFbRFmUI)    |
 | 2023 EP8 -#OneHomeTeam Against Drug Trafficking |  [Watch now](https://www.youtube.com/watch?v=LlSWPny8NDs)    |
 | 2023 EP7 - Scam Thwarted by Joint Police-Bank Efforts |  [Watch now](https://www.youtube.com/watch?v=uIpIZVFV0z0)    |
 | 2023 EP6 - Slashing Case between two young suspects |  [Watch now](https://www.youtube.com/watch?v=Ws0WX2KcPJs)    |
