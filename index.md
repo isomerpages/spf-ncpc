@@ -132,11 +132,10 @@ sections:
       subtitle: Episode 9
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encr<iframe width=" frameborder="0" title="YouTube
-        video player"
-        src="https://www.youtube.com/embed/LlSWPny8NDs?si=aMYPw6A8QLDajcXv"
-        height="355" width="600"></iframe>ypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen="">
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/xF5GFbRFmUI?si=UsbBa0jeVofdnBEH&controls=0"
+        height="315" width="560"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
 ---
