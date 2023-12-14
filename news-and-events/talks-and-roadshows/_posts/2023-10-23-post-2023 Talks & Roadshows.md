@@ -23,10 +23,12 @@ Below are the events that are happening:
 | 8 Dec | 1000:1100hrs | Crime Prevention Talk | 432A Bukit Batok West Ave 8 |
 | 9 Dec | 1100:1800hrs | Crime Prevention Exhibition | Senja-Cashew CC |
 | 10 Dec | 1045:1330hrs | Crime Prevention Talk | Geylang West CC |
-| 15 - 17 Nov | 0900:1800hrs | Crime Prevention Exhibition | Marina Bay Sands |
-| 22 - 23 Nov | 1000:1500hrs | Crime Prevention Exhibition |Marina Bay Sands |
-| 24 - 25 Nov | 1100:1700hrs | Home Team Festival | Singapore Expo |
-| 26 Nov | 1000:1200hrs |  Crime Prevention Talk w CGS | Woodlands |
+| 15 Dec | 1100:1400hrs | Crime Prevention Exhibition | Sunlove Elder Care, <br> Blk 3, Marsiling Road  |
+| 16 Dec | 1000:1200hrs | Crime Prevention Talk |Senior Citizens' Centre, <br> Blk 556 Ang Mo Kio Ave 10 |
+| 17 Dec | 1400:1600hrs | Crime Prevention Talk | Blk 105, Jalan Rajah |
+| 17 Dec | 1100:1400hrs |  Crime Prevention Talk | Indonesian Embassy |
+| 28 Dec | 1100:1400hrs |  Crime Prevention Talk | Sungei Gedong Camp |
+
 
 ##### <font style="color:#a20427;">November 2023</font>
 
