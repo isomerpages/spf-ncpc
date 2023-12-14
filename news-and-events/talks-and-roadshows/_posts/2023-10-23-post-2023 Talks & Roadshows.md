@@ -21,8 +21,8 @@ Below are the events that are happening:
 | 2 Dec | 0900:1100hrs | Crime Prevention Talk | Blk 883, Woodland St 82 |
 | 7 Dec | 1400:1500hrs | Crime Prevention Talk | 2 Tampines Industrial Drive, <br> Power Partners Building, <br> Singapore 528532  |
 | 8 Dec | 1000:1100hrs | Crime Prevention Talk | 432A Bukit Batok West Ave 8 |
-| 9 Dec | 1100:1800hrs | Crime Prevention Exhibition | UOB Plaza<br> 80, Raffles Place|
-| 15 Nov | 1000:1100hrs | Crime Prevention Talk | Castrol Singapore <br> 10 Jalan Tepong, Singapore 619328 |
+| 9 Dec | 1100:1800hrs | Crime Prevention Exhibition | Senja-Cashew CC |
+| 10 Dec | 1045:1330hrs | Crime Prevention Talk | Geylang West CC |
 | 15 - 17 Nov | 0900:1800hrs | Crime Prevention Exhibition | Marina Bay Sands |
 | 22 - 23 Nov | 1000:1500hrs | Crime Prevention Exhibition |Marina Bay Sands |
 | 24 - 25 Nov | 1100:1700hrs | Home Team Festival | Singapore Expo |
