@@ -1,10 +1,11 @@
 ---
 title: 2023 Talks & Roadshows
 permalink: /news-and-events/events/2023/
-date: 2023-10-23
+date: 2023-12-13
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 #### <font style="color:#a20427;">TALKS and ROADSHOWS</font>
 
@@ -12,9 +13,26 @@ image: ""
 
 Below are the events that are happening:
 
+##### <font style="color:#a20427;">December 2023</font>
+
+| Date | Time | Event | Venue |
+| -------- | -------- | -------- |-------- |
+| 1 Dec | 1400:1700hrs | Crime Prevention Training | ITE Central |
+| 2 Dec | 0900:1100hrs | Crime Prevention Talk | Blk 883, Woodland St 82 |
+| 7 Dec | 1400:1500hrs | Crime Prevention Talk | 2 Tampines Industrial Drive, <br> Power Partners Building, <br> Singapore 528532  |
+| 8 Dec | 1000:1100hrs | Crime Prevention Talk | 432A Bukit Batok West Ave 8 |
+| 9 Dec | 1100:1800hrs | Crime Prevention Exhibition | Senja-Cashew CC |
+| 10 Dec | 1045:1330hrs | Crime Prevention Talk | Geylang West CC |
+| 15 Dec | 1100:1400hrs | Crime Prevention Exhibition | Sunlove Elder Care, <br> Blk 3, Marsiling Road  |
+| 16 Dec | 1000:1200hrs | Crime Prevention Talk |Senior Citizens' Centre, <br> Blk 556 Ang Mo Kio Ave 10 |
+| 17 Dec | 1400:1600hrs | Crime Prevention Talk | Blk 105, Jalan Rajah |
+| 17 Dec | 1100:1400hrs |  Crime Prevention Talk | Indonesian Embassy |
+| 28 Dec | 1100:1400hrs |  Crime Prevention Talk | Sungei Gedong Camp |
+
+
 ##### <font style="color:#a20427;">November 2023</font>
 
-| Date | Time | Venue | Event |
+| Date | Time | Event | Venue |
 | -------- | -------- | -------- |-------- |
 | 4 Nov | 1000:1130hrs | Crime Prevention Talk | SAMH Group Homes |
 | 4 Nov | 1000:1130hrs | Crime Prevention Exhibition | Blk 116 Serangoon North Ave 1, Void deck |
