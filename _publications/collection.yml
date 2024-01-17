@@ -2,7 +2,7 @@ collections:
   publications:
     output: true
     order:
-      - Annual Reports 1.md
+      - Annual Reports.md
       - Media Releases.md
       - CrimeWatch.md
       - Campaigns.md
