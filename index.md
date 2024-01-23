@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Banners/hero-banner-home-bg-revised-2.png
-      title: I can Act Against Scams
+      title: I Can ACT Against Scams
       key_highlights:
         - title: ScamAlert SG
           description: Learn about Common Scams
