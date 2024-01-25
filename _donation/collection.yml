@@ -1,0 +1,6 @@
+collections:
+  donation:
+    output: true
+    order:
+      - How to Donate.md
+      - Our Major Donors.md

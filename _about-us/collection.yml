@@ -1,0 +1,13 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Introduction.md
+      - Our Vision and Mission.md
+      - Chairman's Message.md
+      - Our History.md
+      - Make Up of NCPC.md
+      - Council Members.md
+      - Secretariat.md
+      - Non Financial Info.md
+      - FAQs.md

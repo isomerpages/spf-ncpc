@@ -1,0 +1,20 @@
+collections:
+  crime-preventive-advisories:
+    output: true
+    order:
+      - Individual/.keep
+      - Individual/House Breaking.md
+      - Individual/Robbery.md
+      - Individual/Snatch Thief.md
+      - Individual/Pick Pocket.md
+      - Individual/Shop Theft.md
+      - Individual/Outrage of Modesty.md
+      - Individual/Youth Crime.md
+      - Individual/Taxi Driver.md
+      - Individual/Senior Citizen.md
+      - Business/.keep
+      - Business/Security in hotels.md
+      - Business/Security in schools.md
+      - Business/Cybercrime.md
+      - Business/Internet Safety.md
+      - Business/Motor Vehicles Thief.md
