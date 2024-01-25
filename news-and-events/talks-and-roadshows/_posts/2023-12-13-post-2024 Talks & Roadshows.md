@@ -87,7 +87,6 @@ variant: tiptap
         </tr>
     </tbody>
 </table>
-<p></p>
 <h4>Jan 2024</h4>
 <table>
     <tbody>
@@ -163,5 +162,4 @@ variant: tiptap
         </tr>
     </tbody>
 </table>
-<p></p>
 <p></p>
