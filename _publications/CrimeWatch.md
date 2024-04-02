@@ -36,6 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <blockquote>
 <p>2023</p>
 </blockquote>
