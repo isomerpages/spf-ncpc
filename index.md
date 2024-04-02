@@ -63,15 +63,14 @@ sections:
       alt: Image alt text
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
-      title: CrimeWatch 2023
-      subtitle: Episode 10
+      title: CrimeWatch 2024
+      subtitle: Episode 1
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2023 EP10 - Internet Love
-        Scam and Money Mule Offences"
-        src="https://www.youtube.com/embed/xvcnk8SnHfY" height="514"
-        width="914"></iframe>
+        web-share" frameborder="0" title="Crimewatch 2024 EP1 - Theft from a
+        Money Changer!" src="https://www.youtube.com/embed/hjp-mb6mfUQ"
+        height="695" width="1236"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
