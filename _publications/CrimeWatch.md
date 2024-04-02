@@ -2,21 +2,144 @@
 title: CrimeWatch
 permalink: /publications/crime-watch/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### <font style="color:#a20427;">CRIMEWATCH</font>
-
-![](/images/About/header-border.png)
-
-| EPISODE | WATCH |
-| -------- | -------- |
-| 2023 EP10 - Internet Love Scam and Money Mule Offences |  [Watch now](https://www.youtube.com/watch?v=xvcnk8SnHfY)    |
-| 2023 EP9 - Cybercrime Case |  [Watch now](https://www.youtube.com/watch?v=xF5GFbRFmUI)    |
-| 2023 EP8 -#OneHomeTeam Against Drug Trafficking |  [Watch now](https://www.youtube.com/watch?v=LlSWPny8NDs)    |
-| 2023 EP7 - Scam Thwarted by Joint Police-Bank Efforts |  [Watch now](https://www.youtube.com/watch?v=uIpIZVFV0z0)    |
-| 2023 EP6 - Slashing Case between two young suspects |  [Watch now](https://www.youtube.com/watch?v=Ws0WX2KcPJs)    |
-| 2023 EP5 - Identity Theft     |  [Watch now](https://www.youtube.com/watch?v=U3G1Sd03z4s&amp;t=1s)    |
-| 2023 EP4 - Moneylender Robbery     |  [Watch now](https://www.youtube.com/watch?v=hAexD8-AKfA&amp;t=172s)    |
-| 2023 EP3 - Armed Robbery     |  [Watch now](https://www.youtube.com/watch?v=wfsQ_2e_y-M&amp;ab_channel=Entertainment-Mediacorp)    |
-| 2023 EP2 - E-commerce Scams     |  [Watch now](https://www.youtube.com/watch?v=PsgBwyNzQ6w&amp;ab_channel=Entertainment-Mediacorp )    |
-| 2023 EP1 - Loanshark Network     |  [Watch now](https://www.youtube.com/watch?v=sreFTXJpRrw&amp;t=2s&amp;ab_channel=Entertainment-Mediacorp)    |
+<h4>CRIMEWATCH</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
+</div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<blockquote>
+<p>2024</p>
+</blockquote>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EPISODE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>WATCH</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 EP1 - Theft from a Money Changer!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=hjp-mb6mfUQ" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<blockquote>
+<p>2023</p>
+</blockquote>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EPISODE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>WATCH</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP10 - Internet Love Scam and Money Mule Offences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=xvcnk8SnHfY" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP9 - Cybercrime Case</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=xF5GFbRFmUI" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP8 -#OneHomeTeam Against Drug Trafficking</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=LlSWPny8NDs" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP7 - Scam Thwarted by Joint Police-Bank Efforts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=uIpIZVFV0z0" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP6 - Slashing Case between two young suspects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=Ws0WX2KcPJs" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP5 - Identity Theft</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=U3G1Sd03z4s&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP4 - Moneylender Robbery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=hAexD8-AKfA&amp;t=172s" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP3 - Armed Robbery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=wfsQ_2e_y-M&amp;ab_channel=Entertainment-Mediacorp" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP2 - E-commerce Scams</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=PsgBwyNzQ6w&amp;ab_channel=Entertainment-Mediacorp" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 EP1 - Loanshark Network</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=sreFTXJpRrw&amp;t=2s&amp;ab_channel=Entertainment-Mediacorp" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
