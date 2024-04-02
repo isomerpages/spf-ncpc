@@ -66,11 +66,11 @@ sections:
       title: CrimeWatch 2024
       subtitle: Episode 1
       id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2024 EP1 - Theft from a
-        Money Changer!" src="https://www.youtube.com/embed/hjp-mb6mfUQ"
-        height="695" width="1236"></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; media; gyroscope;
+        picture-in-picture; autoplay; clipboard-write; encrypted-web-share"
+        frameborder="0" title="Crimewatch 2024 EP1 - Theft from a Money
+        Changer!" src="https://www.youtube.com/embed/hjp-mb6mfUQ" height="665"
+        width="1206"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
