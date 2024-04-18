@@ -4,7 +4,7 @@ title: National Crime Prevention Council
 description: National Crime Prevention Council is a non-profit organization
   committed to promoting public awareness of and concern about crime and to
   propagate the concept of self-help in crime prevention.
-image: /images/logo-ncpc2.jpg
+image: /images/NCPC_logo.png
 permalink: /
 notification: ""
 sections:
