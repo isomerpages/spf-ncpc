@@ -19,7 +19,7 @@ sections:
           description: Get Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
         - title: Join the Fight
-          description: Lets Fight Against Scams
+          description: Let's Fight Against Scams
           url: https://www.scamalert.sg/fight
       subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
       variant: center
