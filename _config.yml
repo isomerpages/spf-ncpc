@@ -1,6 +1,6 @@
 title: National Crime Prevention Council
 url: https://ncpc.org.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/NCPC_logo__1_.png
 colors:
   primary-color: "#71011b"
   secondary-color: "#a20427"
@@ -54,7 +54,7 @@ plugins:
 staging: https://staging.d2lbmnnayfe7jh.amplifyapp.com
 prod: https://master.d2lbmnnayfe7jh.amplifyapp.com
 resources_name: news-and-events
-shareicon: /images/isomer-logo.svg
+shareicon: /images/NCPC_logo__1_.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

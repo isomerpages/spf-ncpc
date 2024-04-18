@@ -4,7 +4,7 @@ title: National Crime Prevention Council
 description: National Crime Prevention Council is a non-profit organization
   committed to promoting public awareness of and concern about crime and to
   propagate the concept of self-help in crime prevention.
-image: /images/isomer-logo.svg
+image: /images/NCPC_logo__1_.png
 permalink: /
 notification: ""
 sections:
@@ -19,7 +19,7 @@ sections:
           description: Get Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
         - title: Join the Fight
-          description: Lets Fight Against Scams
+          description: Let's Fight Against Scams
           url: https://www.scamalert.sg/fight
       subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
       variant: center
