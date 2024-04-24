@@ -27,6 +27,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024 EP 2 - Geylang Knife Attack</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=vU1bCwNHwmY" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024 EP1 - Theft from a Money Changer!</p>
 </td>
 <td rowspan="1" colspan="1">
