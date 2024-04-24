@@ -64,13 +64,13 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2024
-      subtitle: Episode 1
+      subtitle: Episode 2
       id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; media; gyroscope;
-        picture-in-picture; autoplay; clipboard-write; encrypted-web-share"
-        frameborder="0" title="Crimewatch 2024 EP1 - Theft from a Money
-        Changer!" src="https://www.youtube.com/embed/hjp-mb6mfUQ" height="665"
-        width="1206"></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="Crimewatch 2024 EP2 - Geylang Knife
+        Attack" src="https://www.youtube.com/embed/vU1bCwNHwmY" height="602"
+        width="1071"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
