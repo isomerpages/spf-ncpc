@@ -12,6 +12,165 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>May 2024</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACE the Place CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 320, Ang Mo Kio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1545:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nan Hua Primary School Cub Scouts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elias Park Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 503, Woodlands Dr 14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1200:1800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orchard TEL Station</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDEF</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1200:1800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orchard TEL Station</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Society for Wings</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1300:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PCS Evergreen Circle AAC</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Apr 2024</h4>
 <table>
 <tbody>
