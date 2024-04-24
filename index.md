@@ -69,8 +69,8 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="Crimewatch 2024 EP2 - Geylang Knife
-        Attack" src="https://www.youtube.com/embed/vU1bCwNHwmY" height="602"
-        width="1071"></iframe>
+        Attack" src="https://www.youtube.com/embed/vU1bCwNHwmY" height="355"
+        width="600"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
