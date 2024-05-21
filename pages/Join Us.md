@@ -2,6 +2,7 @@
 title: Join Us
 permalink: /joinus/
 description: ""
+variant: markdown
 ---
 #### <font style="color:#a20427;">CRIME PREVENTION AMBASSADORS (CPA)</font>
 
@@ -24,19 +25,3 @@ The role of CPA is to assist our officers to:
 *   conduct crime prevention talk/exhibition in schools.
 
 [Be part of our Crime Prevention Programme](https://www.mha.gov.sg/volunteers/home-team-volunteer-scheme/detail/Details/crime-prevention-ambassador-ncpc)&nbsp;to play your part in keeping Singapore safe and secure for all.<br><br>
-
-<hr>
-
-##### <font style="color:#a20427;">HOW TO BE A CPA</font>
-
-All engagements of CPAs are to be done through the:  
-  
-**The Co-ordinator**  
-Crime Prevention Ambassador Programme  
-National Crime Prevention Council  
-Police Headquarters 
-
-Download the CPA Application Form&nbsp;[**here**](https://www.ncpc.org.sg/downloads/CPA%20Application%20form.doc)&nbsp;and email your complete application form to us.
-
-**Email:**&nbsp;[enquiries@ncpc.org.sg](mailto:enquiries@ncpc.org.sg)  
-**Tel:**&nbsp;(65) 6478 2101
