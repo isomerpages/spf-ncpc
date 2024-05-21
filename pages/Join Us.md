@@ -4,7 +4,7 @@ permalink: /joinus/
 description: ""
 variant: tiptap
 ---
-<h1>CRIME PREVENTION AMBASSADORS (CPA)</h1>
+<h2>CRIME PREVENTION AMBASSADORS (CPA)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
