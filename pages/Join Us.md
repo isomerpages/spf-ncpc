@@ -4,7 +4,7 @@ permalink: /joinus/
 description: ""
 variant: tiptap
 ---
-<h4>CRIME PREVENTION AMBASSADORS (CPA)</h4>
+<h1>CRIME PREVENTION AMBASSADORS (CPA)</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
@@ -16,6 +16,7 @@ variant: tiptap
 Development, Youth and Sports (MCYS) and SPF to initiate the Crime Prevention
 Ambassadors (CPA) programme. This was expanded to include the CPA in May
 2024.</p>
+<p></p>
 <blockquote>
 <h4>Crime Prevention Ambassador</h4>
 </blockquote>
@@ -31,11 +32,19 @@ participants.</p>
 families, but also provides an avenue to integrate senior citizens back
 into society as active volunteers after their retirement from the work
 force.</p>
-<p>The role of the CPA is to assist NCPC to: • conduct chit chat sessions
-with senior citizens at RCs, CCs, etc; • conduct training sessions with
-police officers; and • conduct crime prevention talk/exhibition in schools
-and various organisations.</p>
+<p>The role of the CPA is to assist NCPC to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>conduct chit chat sessions with senior citizens at RCs, CCs, etc;</p>
+</li>
+<li>
+<p>conduct training sessions with police officers; and</p>
+</li>
+<li>
+<p>conduct crime prevention talk/exhibition in schools and various organisations.</p>
 <p></p>
+</li>
+</ul>
 <blockquote>
 <h5>Cyber Crime Prevention Ambassador</h5>
 </blockquote>
