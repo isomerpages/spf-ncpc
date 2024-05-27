@@ -8,7 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -24,6 +28,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>WATCH</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Ep 3 - Viewing and Possession of Child Abuse Materials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=uAE4R7xoqs0&amp;list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV&amp;index=3" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
