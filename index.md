@@ -64,13 +64,14 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2024
-      subtitle: Episode 2
+      subtitle: Episode 3
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2024 EP2 - Geylang Knife
-        Attack" src="https://www.youtube.com/embed/vU1bCwNHwmY" height="355"
-        width="600"></iframe>
+        web-share" frameborder="0" title="Crimewatch 2024 EP3 - Viewing and
+        Possession of Child Abuse Materials"
+        src="https://www.youtube.com/embed/uAE4R7xoqs0?list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV"
+        height="355" width="600"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
