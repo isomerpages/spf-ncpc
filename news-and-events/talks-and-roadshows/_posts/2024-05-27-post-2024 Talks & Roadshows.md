@@ -1,7 +1,7 @@
 ---
 title: 2024 Talks & Roadshows
 permalink: /news-and-events/events/2024/
-date: 2024-03-26
+date: 2024-05-27
 layout: post
 description: ""
 image: ""
@@ -12,8 +12,109 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>June 2024</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SASCO @ Hong San</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Webniar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Street 41</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1230:1330</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh Safra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1230 &amp; 1430</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Andrew's Nursing Home (Queenstown)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>May 2024</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -172,7 +273,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Apr 2024</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -317,7 +424,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Mar 2024</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -462,7 +575,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Feb 2024</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -537,7 +656,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Jan 2024</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
