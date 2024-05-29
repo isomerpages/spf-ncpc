@@ -8,7 +8,7 @@ variant: markdown
 
 | Year | Media Release |
 | -------- | -------- | 
-| 24 Jan 2024  | [FUTURE-READY SPF: CYBER AND BEYOND](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/POLICE-WORKPLAN-SEMINAR-2024-A-FUTURE-READY-SPF-CYBER-AND-BEYOND.pdf)| 
+| 24 May 2024  | [FUTURE-READY SPF: CYBER AND BEYOND](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/POLICE-WORKPLAN-SEMINAR-2024-A-FUTURE-READY-SPF-CYBER-AND-BEYOND.pdf)| 
 | 24 Jan 2024  | [Launch of Safe Clubbing Campaign](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/News-Release-LAUNCHOFSAFECLUBBINGCAMPAIGNON24JANUARY2024.pdf)| 
 | 14 Nov 2023   | [Pledge of Commitment In The Fight Against Scams By The Real Estate Community Partners](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/JOINT-NEWS-RELEASE-PLEDGE-OF-COMMITMENT-IN-THE-FIGHT-AGAINST-SCAMS-BY-THE-REAL-ESTATE-COMMUNITY-PARTNERS.pdf)| 
 | 9 Nov 2023   | [Year-End Crime Prevention Campaign Launch 2023](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/Joint-News-Release-Year-End-Crime-Prevention-Campaign-Launch-2023-9Nov.pdf)| 
@@ -19,7 +19,7 @@ variant: markdown
 | 25 Jun 2022  | [Conclusion Of 22nd Edition Of Delta League (June 2022) &amp; Launch Of Singapore Police Force’s Two New Anti-Scam Games: ‘Scam Me If You Can’ And ‘Scambat’](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/CONCLUSION-OF-22ND-EDITION-OF-DELTA-LEAGUE.pdf)| 
 | 23 Dec 2021   | [Delta League Concludes 21st Edition (December 2021) &amp; Launch Of Police Pal, Singapore Police Force’s Flagship Youth Engagement Programme For Primary School Students](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/DELTA-LEAGUE-CONCLUDES-21ST-EDITION-23dec21.pdf)| 
 | 25 Jun 2021   | [Delta League Concludes 20th Edition](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/DELTA-LEAGUE-CONCLUDES-20TH-EDITION-25Jun21.pdf)| 
-| 19 Dec 2020  | [Delta League Concludes 19th E-Edition](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/DELTA LEAGUE CONCLUDES 19TH E-EDITION-DECEMBER 2020.pdf)| 
+| 19 Dec 2020  | [Delta League Concludes 19th E-Edition](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/DELTA-LEAGUE-CONCLUDES-19TH-E-EDITION-DECEMBER-2020.pdf)| 
 | 20 Nov 2020   | [NCPC Fights Scams With New Scamshield Application](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/NCPC-FIGHTS-SCAMS-WITH-NEW-SCAMSHIELD-APPLICATION-20Nov2020.pdf)| 
 | 27 Aug 2020   | [Launch Of “Spot The Signs. Stop The Crimes.” Anti-Scam Campaign](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/LAUNCH-OF-SPOT-THE-SIGNS-STOP-THE-CRIMES-ANTI-SCAM-CAMPAIGN-202027Aug.pdf)| 
 | 21 Dec 2019  | [Delta League Concludes 18th Edition](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/DELTA-LEAGUE-CONCLUDES-18TH-EDITION-DECEMBER-2019.pdf)| 
