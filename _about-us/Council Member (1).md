@@ -15,7 +15,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr K Shanmugam</div>
-<div class="isomer-card-description">Patron-in-Chief Minister Home Affairs and Law</div>
+	<div class="isomer-card-description"><br><b>Patron-in-Chief</b> <br> Minister Home Affairs and Law</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -25,8 +25,8 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Shaw Vee Meng, PBM</div>
-<div class="isomer-card-description">Patron Chairman The Shaw Organisation Pte Ltd The Shaw Foundation Pte
+<div class="isomer-card-title">Dr Shaw Vee Meng, <br>PBM</div>
+	<div class="isomer-card-description"><b>Patron</b> <br>Chairman <br> <i> The Shaw Organisation Pte Ltd <br>The Shaw Foundation Pte </i>
 Ltd</div>
 </div>
 </div>
@@ -37,8 +37,8 @@ Ltd</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Lim Hock Chee, BBM</div>
-<div class="isomer-card-description">Patron Chief Executive Officer Sheng Siong Group Ltd</div>
+<div class="isomer-card-title">Mr Lim Hock Chee, <br>BBM</div>
+	<div class="isomer-card-description"><b>Patron</b> <br> Chief Executive Officer <br><i> Sheng Siong Group Ltd</i></div>
 </div>
 </div>
 </div>
@@ -52,9 +52,8 @@ Ltd</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Gerald Balendran Singham, JP, BBM(L), PBM</div>
-<div class="isomer-card-description">Chairman Global Vice-Chair and ASEAN CEO Dentons Rodyk &amp; Davidson
-LLP</div>
+<div class="isomer-card-title">Mr Gerald Balendran Singham, <br>JP, BBM(L), PBM</div>
+	<div class="isomer-card-description"><b>Chairman</b> <br> Global Vice-Chair and ASEAN CEO <br><i>Dentons Rodyk &amp; Davidson LLP </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -64,9 +63,8 @@ LLP</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Tan Puay Kern, BBM, PBM, PPA(P)</div>
-<div class="isomer-card-description">Vice Chairman Vice President Security Service Department Marina Bay Sands
-Pte Ltd</div>
+<div class="isomer-card-title">Mr Tan Puay Kern, <br> BBM, PBM, PPA(P)</div>
+	<div class="isomer-card-description"><br><b>Vice Chairman</b><br> Vice President Security Service Department <br><i>Marina Bay Sands Pte Ltd </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -76,8 +74,8 @@ Pte Ltd</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Lim Chin Keong, PBM</div>
-<div class="isomer-card-description">Honorary Treasurer Managing Director Progress Galvanizing Pte Ltd</div>
+<div class="isomer-card-title">Mr Lim Chin Keong, <br>PBM</div>
+<div class="isomer-card-description"><br><b>Honorary Treasurer </b><br> Managing Director<br><i>Progress Galvanizing Pte Ltd</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -88,8 +86,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Abigail Ng</div>
-<div class="isomer-card-description">Executive Director, Markets Policy &amp; Consumer Department Monetary
-Authority of Singapore</div>
+<div class="isomer-card-description">Executive Director <br> Markets Policy &amp; Consumer Department <br> <i> Monetary Authority of Singapore </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -100,7 +97,7 @@ Authority of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Benjamin Tay</div>
-<div class="isomer-card-description">Chief Executive Officer Power Automation Pte Ltd</div>
+	<div class="isomer-card-description"> Chief Executive Officer <br>  <i>Power Automation Pte Ltd</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -111,7 +108,7 @@ Authority of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Bernard Choo</div>
-<div class="isomer-card-description">Editor - Shin Min Daily News Singapore Press Holdings</div>
+<div class="isomer-card-description">Editor - Shin Min Daily News <br> <i> Singapore Press Holdings</i></div>
 </div>
 </div>
 <div class="isomer-card">
