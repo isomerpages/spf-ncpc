@@ -83,6 +83,18 @@ Pte Ltd</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Abigail Ng" src="/images/Publications/Council Member/Ms_Abigail_Ng.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Abigail Ng</div>
+<div class="isomer-card-description">Executive Director, Markets Policy &amp; Consumer Department Monetary
+Authority of Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Benjamin Tay" src="/images/Publications/Council Member/Mr_Benjamin_Tay.png">
 </div>
 </div>
@@ -180,6 +192,63 @@ and Research (AWARE)</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Nicholas Aaron Khoo</div>
 <div class="isomer-card-description">Chief Operating Officer Global Star Acquisition Inc.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Koh Chong Mong PPA(P), PBS" src="/images/Publications/Council Member/Mr_Koh_Chong_Mong.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Koh Chong Mong PPA(P), PBS</div>
+<div class="isomer-card-description">Cluster Superintendent, South 7 Ministry of Education</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Ku Tse Kian" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Ku Tse Kian</div>
+<div class="isomer-card-description">Executive Director, Regional Group Head, Business Development Group, Commercial
+Banking United Overseas Bank Limited</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lian Ghim Hua" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Lian Ghim Hua</div>
+<div class="isomer-card-description">Deputy Commissioner (Operations) Singapore Police Force</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Majeed Khader PPA (G) &amp; PPA (P), PBS" src="/images/Publications/Council Member/Dr_Majeed.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Majeed Khader PPA (G) &amp; PPA (P), PBS</div>
+<div class="isomer-card-description">Director HTBSC, Senior Consultant Psychologist Home Team Behavioural Sciences
+Centre</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mike Chan PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS" src="/images/Publications/Council Member/Mr_Mike_Chan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Mike Chan PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS</div>
+<div class="isomer-card-description">Deputy Chief Executive Officer (Estate) Housing &amp; Development Board</div>
 </div>
 </div>
 </div>
