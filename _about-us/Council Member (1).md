@@ -253,6 +253,52 @@ Centre</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Ng Khee Jin PBM" src="/images/Publications/Council Member/Mr_Ng_Khee_Jin.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Ng Khee Jin PBM</div>
+<div class="isomer-card-description">Creative Partner Kheej LLP</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Steven Goh" src="/images/Mr_Steven_Goh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Steven Goh</div>
+<div class="isomer-card-description">Managing Director Orchard Road Business Association</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Wong Voal Voal" src="/images/Publications/Council Member/Mr_Wong_Voal_Voal.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Wong Voal Voal</div>
+<div class="isomer-card-description">Co-founder &amp; Managing Partner IN.FOM</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Zahidi Bin Abdul Rahman BBM, PBM" src="/images/Mr_Zahidi.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Zahidi Bin Abdul Rahman BBM, PBM</div>
+<div class="isomer-card-description">Principal Architect Zahidi A.R Arkitek</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
