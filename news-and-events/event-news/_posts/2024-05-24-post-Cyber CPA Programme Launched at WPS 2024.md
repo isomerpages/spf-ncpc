@@ -17,4 +17,4 @@ SPF’s Workplan Seminar on 24 May 2024.&nbsp;</p>
 <p>Our&nbsp;Cyber CPAs, who have been trained on the latest cybercrime and
 scam prevention measures, will be deployed to educate the public on the
 importance of cybercrime and scam prevention at community events, roadshows,
-talks, etc.&nbsp;</p>
+and talks.</p>
