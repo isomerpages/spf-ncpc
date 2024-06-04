@@ -56,4 +56,7 @@ of the penalties of illegal betting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/posters.JPG">
 </div>
+<div class="iframe-wrapper">
+<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0kvaZut9DtI"></iframe>
+</div>
 <p></p>
