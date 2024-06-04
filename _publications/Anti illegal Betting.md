@@ -11,7 +11,7 @@ variant: tiptap
 <p>Illegal betting is a serious crime offence that carries a maximum fine
 of $10,000 and 6 months imprisonment</p><a class="isomer-image-wrapper" href="https://appdev.ifdemo.com/ncpcorgsg/downloads/NCPC-Anti-Illegal-Betting.mp4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AntiIllegal_betting.jpg"></a>
 <div class="iframe-wrapper">
-<iframe height="600" width="1200" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0kvaZut9DtI"></iframe>
+<iframe height="400" width="1000" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0kvaZut9DtI"></iframe>
 </div>
 <h5>Related News Articles:</h5>
 <ol data-tight="true" class="tight">
@@ -58,8 +58,5 @@ would like to thank all participants for taking part in this competition.</p>
 of the penalties of illegal betting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/posters.JPG">
-</div>
-<div class="iframe-wrapper">
-<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0kvaZut9DtI"></iframe>
 </div>
 <p></p>
