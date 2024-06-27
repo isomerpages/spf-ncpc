@@ -14,7 +14,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr K Shanmugam</div>
-<div class="isomer-card-description">Patron-in-Chief Minister Home Affairs and Law</div>
+<div class="isomer-card-description">Patron-in-Chief <br> Minister Home Affairs and Law</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -25,10 +25,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Shaw Vee Meng, PBM</div>
-<div class="isomer-card-description">Patron Chairman The Shaw Organisation Pte Ltd The Shaw Foundation Pte
-Ltd</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Lim Hock Chee, BBM" src="/images/Publications/Council Member/Mr_Lim_Hock_Chee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Lim Hock Chee, BBM</div><div class="isomer-card-description">Patron Chief Executive Officer Sheng Siong Group Ltd</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-description"> Patron <br> Chairman <br><i> The Shaw Organisation Pte Ltd <br> <i>The Shaw Foundation Pte Ltd </i></i></div><i><i>
+</i></i></div><i><i>
+</i></i></div><i><i><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Lim Hock Chee, BBM" src="/images/Publications/Council Member/Mr_Lim_Hock_Chee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Lim Hock Chee, BBM</div><div class="isomer-card-description">Patron Chief Executive Officer Sheng Siong Group Ltd</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -201,7 +200,7 @@ and Research (AWARE)</div>
 Banking United Overseas Bank Limited</div>
 </div>
 </div>
-</div>
+</i></i></div><i><i>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -281,4 +280,4 @@ Banking United Overseas Bank Limited</div>
 </div>
 </div>
 </div>
-<p></p>
+<p></p></i></i>
