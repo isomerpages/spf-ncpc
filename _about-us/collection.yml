@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Council Member (Draft).md
       - Introduction.md
       - Our Vision and Mission.md
       - Chairman's Message.md
