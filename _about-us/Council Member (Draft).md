@@ -28,9 +28,7 @@ description: ""
 <div class="isomer-card-description">Patron Chairman The Shaw Organisation Pte Ltd The Shaw Foundation Pte
 Ltd</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Lim Hock Chee, BBM" src="/images/Publications/Council Member/Mr_Lim_Hock_Chee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Lim Hock Chee, BBM</div><div class="isomer-card-description">Patron
-Chief Executive Officer
-Sheng Siong Group Ltd</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Lim Hock Chee, BBM" src="/images/Publications/Council Member/Mr_Lim_Hock_Chee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Lim Hock Chee, BBM</div><div class="isomer-card-description">Patron Chief Executive Officer Sheng Siong Group Ltd</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -208,12 +206,12 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lian Ghim Hua, PPA(P)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lian Ghim Hua, PPA(P)" src="/images/Publications/Council Member/Mr_Lian_Ghim_Hua.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Lian Ghim Hua, PPA(P)</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Deputy Commissioner (Operations) Singapore Police Force</div>
 </div>
 </div>
 <div class="isomer-card">
