@@ -1,7 +1,7 @@
 ---
 title: Council Member (Draft)
 permalink: /council-member-draft/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p></p>
@@ -14,7 +14,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr K Shanmugam</div>
-	<div class="isomer-card-description"><b>Patron-in-Chief</b> <br> Minister Home Affairs and Law</div>
+<div class="isomer-card-description">Patron-in-Chief</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -24,9 +24,8 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Shaw Vee Meng, <br> PBM</div>
-<div class="isomer-card-description"><b>Patron</b> <br>Chairman <br> <i>The Shaw Organisation Pte Ltd <br> The Shaw Foundation Pte
-Ltd</i></div>
+<div class="isomer-card-title">Dr Shaw Vee Meng,</div>
+<div class="isomer-card-description">Patron</div>
 </div>
 </div>
 <div class="isomer-card">
