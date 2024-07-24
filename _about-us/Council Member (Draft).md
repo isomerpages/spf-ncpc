@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr K Shanmugam" src="/images/Council Member/K_Shanmugam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr K Shanmugam" src="/images/Council Members/K_Shanmugam.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Shaw Vee Meng, PBM" src="/images/Council Member/Shaw_Vee_Meng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Shaw Vee Meng, PBM" src="/images/Council Members/Shaw_Vee_Meng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -32,7 +32,7 @@ Ltd</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lim Hock Chee, BBM" src="/images/Council Member/Lim_Hock_Chee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lim Hock Chee, BBM" src="/images/Council Members/Lim_Hock_Chee.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -43,7 +43,7 @@ Ltd</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Gerald Balendran Singham, JP, BBM(L), PBM" src="/images/Council Member/Gerald_Singham.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Gerald Balendran Singham, JP, BBM(L), PBM" src="/images/Council Members/Gerald_Singham.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
