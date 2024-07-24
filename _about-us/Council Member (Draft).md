@@ -49,8 +49,8 @@ Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Gerald Balendran Singham, JP, BBM(L), PBM</div>
-<div class="isomer-card-description">Chairman Global Vice-Chair and ASEAN CEO Dentons Rodyk &amp; Davidson
-LLP</div>
+	<div class="isomer-card-description"><b>Chairman</b><br> Global Vice-Chair and ASEAN CEO <br> <i>Dentons Rodyk &amp; Davidson LLP</i>
+</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -61,7 +61,7 @@ LLP</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Tan Puay Kern, BBM, PBM, PPA(P)</div>
-<div class="isomer-card-description">Vice Chairman Vice President Security Service Department Marina Bay Sands
+	<div class="isomer-card-description"><b>Vice Chairman</b><br> Vice President Security Service Department <br><i>Marina Bay Sands</i>
 Pte Ltd</div>
 </div>
 </div>
@@ -73,7 +73,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Lim Chin Keong, PBM</div>
-<div class="isomer-card-description">Honorary Treasurer Managing Director Progress Galvanizing Pte Ltd</div>
+	<div class="isomer-card-description"><b>Honorary Treasurer</b><br> Managing Director<br><i> Progress Galvanizing Pte Ltd</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -84,8 +84,8 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Abigail Ng</div>
-<div class="isomer-card-description">Executive Director Markets Policy and Consumer Department Monetary Authority
-of Singapore</div>
+<div class="isomer-card-description">Executive Director <br> Markets Policy and Consumer Department <br> <i> Monetary Authority
+	of Singapore</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -95,8 +95,8 @@ of Singapore</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Benjamin Tay</div>
-<div class="isomer-card-description">Chief Executive Officer Power Automation Pte Ltd</div>
+<div class="isomer-card-title">Mr Benjamin Tay</div>
+	<div class="isomer-card-description">Chief Executive Officer <br> <i>Power Automation Pte Ltd</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -107,7 +107,7 @@ of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Bernard Choo</div>
-<div class="isomer-card-description">Editor - Shin Min Daily News Singapore Press Holdings</div>
+<div class="isomer-card-description">Editor <br>Shin Min Daily News <br><i> Singapore Press Holdings</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -118,8 +118,8 @@ of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Carol Soon</div>
-<div class="isomer-card-description">Principal Research Fellow, Institute of Policy Studies National University
-of Singapore</div>
+<div class="isomer-card-description">Principal Research Fellow, <br>Institute of Policy Studies <br><i>National University
+	of Singapore</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -130,8 +130,8 @@ of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dan Yock Hau, PPA(P), PPA(G), PP, PBS</div>
-<div class="isomer-card-description">Assistant Chief Executive (National Cyber Resilience) Cyber Security Agency
-of Singapore</div>
+<div class="isomer-card-description">Assistant Chief Executive <br> (National Cyber Resilience) <br><i>Cyber Security Agency
+	of Singapore</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -142,7 +142,7 @@ of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Daryl Poon</div>
-<div class="isomer-card-description">Head of Trust &amp; Safety (Southeast-Asia I &amp; Northeast Asia) Meta</div>
+<div class="isomer-card-description">Head of Trust &amp; Safety (Southeast-Asia I &amp; Northeast Asia)<br><i> Meta</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -153,8 +153,8 @@ of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Hana Alhadad</div>
-<div class="isomer-card-description">Senior Consultant &amp; Lead Researcher Association of Women for Action
-and Research (AWARE)</div>
+<div class="isomer-card-description">Senior Consultant &amp; Lead Researcher <br> <i> Association of Women for Action
+	and Research (AWARE)</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -164,8 +164,8 @@ and Research (AWARE)</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Jimmy Toh Yong Leng PPA(G), PBS</div>
-<div class="isomer-card-description">Chief Executive Director People’s Association</div>
+<div class="isomer-card-title">Mr Jimmy Toh Yong Leng, PPA(G), PBS</div>
+	<div class="isomer-card-description">Chief Executive Director <br> <i>People’s Association</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -176,7 +176,7 @@ and Research (AWARE)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Nicholas Aaron Khoo</div>
-<div class="isomer-card-description">Chief Operating Officer Global Star Acquisition Inc.</div>
+<div class="isomer-card-description">Chief Operating Officer <br><i> Global Star Acquisition Inc.</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -186,8 +186,8 @@ and Research (AWARE)</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Koh Chong Mong PPA(P), PBS</div>
-<div class="isomer-card-description">Cluster Superintendent, South 7 Ministry of Education</div>
+<div class="isomer-card-title">Mr Koh Chong Mong, PPA(P), PBS</div>
+<div class="isomer-card-description">Cluster Superintendent, South 7 <br> <i> Ministry of Education </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -198,8 +198,8 @@ and Research (AWARE)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Ku Tse Kian</div>
-<div class="isomer-card-description">Executive Director, Regional Group Head, Business Development Group, Commercial
-Banking United Overseas Bank Limited</div>
+<div class="isomer-card-description">Executive Director,<br> Regional Group Head, Business Development Group, Commercial
+	Banking <br> <i>United Overseas Bank Limited</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -209,8 +209,8 @@ Banking United Overseas Bank Limited</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Lian Ghim Hua PPA(P), PPA(P) (COVID 19)</div>
-<div class="isomer-card-description">Deputy Commissioner (Operations) Singapore Police Force</div>
+<div class="isomer-card-title">Mr Lian Ghim Hua, PPA(P), PPA(P) (COVID 19)</div>
+<div class="isomer-card-description">Deputy Commissioner (Operations)<br><i> Singapore Police Force</i></div>
 </div>
 </div>
 </div>
@@ -223,8 +223,8 @@ Banking United Overseas Bank Limited</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Majeed Khader PPA (G) &amp; PPA (P), PBS</div>
-<div class="isomer-card-description">Chief Psychologist Ministry of Home Affairs</div>
+<div class="isomer-card-title">Dr Majeed Khader, PPA (G) &amp; PPA (P), PBS</div>
+	<div class="isomer-card-description">Chief Psychologist <br> <i> Ministry of Home Affairs</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -234,8 +234,8 @@ Banking United Overseas Bank Limited</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Mike Chan PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS</div>
-<div class="isomer-card-description">Deputy Chief Executive Officer (Estate) Housing &amp; Development Board</div>
+<div class="isomer-card-title">Mr Mike Chan, PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS</div>
+<div class="isomer-card-description">Deputy Chief Executive Officer (Estate) <br> <i>Housing &amp; Development Board</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -245,8 +245,8 @@ Banking United Overseas Bank Limited</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Ng Khee Jin PBM</div>
-<div class="isomer-card-description">Creative Partner Kheej LLP</div>
+<div class="isomer-card-title">Mr Ng Khee Jin, PBM</div>
+	<div class="isomer-card-description">Creative Partner <br> <i> Kheej LLP</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -257,7 +257,7 @@ Banking United Overseas Bank Limited</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Steven Goh</div>
-<div class="isomer-card-description">Managing Director Orchard Road Business Association</div>
+	<div class="isomer-card-description">Managing Director <br><i> Orchard Road Business Association</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -268,9 +268,9 @@ Banking United Overseas Bank Limited</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Wong Voal Voal</div>
-<div class="isomer-card-description">Co-founder &amp; Managing Partner IN.FOM</div>
-</div>
-</div>
+	<div class="isomer-card-description">Co-founder &amp; Managing Partner <br> IN.FOM<i></i></div><i>
+</i></div><i>
+</i></div><i>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -278,9 +278,9 @@ Banking United Overseas Bank Limited</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Zahidi Bin Abdul Rahman BBM, PBM</div>
-<div class="isomer-card-description">Principal Architect Zahidi A.R Arkitek</div>
+<div class="isomer-card-title">Mr Zahidi Bin Abdul Rahman. BBM, PBM</div>
+	<div class="isomer-card-description">Principal Architect <br> <i>Zahidi A.R Arkitek </i> </div>
 </div>
 </div>
-</div>
-<p></p>
+</i></div><i>
+<p></p></i>
