@@ -14,7 +14,8 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr K Shanmugam</div>
-<div class="isomer-card-description">Patron-in-Chief</div>
+	<div class="isomer-card-description"><b>Patron-in-Chief</b> <br> Minister  
+Home Affairs and Law</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -25,7 +26,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Shaw Vee Meng, PBM</div>
-<div class="isomer-card-description">Patron Chairman The Shaw Organisation Pte Ltd The Shaw Foundation Pte
+	<div class="isomer-card-description"><b>Patron</b> <br> Chairman <br> <i>The Shaw Organisation Pte Ltd <br> The Shaw Foundation Pte </i>
 Ltd</div>
 </div>
 </div>
@@ -37,7 +38,7 @@ Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Lim Hock Chee, BBM</div>
-<div class="isomer-card-description">Patron Chief Executive Officer Sheng Siong Group Ltd</div>
+	<div class="isomer-card-description"><b>Patron</b><br> Chief Executive Officer<br><i> Sheng Siong Group Ltd</i></div>
 </div>
 </div>
 <div class="isomer-card">
