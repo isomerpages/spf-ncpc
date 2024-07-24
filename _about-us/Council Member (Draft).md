@@ -268,9 +268,9 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Wong Voal Voal</div>
-	<div class="isomer-card-description">Co-founder &amp; Managing Partner <br> <i>IN.FOM</i></div></div><i>
-</i></div><i>
-</i><div class="isomer-card"><i>
+	<div class="isomer-card-description">Co-founder &amp; Managing Partner <br> <i>IN.FOM</i></div></div>
+</div>
+<div class="isomer-card"><i>
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Zahidi Bin Abdul Rahman BBM, PBM" src="/images/Council Members/Mr_Zahidi.jpg">
