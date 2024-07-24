@@ -12,6 +12,101 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>August 2024</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 125 Geylang East Avenue 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1415:1515</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk (Zoom)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ (Katong) Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OCBC Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1300:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cyber Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Police Cantonment Complex</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>July 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
