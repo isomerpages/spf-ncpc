@@ -55,7 +55,7 @@ LLP</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Tan Puay Kern, BBM, PBM, PPA(P)" src="/images/Council Member/Tan_Puay_Kern.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Tan Puay Kern, BBM, PBM, PPA(P)" src="/images/Council Members/Tan_Puay_Kern.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -67,7 +67,7 @@ Pte Ltd</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lim Chin Keong, PBM" src="/images/Council Member/Lim_Chin_Keong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lim Chin Keong, PBM" src="/images/Council Members/Lim_Chin_Keong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -78,7 +78,7 @@ Pte Ltd</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Abigail Ng" src="/images/Council Member/Abigail_Ng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Abigail Ng" src="/images/Council Members/Abigail_Ng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -90,7 +90,7 @@ of Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Benjamin Tay" src="/images/Council Member/Benjamin_Tay___1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Benjamin Tay" src="/images/Council Members/Benjamin_Tay___1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -101,7 +101,7 @@ of Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Bernard Choo" src="/images/Council Member/Bernard_Choo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Bernard Choo" src="/images/Council Members/Bernard_Choo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -112,7 +112,7 @@ of Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Carol Soon" src="/images/Council Member/Carol_Soon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Carol Soon" src="/images/Council Members/Carol_Soon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -124,7 +124,7 @@ of Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Dan Yock Hau, PPA(P), PPA(G), PP, PBS" src="/images/Council Member/Dan_Yock_Hau.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Dan Yock Hau, PPA(P), PPA(G), PP, PBS" src="/images/Council Members/Dan_Yock_Hau.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -136,7 +136,7 @@ of Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Daryl Poon" src="/images/Council Member/Daryl_Poon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Daryl Poon" src="/images/Council Members/Daryl_Poon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -147,7 +147,7 @@ of Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Hana Alhadad" src="/images/Council Member/Hana_Alhadad.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Hana Alhadad" src="/images/Council Members/Hana_Alhadad.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -159,7 +159,7 @@ and Research (AWARE)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Jimmy Toh Yong Leng PPA(G), PBS" src="/images/Council Member/Jimmy_Toh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jimmy Toh Yong Leng PPA(G), PBS" src="/images/Council Members/Jimmy_Toh.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -170,7 +170,7 @@ and Research (AWARE)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Nicholas Aaron Khoo" src="/images/Council Member/Nicholas_Aaron_Khoo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Nicholas Aaron Khoo" src="/images/Council Members/Nicholas_Aaron_Khoo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -181,7 +181,7 @@ and Research (AWARE)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Koh Chong Mong PPA(P), PBS" src="/images/Council Member/Koh_Chong_Mong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Koh Chong Mong PPA(P), PBS" src="/images/Council Members/Koh_Chong_Mong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -192,7 +192,7 @@ and Research (AWARE)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Ku Tse Kian" src="/images/Council Member/Ku_Tse_Kian.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Ku Tse Kian" src="/images/Council Members/Ku_Tse_Kian.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -204,7 +204,7 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lian Ghim Hua PPA(P), PPA(P) (COVID 19)" src="/images/Council Member/Lian_Ghim_Hua.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lian Ghim Hua PPA(P), PPA(P) (COVID 19)" src="/images/Council Members/Lian_Ghim_Hua.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -218,7 +218,7 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Majeed Khader PPA (G) &amp; PPA (P), PBS" src="/images/Council Member/Majeed_Khader.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Majeed Khader PPA (G) &amp; PPA (P), PBS" src="/images/Council Members/Majeed_Khader.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -229,7 +229,7 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Mike Chan PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS" src="/images/Council Member/Mike_Chan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mike Chan PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS" src="/images/Council Members/Mike_Chan.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -240,7 +240,7 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Ng Khee Jin PBM" src="/images/Council Member/Ng_Khee_Jin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Ng Khee Jin PBM" src="/images/Council Members/Ng_Khee_Jin.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -251,7 +251,7 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Steven Goh" src="/images/Council Member/Steven_Goh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Steven Goh" src="/images/Council Members/Steven_Goh.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -262,7 +262,7 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Wong Voal Voal" src="/images/Council Member/Wong_Voal_Voal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Wong Voal Voal" src="/images/Council Members/Wong_Voal_Voal.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -273,7 +273,7 @@ Banking United Overseas Bank Limited</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Zahidi Bin Abdul Rahman BBM, PBM" src="/images/Council Member/Mr_Zahidi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Zahidi Bin Abdul Rahman BBM, PBM" src="/images/Council Members/Mr_Zahidi.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
