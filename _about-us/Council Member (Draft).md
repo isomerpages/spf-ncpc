@@ -24,8 +24,9 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Shaw Vee Meng,</div>
-<div class="isomer-card-description">Patron</div>
+<div class="isomer-card-title">Dr Shaw Vee Meng, PBM</div>
+<div class="isomer-card-description">Patron Chairman The Shaw Organisation Pte Ltd The Shaw Foundation Pte
+Ltd</div>
 </div>
 </div>
 <div class="isomer-card">
