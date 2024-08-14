@@ -1,7 +1,7 @@
 ---
 title: Annual Reports
 permalink: /annualreport/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3>Annual Reports</h3>
