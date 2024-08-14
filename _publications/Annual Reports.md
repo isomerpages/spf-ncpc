@@ -16,9 +16,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>FY 2023 / 2024</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR23.jpg">
-</div>
+<p></p>
 </td>
 <th rowspan="1" colspan="1">
 <p>FY 2022 / 2023</p>
