@@ -2,65 +2,71 @@
 title: Chairman's Message
 permalink: /chairman/
 description: ""
+variant: markdown
 ---
 #### <font style="color:#a20427;">MESSAGE FROM CHAIRMAN</font>
 
 ![](/images/About/header-border.png)
 
-2022 was a memorable year as the National Crime
-Prevention Council held its belated 40th Anniversary
-Gala Dinner at the Marina Bay Sands. We had to postpone
-the event from 2021 due to the Covid-19 pandemic. I was
-delighted to finally meet all the donors, stakeholders
-and supporters in person to commemorate a most
-joyous milestone.
+In 2023, while the total number of physical crime cases
+dropped by 1.1%, scams and cybercrime cases increased
+significantly by 49.6%. Singapore continued to be a safe
+and secure city for everyone but the cyberspace still
+continues to be a concern.
 
-NCPC was founded on 4 July 1981. Inaugurating the
-Council at the Hyatt Hotel, then Home Affairs Minister
-Mr Chua Sian Chin said the Council was an experiment
-in seeing if Singaporeans could be persuaded to
-accept measures not through force of law, but through
-persuasion based on the merits of the case. Preventable
-physical crimes like robbery, housebreaking and theft
-were rampant in the 1980s. Since then, Singaporeans
-have met the call not to do things only when forced,
-but to appreciate that crime prevention is a shared
-responsibility.
+There were 277 days last year which were free from
+robbery, snatch theft and theft of motor vehicle. Compared
+to the 241 days in 2022, it was an improvement of 36
+days. The top physical crimes included shop theft, theft
+in dwelling, outrage of modesty and voyeurism. Shop
+theft alone accounted for 19.7% of all physical crimes.
+More than 68% of the cases took place at department
+stores, supermarkets and pharmacies.
 
-NCPC’s vision and mission still remains the same but
-the mode and type of crimes we face now are vastly
-different. Unthinkable four decades ago, crimes today
-are mostly taking place in cyberspace. In 2022, the
-number of scams and cybercrime cases in Singapore
-increased by 25.2% to 33,669 cases. As you may
-already know, the increase was again due to more
-scams reported by victims. The total number of scam
-cases shot up by 32.6% to 31,728 in 2022, from
-23,933 cases in 2021. Sadly, the total amount cheated
-by scams jumped to $660.7 million in 2022 alone. In just
-two years from 2021 to 2022, Singaporeans lost close
-to $1.3 billion to scammers.
+Although the number of outrage of modesty (OM) cases
+fell to 1,528 in 2023 (from 1,610 in 2022), NCPC continued
+to work with SPF and stakeholders to educate the public
+on the preventive measures. In January 2024, the fourth
+edition of the Safe Clubbing Campaign (formerly known
+as Smart Clubbing Campaign) was kicked off. It was
+strongly supported by the Singapore Nightlife Business
+Association and Singapore River One to foster a safe
+environment for patrons and staff of public entertainment
+outlets. NCPC has also been working with public
+transport operators to put up educational posters on OM
+at train stations, bus interchanges and on MRT trains.
 
-Collaborating with the police, private sector and the
-community, NCPC continued to devote much of its
-resources to fighting scams. The “I Can ACT Against
-Scams” campaign was launched to encourage
-everyone to proactively adopt anti-scam measures.
-The ScamShield mobile app, rolled out in November
-2020, has been downloaded by close to 600,000
-users. More than 7.4 million SMSes have been reported
-as potential scams, and more than 70,000 blacklisted
-phone numbers have been blocked by ScamShield
-to reduce opportunities for scammers to reach out to
-potential victims.
+The number of scams and cybercrime cases increased
+to 50,376 in 2023, compared to 33,669 cases the year
+before. There was a slight decrease in the total amount
+lost by victims, from $660.7 million to $651.8 million.
+Unfortunately, that was still a very large sum of money
+being cheated in a year.
 
-NCPC will press on to seek the support of our
-stakeholders to continue our fight against crime and
-keep Singapore safe. Last but definitely not the least,
-I would like to pay tribute to my fellow Council members,
-past and present – it is my privilege to be part of this
-great team. Thank you for your commitment, dedication
-and service to the nation!
+The top five scam types were job scams, e-commerce
+scams, fake friend call scams, phishing scams and
+investment scams. NCPC’s “I can ACT against Scams”
+campaign continued to educate Singaporeans on the
+common ways to protect themselves from scams. A
+new music video on ACT garnered more than one million
+views on social and digital platforms. Through a survey
+conducted in 2023, we were glad to find out that 79% of
+the 1,000 respondents recalled seeing at least one of our
+campaign posters. In addition, 78% were able to recall
+the messages under the ACT campaign. Meanwhile, the
+ScamShield app achieved more than 850,000 downloads
+and users submitted over 7.9 million suspected SMSes.
+Each report made by the ScamShield user helped to
+enhance the app’s detection capability, thus preventing
+scammers from reaching more victims.
+
+As can be seen, each and everyone of us can play a
+crucial role to keep ourselves and our loved ones safe.
+Indeed, crime prevention is a Shared Responsibility! Last
+but not least, I would like to express my gratitude to all
+the community partners, stakeholders and sponsors for
+contributing to the success of NCPC’s crime prevention
+programmes in 2023.
 
 **GERALD SINGHAM**&nbsp;, JP, BBM (L), PBM  
 Chairman, NCPC
