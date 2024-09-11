@@ -31,6 +31,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024 Ep 6 - Sale of Payment Accounts, with Money Mule Offences!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=HND2VIUVC7c" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024 Ep 5 - Affray</p>
 </td>
 <td rowspan="1" colspan="1">

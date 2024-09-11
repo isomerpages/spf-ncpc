@@ -1,7 +1,7 @@
 ---
 title: 2024 Talks & Roadshows
 permalink: /news-and-events/events/2024/
-date: 2024-07-24
+date: 2024-08-31
 layout: post
 description: ""
 image: ""
@@ -12,6 +12,228 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>September 2024</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lifelong Learning Institute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grab Service Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sankyu TDH Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1130:1230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanglin Club Orchard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Tampines Hub, Central Plaza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Motorola</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HTVN Briefing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MHQ</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0830:1030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 602A, Choa Chu Kang Street 62</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAFRA, Toa Payoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 231 Hougang Street 21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0700:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hibiscus Pavilion, 442 Hougang Ave 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1300:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE, Buona Vista</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Segar Meadows</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 669, Jalan Damai</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <h4>August 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
