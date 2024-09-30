@@ -11,15 +11,15 @@ sections:
   - hero:
       background: /images/Thank_you_for_calling_the_X_arh_Loong_hotline__As_of_Second_October_2024__this_hotline_has_been_decommissioned__For_immediate_assistance_regarding_loan_shark_activities__please_call_the_Police_hot__1_.png
       key_highlights:
-        - title: ScamAlert SG
+        - title: ScamShield.gov.sg
           description: Learn about Common Scams
-          url: https://www.scamalert.sg
+          url: https://www.scamshield.gov.sg/
         - title: Like us on Facebook
           description: Get Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
-        - title: Join the Fight
-          description: Let's Fight Against Scams
-          url: https://www.scamalert.sg/fight
+        - title: ScamShield Alert
+          description: Stay updated on latest scam
+          url: https://www.whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b
       variant: image
   - infobar:
       title: About NCPC
