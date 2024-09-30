@@ -9,8 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/hero-banner-home-bg-revised-2.png
-      title: I Can ACT Against Scams
+      background: /images/Thank_you_for_calling_the_X_arh_Loong_hotline__As_of_Second_October_2024__this_hotline_has_been_decommissioned__For_immediate_assistance_regarding_loan_shark_activities__please_call_the_Police_hot__1_.png
       key_highlights:
         - title: ScamAlert SG
           description: Learn about Common Scams
@@ -21,8 +20,7 @@ sections:
         - title: Join the Fight
           description: Let's Fight Against Scams
           url: https://www.scamalert.sg/fight
-      subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
-      variant: center
+      variant: image
   - infobar:
       title: About NCPC
       subtitle: Introduction
@@ -64,14 +62,14 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2024
-      subtitle: Episode 6
+      subtitle: Episode 7
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2024 EP6 - Sale of Payment
-        Accounts, with Money Mule Offences!"
-        src="https://www.youtube.com/embed/HND2VIUVC7c" height="355"
-        width="600"></iframe>
+        web-share" frameborder="0" title="Crimewatch 2024 EP7 - Housebreaking
+        and Theft! Catching the suspect before he flees Singapore!"
+        src="https://www.youtube.com/embed/Nk2LJh_j1fk?list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV"
+        height="355" width="600"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
