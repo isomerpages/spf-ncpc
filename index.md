@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Thank_you_for_calling_the_X_arh_Loong_hotline__As_of_Second_October_2024_this_hotline_has_been_decommissioned__For_immediate_assistance_regarding_loan_shark_activitie__002_.png
+      background: /images/Banners/hero-banner-home-bg-revised-2.png
       key_highlights:
         - title: ScamShield.gov.sg
           description: Learn about Common Scams
@@ -20,7 +20,9 @@ sections:
         - title: ScamShield Alert
           description: Stay updated on latest scam
           url: https://www.whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b
-      variant: image
+      variant: center
+      title: I Can ACT Against Scams
+      subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
   - infobar:
       title: About NCPC
       subtitle: Introduction
