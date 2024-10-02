@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Thank_you_for_calling_the_X_arh_Loong_hotline__As_of_Second_October_2024__this_hotline_has_been_decommissioned__For_immediate_assistance_regarding_loan_shark_activities__please_call_the_Police_hot__1_.png
+      background: /images/Thank_you_for_calling_the_X_arh_Loong_hotline__As_of_Second_October_2024_this_hotline_has_been_decommissioned__For_immediate_assistance_regarding_loan_shark_activitie__002_.png
       key_highlights:
         - title: ScamShield.gov.sg
           description: Learn about Common Scams
