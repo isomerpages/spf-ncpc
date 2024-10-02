@@ -10,19 +10,19 @@ notification: ""
 sections:
   - hero:
       background: /images/Banners/hero-banner-home-bg-revised-2.png
-      title: I Can ACT Against Scams
       key_highlights:
-        - title: ScamAlert SG
+        - title: ScamShield.gov.sg
           description: Learn about Common Scams
-          url: https://www.scamalert.sg
+          url: https://www.scamshield.gov.sg/
         - title: Like us on Facebook
           description: Get Crime Prevention updates
           url: https://www.facebook.com/ncpc.sg
-        - title: Join the Fight
-          description: Let's Fight Against Scams
-          url: https://www.scamalert.sg/fight
-      subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
+        - title: ScamShield Alert
+          description: Stay updated on latest scam
+          url: https://www.whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b
       variant: center
+      title: I Can ACT Against Scams
+      subtitle: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
   - infobar:
       title: About NCPC
       subtitle: Introduction
@@ -64,14 +64,14 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2024
-      subtitle: Episode 6
+      subtitle: Episode 7
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2024 EP6 - Sale of Payment
-        Accounts, with Money Mule Offences!"
-        src="https://www.youtube.com/embed/HND2VIUVC7c" height="355"
-        width="600"></iframe>
+        web-share" frameborder="0" title="Crimewatch 2024 EP7 - Housebreaking
+        and Theft! Catching the suspect before he flees Singapore!"
+        src="https://www.youtube.com/embed/Nk2LJh_j1fk?list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV"
+        height="355" width="600"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:

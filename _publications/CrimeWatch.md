@@ -31,6 +31,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024 Ep 7 - Housebreaking and Theft! Catching the suspect before he flees
+Singapore!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=Nk2LJh_j1fk&amp;list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV&amp;index=1" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024 Ep 6 - Sale of Payment Accounts, with Money Mule Offences!</p>
 </td>
 <td rowspan="1" colspan="1">

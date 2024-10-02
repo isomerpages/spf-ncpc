@@ -12,6 +12,102 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>October 2024</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1330:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Chai Chee CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk &amp; Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Water Academy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0800:1030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Tee Zon 12 RC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 166 Teck Whye Crescent (Pavilion)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0800:1030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 688 Choa Chu Kang Crescent Multi-Purpose Hall</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>September 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
