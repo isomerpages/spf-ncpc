@@ -32,6 +32,17 @@ sections:
       button: Learn more
       url: about
   - infopic:
+      title: "#XiamTheScams"
+      subtitle: Join the fight against scams
+      id: infopic
+      description: This fun, life simulation web game will test your decision-making
+        skills by navigating life's challenges, while learning how to avoid
+        scams.
+      button: Play Now
+      url: xiamthescams.sqkii.com/play
+      image: /images/XTS_KV__AREN___002_.png
+      alt: "#XiamTheScams"
+  - infopic:
       title: Outrage of Modesty
       subtitle: Crime Advisories
       description: Protect yourself. If you get molested, call the police.
