@@ -15,5 +15,5 @@ web game will test your decision-making skills by navigating life's challenges,
 while learning how to avoid scams.</p>
 <p>With more than $55,000 in cash prizes and up to 3,000 gifts up for grabs,
 playing smart could earn you big rewards.</p>
-<h4>Play Now: <a href="xiamthescams.sqkii.com/play" rel="noopener nofollow" target="_blank">#XiamTheScams</a></h4>
+<h4>Play Now: <a href="https://xiamthescams.sqkii.com/play" rel="noopener nofollow" target="_blank">#XiamTheScams</a></h4>
 <p></p>
