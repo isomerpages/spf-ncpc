@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - XiamTheScams.md
       - Annual Reports.md
       - Media Releases.md
       - CrimeWatch.md
