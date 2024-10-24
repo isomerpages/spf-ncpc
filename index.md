@@ -39,7 +39,7 @@ sections:
         skills by navigating life's challenges, while learning how to avoid
         scams.
       button: Play Now
-      url: xiamthescams.sqkii.com/play
+      url: https://xiamthescams.sqkii.com/play
       image: /images/XTS_KV__AREN___002_.png
       alt: "#XiamTheScams"
   - infopic:
