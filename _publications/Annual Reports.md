@@ -18,10 +18,7 @@ description: ""
 </p><a class="isomer-image-wrapper" href="https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/NCPC_AR2023_Final.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR2324.jpg"></a>
 </td>
 <th rowspan="1" colspan="1">
-<p>FY 2022 / 2023</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR22.jpg">
-</div>
+<p>FY 2022 / 2023</p><a class="isomer-image-wrapper" href="https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/NCPC_AR2023_Online.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR22.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p>FY 2021 / 2022</p><a class="isomer-image-wrapper" href="https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/NCPC_AR2022_Online.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR21.jpg"></a>
@@ -47,10 +44,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FY 2016 / 2017</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR16.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/NCPC%20AR2016%20FA.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR16.jpg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
