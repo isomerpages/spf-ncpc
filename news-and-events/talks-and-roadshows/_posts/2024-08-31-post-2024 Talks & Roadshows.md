@@ -12,6 +12,131 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>November 2024</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heartbeat @ Bedok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk &amp; Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heartbeat @ Bedok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Canberra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiong Bahru Plaza (Outdoor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1130 /</p>
+<p>1430:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Academy graduation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1300:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pesawat Drive</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>October 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
