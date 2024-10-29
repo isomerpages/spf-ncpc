@@ -43,7 +43,7 @@ sections:
       image: /images/XTS_KV__AREN___002_.png
       alt: "#XiamTheScams"
   - infobar:
-      title: ScamShield Suite
+      title: ScamShield
       subtitle: Stay Safe With
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
@@ -52,7 +52,7 @@ sections:
         yourself against scams!" src="https://www.youtube.com/embed/bIAo--B3V3A"
         height="355" width="600"></iframe>
       button: Learn more
-      url: https://www.scamshield.gov.sg/about-scamshield/
+      url: /scamshield/
   - infopic:
       title: Outrage of Modesty
       subtitle: Crime Advisories
