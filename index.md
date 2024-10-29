@@ -42,6 +42,17 @@ sections:
       url: https://xiamthescams.sqkii.com/play
       image: /images/XTS_KV__AREN___002_.png
       alt: "#XiamTheScams"
+  - infobar:
+      title: ScamShield Suite
+      subtitle: Get protection from scams
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="Use the ScamShield Suite to Protect
+        yourself against scams!" src="https://www.youtube.com/embed/bIAo--B3V3A"
+        height="355" width="600"></iframe>
+      button: Learn more
+      url: /scamshield/
   - infopic:
       title: Outrage of Modesty
       subtitle: Crime Advisories
