@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: National Crime Prevention Council
 locations:
   - address:
-      - "New Phoenix Park "
-      - "28 Irrawaddy Road "
+      - New Phoenix Park
+      - 28 Irrawaddy Road
       - Singapore 329560
     operating_hours:
       - days: Mon - Fri
@@ -17,12 +17,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@ncpc.org.sg
-      - other: 1800-722-6688
-    title: Anti-Scam Hotline
-  - content:
-      - phone: ""
-      - email: enquiries@ncpc.org.sg
-      - other: 1800-924-5664
-    title: "'X Ah Long' Hotline"
+      - email: ""
+      - other: "1799"
+    title: ScamShield Hotline
+feedback: ""
 ---
