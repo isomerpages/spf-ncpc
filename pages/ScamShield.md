@@ -4,34 +4,96 @@ permalink: /scamshield/
 description: ""
 variant: tiptap
 ---
-<h4>About ScamShield</h4>
-<h6>More than 820,000 people have downloaded the ScamShield App to block scam SMSes and calls.</h6>
-<p><a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ScamShield</a>,
-a new mobile app, has been launched to fight scam messages and calls which
-plague mobile phone users. Developed by the National Crime Prevention Council
-(NCPC), in collaboration with Open Government Products (OGP), a division
-of the Government Technology Agency and the Singapore Police Force, the
-app was launched on 20 November 2020 by Mr Desmond Tan, Minister of State
-in the Ministry of Home Affairs and the Ministry of Sustainability and
-the Environment.</p>
-<h4>Blocking of Scam Messages and Calls</h4>
-<h6>More than 7 million suspicious SMSes have been reported as scams. Calls from more than 70,000 blacklisted phone numbers have been blocked by the ScamShield app</h6>
-<p>ScamShield actively works in the background to filter scam messages and
-calls from numbers used in illegal activities. This will greatly reduce
-the prospect of people being contacted by scammers. Only incoming SMSes
-from unknown contacts go through ScamShield. Scam messages are filtered
-and sent into the phone's junk folder. Only identified scam messages and
-numbers will be blocked. Calls from these blocked numbers will not be shown
-to ScamShield users.</p>
-<h4>Privacy Safeguards</h4>
-<p>ScamShield does not have any access to data from people in your contact
-list. Only messages sent by unknown numbers will be read by your device,
-and only those identified as scam will be sent to NCPC for collation. ScamShield
-also does not have any access to your location or any personal data. The
-app does not require users to register with their mobile phone number and
-hence will not be able to identify any users.</p>
-<h4>Download</h4>
-<p>Scamshield is available on <a href="https://apps.apple.com/sg/app/scamshield/id1497144087" rel="noopener noreferrer nofollow" target="_blank">IOS</a> and
-<a href="https://play.google.com/store/apps/details?id=sg.gov.scamshield&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Andriod</a>devices. Click on the link to download it now! For more information,
-please visit <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.scamshield.gov.sg/</a>
+<h1>About ScamShield</h1>
+<p>ScamShield is a suite of products and tools that helps defend against
+scams. The suite consists of the ScamShield helpline (reachable at 1799),
+ScamShield app (for iPhone and Android), a website (<a href="http://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.scamshield.gov.sg</u></a>)
+with a range of anti-scam resources, and ScamShield Alert Social Channels
+on WhatsApp and Telegram.
+<br>
+<br>Each of these plays a crucial role in empowering individuals to fight
+against scams, as well as keeping the community safe from fraudulent activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScamShield_Suite_1080x1080.png">
+</div>
+<hr>
+<p></p>
+<blockquote>
+<h3><strong>1799 ScamShield Helpline</strong></h3>
+</blockquote>
+<h4><strong><em>Unsure if something is a scam? – call 1799!</em></strong></h4>
+<p>The anti-scam helpline is available 24/7, to offer immediate support for
+anyone who needs assistance in verifying potential scams. If you have concerns
+about a suspicious offer or need guidance on how to protect yourself, our
+operators are here to provide you with the support you need to protect
+you from fraudulent activities at any time of the day.</p>
+<p></p>
+<p>Learn more about the <a href="https://www.scamshield.gov.sg/scamshield-helpline/" rel="noopener nofollow" target="_blank">ScamShield Helpline</a>.</p>
+<hr>
+<p></p>
+<blockquote>
+<h3><strong>ScamShield App</strong></h3>
+</blockquote>
+<p>The new and enhanced ScamShield app now lets you check suspicious calls,
+websites, and messages (SMS, Telegram, and WhatsApp) to know if they’re
+scams. Together with improved blocking and filtering of scam calls and
+SMSes, the app offers better protection against scams for you and your
+loved ones.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Check_from_Figma__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figma_Report.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block.png">
+</div>
+<p>Download the ScamShield app from the official app stores today:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>iOS: <a href="https://go.gov.sg/ss-ios" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ss-ios</u></a>
 </p>
+</li>
+<li>
+<p>Android: <a href="https://go.gov.sg/ss-ios" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ss-android</u></a>
+</p>
+</li>
+</ul>
+<hr>
+<p></p>
+<blockquote>
+<h3><strong>One-stop portal on scams</strong></h3>
+</blockquote>
+<p>Find up-to-date information on current scam trends, tips on how to safeguard
+yourself against scams and steps to take if you’ve fallen for a scam on
+<a href="http://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.scamshield.gov.sg</u>
+</a>. You can send scam-related queries directly to our helpline operators
+through the online chat to check if something is a scam.</p>
+<hr>
+<p></p>
+<blockquote>
+<h3><strong>ScamShield Alerts</strong></h3>
+</blockquote>
+<p>Stay updated on scam trends on the go via</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b" rel="noopener nofollow" target="_blank">ScamShield Alert, Whatsapp</a>:</p>
+</li>
+<li>
+<p><a href="https://t.me/ncpcscamalert" rel="noopener nofollow" target="_blank">ScamShield Alert, Telegram</a>
+</p>
+</li>
+</ul>
+<hr>
+<h3><strong>Your privacy is our priority</strong></h3>
+<p>We value and respect your privacy, and follow the strictest measures to
+keep your information safe and confidential when you use ScamShield products.
+<br>
+<br>The App cannot read any SMSes you receive from contacts saved on your
+phone. It only scans SMSes from unfamiliar numbers to look for any known
+signs of scams.
+<br>
+<br>When you submit a scam encounter via the ScamShield app, the authorities
+can only see the information you have submitted and not any personal information.</p>
