@@ -19,6 +19,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: "1799"
-    title: ScamShield Hotline
+    title: ScamShield Helpline
 feedback: ""
 ---
