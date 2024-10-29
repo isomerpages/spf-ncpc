@@ -44,7 +44,7 @@ sections:
       alt: "#XiamTheScams"
   - infobar:
       title: ScamShield Suite
-      subtitle: Get protection from scams
+      subtitle: Stay Safe With
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
