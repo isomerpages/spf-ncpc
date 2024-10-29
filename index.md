@@ -52,7 +52,7 @@ sections:
         yourself against scams!" src="https://www.youtube.com/embed/bIAo--B3V3A"
         height="355" width="600"></iframe>
       button: Learn more
-      url: /scamshieldsuite/
+      url: https://www.scamshield.gov.sg/about-scamshield/
   - infopic:
       title: Outrage of Modesty
       subtitle: Crime Advisories
