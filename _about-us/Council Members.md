@@ -252,6 +252,17 @@ Pte Ltd</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Sherrin Chua" src="/images/Council Members/Sherrin_Chua.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Sherrin Chua</div>
+	<div class="isomer-card-description">Director, Community Partnership Department <br><i> Singapore Police Force</i></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Steven Goh" src="/images/Council Members/Steven_Goh.jpg">
 </div>
 </div>
@@ -286,3 +297,4 @@ Pte Ltd</div>
 </div>
 </div><i>
 <p></p></i></div>
+
