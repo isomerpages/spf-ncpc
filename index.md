@@ -85,14 +85,14 @@ sections:
       alt: Image alt text
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
-      title: CrimeWatch 2024
+      title: CrimeWatch 2028
       subtitle: Episode 7
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2024 EP7 - Housebreaking
-        and Theft! Catching the suspect before he flees Singapore!"
-        src="https://www.youtube.com/embed/Nk2LJh_j1fk?list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV"
+        web-share" frameborder="0" title="Crimewatch 2024 EP8 - Government
+        Official Impersonation Scam and Investment Scam!"
+        src="https://www.youtube.com/embed/U2k0ZkFwFSU?list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV"
         height="355" width="600"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
