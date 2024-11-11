@@ -121,7 +121,7 @@ variant: tiptap
 <p>Crime Prevention Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Blk 506 Jelapang road l</p>
+<p>&nbsp;Blk 506 Jelapang road</p>
 </td>
 </tr>
 <tr>
