@@ -1,7 +1,7 @@
 ---
 title: 2024 Talks & Roadshows
 permalink: /news-and-events/events/2024/
-date: 2024-10-29
+date: 2024-11-11
 layout: post
 description: ""
 image: ""
@@ -40,27 +40,13 @@ variant: tiptap
 <p>2 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0930:1630</p>
+<p>1100:1700</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Crime Prevention Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heartbeat @ Bedok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0930:1630</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crime Prevention Talk &amp; Exhibition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heartbeat @ Bedok</p>
+<p>Radin Mas Community Centre</p>
 </td>
 </tr>
 <tr>
@@ -71,10 +57,24 @@ variant: tiptap
 <p>1000:1700</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Crime PreventionExhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Canberra Community Plaza, Level 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1130:1400</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Crime Prevention Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bukit Canberra</p>
+<p>Our Tampines Hub</p>
 </td>
 </tr>
 <tr>
@@ -88,22 +88,26 @@ variant: tiptap
 <p>Crime Prevention Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tiong Bahru Plaza (Outdoor)</p>
+<p>Tiong Bahru Plaza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>8 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1130</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0930:1130 /</p>
 <p>1430:1630</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crime Prevention Exhibition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -111,13 +115,27 @@ variant: tiptap
 <p>9 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0900:1130</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Crime Prevention Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Academy graduation</p>
+<p>&nbsp;Blk 506 Jelapang road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1200:1800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Devan Nair Institute</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +149,21 @@ variant: tiptap
 <p>Crime Prevention Talk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pesawat Drive</p>
+<p>Hwi Yoh Community Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YWCA, Fort Canning Road</p>
 </td>
 </tr>
 </tbody>
