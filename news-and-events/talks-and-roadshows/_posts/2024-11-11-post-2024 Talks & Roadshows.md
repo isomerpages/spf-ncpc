@@ -12,6 +12,92 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>December 2024</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Dec</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>0900:1400</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Marina Bay Sands</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Dec</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiong Bahru Plaza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA Dialogue Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Phoenix Park Auditorium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>November 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
