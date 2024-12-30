@@ -31,6 +31,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024 Ep 10 - Attempted Armed Robbery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=tFw4d3tiYos" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Ep 9 - CNB and SPF Joint Operation as a drug abuser flees after abandoning
+a baby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=E7uIHU6EcGk" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024 Ep 8 - Government Official Impersonation Scam and Investment Scam!</p>
 </td>
 <td rowspan="1" colspan="1">
