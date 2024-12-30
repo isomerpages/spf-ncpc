@@ -86,13 +86,12 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2024
-      subtitle: Episode 7
+      subtitle: Episode 10
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2024 EP8 - Government
-        Official Impersonation Scam and Investment Scam!"
-        src="https://www.youtube.com/embed/U2k0ZkFwFSU?list=PL4bszwf0jJI7v_CVRgQvtE5osYtrM-VqV"
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/tFw4d3tiYos?si=ucn1CPRl_gt4SGZx"
         height="355" width="600"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
