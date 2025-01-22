@@ -118,7 +118,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Carol Soon</div>
-<div class="isomer-card-description">Principal Research Fellow, <br>Institute of Policy Studies <br><i>National University
+<div class="isomer-card-description">Associate Professor <br>Department of Communications and New Media <br>Faculty of Arts and Social Sciences<br><i>National University
 	of Singapore</i></div>
 </div>
 </div>
@@ -153,8 +153,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Hana Alhadad</div>
-<div class="isomer-card-description">Senior Consultant &amp; Lead Researcher <br> <i> Association of Women for Action
-	and Research (AWARE)</i></div>
+<div class="isomer-card-description">Adjunct Faculty <br> <i> National University of Singapore</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -235,7 +234,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Mike Chan, PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS</div>
-<div class="isomer-card-description">Deputy Chief Executive Officer (Estate) <br> <i>Housing &amp; Development Board</i></div>
+<div class="isomer-card-description">Senior Adviser <br> <i>Housing &amp; Development Board</i></div>
 </div>
 </div>
 <div class="isomer-card">
