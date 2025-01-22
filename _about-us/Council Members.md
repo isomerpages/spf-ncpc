@@ -153,8 +153,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Hana Alhadad</div>
-<div class="isomer-card-description">Senior Consultant &amp; Lead Researcher <br> <i> Association of Women for Action
-	and Research (AWARE)</i></div>
+<div class="isomer-card-description">Adjunct Faculty <br> <i> National University of Singapore</i></div>
 </div>
 </div>
 <div class="isomer-card">
