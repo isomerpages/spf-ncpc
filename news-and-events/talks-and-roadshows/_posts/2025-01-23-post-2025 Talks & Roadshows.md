@@ -111,7 +111,7 @@ variant: tiptap
 <p>23 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18:00-21:00</p>
+<p>18:00:21:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Crime Prevention Exhibition</p>
