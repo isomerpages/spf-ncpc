@@ -2,6 +2,7 @@
 title: Our Major Donors
 permalink: /sponsors/
 description: ""
+variant: markdown
 ---
 #### <font style="color:#a20427;">OUR MAJOR SPONSORS</font>
 
@@ -11,8 +12,8 @@ The National Crime Prevention Council is grateful to all who helped the Council 
 
 ##### <font style="color:#a20427;">PLATINUM DONORS</font>
 
-Tote Board
-Shaw Foundation
+Tote Board<br>
+Shaw Foundation<br>
 Sheng Siong
 
 <hr>
