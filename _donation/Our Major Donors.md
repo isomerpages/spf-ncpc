@@ -8,7 +8,7 @@ variant: markdown
 
 ![](/images/About/header-border.png)
 
-The National Crime Prevention Council is grateful to all who helped the Council in one way or another, and the following organisations and individuals for their generous donation and support in 2020.
+The National Crime Prevention Council is grateful to all who helped the Council in one way or another, and the following organisations and individuals for their generous donation and support in 2024.
 
 ##### <font style="color:#a20427;">PLATINUM DONORS</font>
 
@@ -56,4 +56,3 @@ Real Madrid Foundation Football Singapore<br>
 Singapore Sports Hub<br>
 Sport Singapore<br>
 United Overseas Bank Limited<br>
-
