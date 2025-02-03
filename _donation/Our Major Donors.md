@@ -16,7 +16,7 @@ Tote Board<br>
 Shaw Foundation<br>
 Sheng Siong <br>
 The Association of Banks in Singapore<br>
-Dr Tahir 
+Dr. Tahir 
 
 <hr>
 
