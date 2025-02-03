@@ -10,17 +10,29 @@ variant: markdown
 
 The National Crime Prevention Council is grateful to all who helped the Council in one way or another, and the following organisations and individuals for their generous donation and support.
 
-##### <font style="color:#a20427;">PLATINUM DONORS</font>
+##### <font style="color:#a20427;">DIAMOND DONORS</font>
 
 Tote Board<br>
 Shaw Foundation<br>
-Sheng Siong
+Sheng Siong <br>
+The Association of Banks in Singapore<br>
+Dr Tahir 
 
 <hr>
 
 ##### <font style="color:#a20427;">GOLD DONOR</font>
+Century Evergreen Pte Ltd<br>
+Mr Lim Chin Keong<br>
+Dr. Lim Soon Hock<br>
+Orchard Turn Developments Pte Ltd<br>
+Poh Tiong Choon Logistics Limited<br>
+POLWEL Co-operative Society Limited<br>
+Sian Chay Medical Institution<br>
+SPCS Consultancy Pte Ltd<br>
+The Hour Glass Limited<br>
+United Overseas Bank Limited
 
-The Association of Banks in Singapore
+
 
 <hr>
 
