@@ -26,18 +26,34 @@ The Association of Banks in Singapore
 
 ##### <font style="color:#a20427;"> PARTNERS AND SUPPORTERS</font>
 
-Cheers Holdings Pte Ltd  
-Google Inc  
-Government Technology Agency (GovTech)  
-Info-communications Media Development Authority of Singapore  
-Ministry of Communication and Information  
-Ministry of Education  
-Ministry of Home Affairs  
-Moove Media Pte Ltd  
-Pizza Hut  
-Royal T Group Pte Ltd  
-Samsung Singapore  
-SBS Transit Ltd  
-Singapore Police Force  
-Smart Nation and Digital Government Office (SNDGO)  
-SyncTech Solution Pte Ltd
+Bishan-Toa Payoh Town Council<br>
+Chua Chu Kang Town Council <br>
+Cyber Security Agency of Singapore <br>
+Housing Development Board <br>
+Institute of Technical Education <br>
+Jurong-Clementi Town Council <br>
+Meta <br>
+Nanyang Polytechnic<br>
+Nanyang Technological University<br>
+National University of Singapore<br>
+Oversea-Chinese Banking Corporation Ltd<br>
+Popular Holdings<br>
+Sembawang Town Council<br>
+Service SG<br>
+Singapore Management University<br>
+Singapore Polytechnic<br>
+Singapore Pools Pte Ltd<br>
+SPCS Consultancy Pte Ltd<br>
+Tanjong Pagar Town Council<br>
+The Singapore Contractors Association Limited<br>
+Aljunied-Hougang Town Council<br>
+IINVICTOR<br>
+Logitech Singapore Pte Ltd<br>
+Moonton<br>
+Nestlé Singapore<br>
+Ngee Ann Polytechnic<br>
+Real Madrid Foundation Football Singapore<br>
+Singapore Sports Hub<br>
+Sport Singapore<br>
+United Overseas Bank Limited<br>
+
