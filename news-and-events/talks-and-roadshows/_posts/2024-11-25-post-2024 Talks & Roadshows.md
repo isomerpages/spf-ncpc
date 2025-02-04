@@ -1325,7 +1325,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Feb 2024</h4>
+<h4>February 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1406,7 +1406,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Jan 2024</h4>
+<h4>January 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
