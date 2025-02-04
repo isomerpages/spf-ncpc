@@ -1174,7 +1174,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Mar 2024</h4>
+<h4>March 2024</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
