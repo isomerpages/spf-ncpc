@@ -105,6 +105,34 @@ variant: tiptap
 <p>Blk 20, Houganag Ave 3</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00:1300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Pavilion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk (Zoom)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Primary School</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>February 2025</h4>
