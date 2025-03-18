@@ -7,9 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Prize Presentation for #XiamTheScams winners &amp; ScamShield Helpline 1799</strong></h4>
+<h4><strong>Prize Presentation for #XiamTheScams winners &amp; Appointment of Honorary Crime Prevention Ambassador&nbsp;Mr&nbsp;Jack&nbsp;Neo</strong></h4>
 <p></p>
-<p>NCPC&nbsp;worked with SPEO and&nbsp;MHA&nbsp;to develop #XiamTheScams,
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/XTS_Winners.png">
+</div>
+<p>NCPC&nbsp;worked with SPF and&nbsp;MHA&nbsp;to develop #XiamTheScams,
 a web-based life-simulation game,&nbsp;which ran from 24 October 2024 to
 22 January 2025.</p>
 <p></p>
@@ -17,19 +20,16 @@ a web-based life-simulation game,&nbsp;which ran from 24 October 2024 to
 519,000 players, completion of over 10 million gameplay scenarios, and
 adoption of more than 77,000 protective anti-scam actions (e.g. downloads
 of ScamShield app and subscriptions to ScamShield Alert social channels).</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Mr_Jack_Neo_NCPC__1_.png">
+</div>
 <p>On 22 February 2025, the top 10 players of the #XiamTheScams game&nbsp;received
 their&nbsp;prizes&nbsp;at the NCPC Crime Prevention Roadshow 2025. The
-event was&nbsp;graced by Minister of State for Home Affairs and Social
-and Family Development Ms Sun Xueling.&nbsp;We are also pleased to share
-that local celebrity, Mr Jack Neo, was appointed as NCPC’s Honorary Crime
-Prevention Ambassador on the same day.&nbsp;In total, 10,000 people visited
-the roadshow over two days</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/XTS_Winners.png">
-</div>
-<h4></h4>
+event was&nbsp;graced by Minister of State, Ministry of Home Affairs &amp;
+Ministry of Social and Family Development Ms Sun Xueling.&nbsp;We are also
+pleased to share that local celebrity, Mr Jack Neo, was appointed as NCPC’s
+Honorary Crime Prevention Ambassador on the same day.&nbsp;In total, 10,000
+people visited the roadshow over two days.</p>
 <h4><strong>Background of the #XiamTheScams game</strong></h4>
 <p></p>
 <p>The #XiamTheScams game&nbsp;was developed&nbsp;to&nbsp;enhance awareness
