@@ -18,9 +18,8 @@ a web-based life-simulation game,&nbsp;which ran from 24 October 2024 to
 <p></p>
 <p>Over three months, the game achieved&nbsp;a&nbsp;participation of over
 519,000 players, completion of over 10 million gameplay scenarios, and
-adoption of more than 77,000 protec</p>
-<p>tive anti-scam actions (e.g. downloads of ScamShield app and subscriptions
-to ScamShield Alert social channels).</p>
+adoption of more than 77,000 protective anti-scam actions (e.g. downloads
+of ScamShield app and subscriptions to ScamShield Alert social channels).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Mr_Jack_Neo_NCPC__1_.png">
 </div>
