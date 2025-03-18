@@ -30,7 +30,6 @@ Ministry of Social and Family Development Ms Sun Xueling.&nbsp;We are also
 pleased to share that local celebrity, Mr Jack Neo, was appointed as NCPC’s
 Honorary Crime Prevention Ambassador on the same day.&nbsp;In total, 10,000
 people visited the roadshow over two days.</p>
-<h4></h4>
 <h4><strong>Background of the #XiamTheScams game</strong></h4>
 <p></p>
 <p>The #XiamTheScams game&nbsp;was developed&nbsp;to&nbsp;enhance awareness
