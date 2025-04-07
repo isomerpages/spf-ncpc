@@ -8,6 +8,42 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<blockquote>
+<p>2025</p>
+</blockquote>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EPISODE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>WATCH</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 EP1 - Caught in 13 hours - a repeat offender breaks into a shop and
+starts a fire!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=7KErhDB2jX4&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
