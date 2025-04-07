@@ -42,6 +42,8 @@ starts a fire!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
