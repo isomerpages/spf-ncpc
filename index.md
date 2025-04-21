@@ -32,16 +32,23 @@ sections:
       button: Learn more
       url: about
   - infopic:
-      title: "#XiamTheScams"
-      subtitle: Join the fight against scams
+      title: Government Officials Impersonation Scam (GOIS)
+      subtitle: Crime Advisories
       id: infopic
-      description: This fun, life simulation web game will test your decision-making
-        skills by navigating life's challenges, while learning how to avoid
-        scams.
-      button: Play Now
-      url: https://xiamthescams.sqkii.com/play
-      image: /images/XTS_KV__AREN___002_.png
-      alt: "#XiamTheScams"
+      description: Call the 24/7 ScamShield Helpline at 1799 if you are unsure if
+        something is a scam.
+      button: Learn More
+      url: https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
+      image: /images/Beware_of_impersonation_scams.png
+      alt: GOIS
+  - infopic:
+      title: Outrage of Modesty
+      subtitle: Crime Advisories
+      description: Protect yourself. If you get molested, call the police.
+      button: Learn more
+      alt: Image alt text
+      url: https://www.ncpc.org.sg/outragemodesty/
+      image: /images/Crime/omodesty2.jpg
   - infobar:
       title: ScamShield
       subtitle: Stay Safe With
@@ -53,14 +60,6 @@ sections:
         height="355" width="600"></iframe>
       button: Learn more
       url: /scamshield/
-  - infopic:
-      title: Outrage of Modesty
-      subtitle: Crime Advisories
-      description: Protect yourself. If you get molested, call the police.
-      button: Learn more
-      alt: Image alt text
-      url: https://www.ncpc.org.sg/outragemodesty/
-      image: /images/Crime/omodesty2.jpg
   - resources:
       title: News & Events
       subtitle: Join & Engage with us
@@ -76,7 +75,7 @@ sections:
       button: More Video
       url: https://www.youtube.com/@NCPCsingapore
   - infopic:
-      title: ScamShield
+      title: ScamShield App
       subtitle: Available Now At App Store
       description: ScamShield is a mobile app available in IOS & Andriod that fight
         scam messages and calls which plague mobile phone users.
