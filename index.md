@@ -43,6 +43,16 @@ sections:
       button: Learn more
       url: /scamshield/
   - infopic:
+      title: Government Officials Impersonation Scam (GOIS)
+      subtitle: Add an image and text
+      id: infopic
+      description: Call the 24/7 ScamShield Helpline at 1799 if you are unsure if
+        something is a scam.
+      button: Learn More
+      url: https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
+      image: /images/Beware_of_impersonation_scams.png
+      alt: GOIS
+  - infopic:
       title: Outrage of Modesty
       subtitle: Crime Advisories
       description: Protect yourself. If you get molested, call the police.
