@@ -44,7 +44,7 @@ sections:
       url: /scamshield/
   - infopic:
       title: Government Officials Impersonation Scam (GOIS)
-      subtitle: Add an image and text
+      subtitle: Crime Advisories
       id: infopic
       description: Call the 24/7 ScamShield Helpline at 1799 if you are unsure if
         something is a scam.
