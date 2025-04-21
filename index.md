@@ -31,17 +31,6 @@ sections:
         crime prevention.
       button: Learn more
       url: about
-  - infobar:
-      title: ScamShield
-      subtitle: Stay Safe With
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Use the ScamShield Suite to Protect
-        yourself against scams!" src="https://www.youtube.com/embed/bIAo--B3V3A"
-        height="355" width="600"></iframe>
-      button: Learn more
-      url: /scamshield/
   - infopic:
       title: Government Officials Impersonation Scam (GOIS)
       subtitle: Crime Advisories
@@ -60,6 +49,17 @@ sections:
       alt: Image alt text
       url: https://www.ncpc.org.sg/outragemodesty/
       image: /images/Crime/omodesty2.jpg
+  - infobar:
+      title: ScamShield
+      subtitle: Stay Safe With
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="Use the ScamShield Suite to Protect
+        yourself against scams!" src="https://www.youtube.com/embed/bIAo--B3V3A"
+        height="355" width="600"></iframe>
+      button: Learn more
+      url: /scamshield/
   - resources:
       title: News & Events
       subtitle: Join & Engage with us
@@ -75,7 +75,7 @@ sections:
       button: More Video
       url: https://www.youtube.com/@NCPCsingapore
   - infopic:
-      title: ScamShield
+      title: ScamShield App
       subtitle: Available Now At App Store
       description: ScamShield is a mobile app available in IOS & Andriod that fight
         scam messages and calls which plague mobile phone users.
