@@ -12,6 +12,115 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>May 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 529, Ang Mo Kio Coffee Shop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elias Park Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Hilda's Services - Blk 10 Jalan Batu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 486B Choa Chu Kang Ave 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Katong Community Centre</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>April 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>
