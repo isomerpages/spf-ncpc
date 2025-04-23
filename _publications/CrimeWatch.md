@@ -32,7 +32,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 EP1 - Caught in 13 hours - a repeat offender breaks into a shop and
+<p>2025 EP2 - TCM owner is scammed $4,000 on fake gold ingots?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=bl_pGcoz4HE" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 EP1 - Caught in 13 hours - a repeat offender breaks into a shop and
 starts a fire!</p>
 </td>
 <td rowspan="1" colspan="1">
