@@ -1,7 +1,7 @@
 ---
 title: 2025 Talks & Roadshows
 permalink: /2025-talks-roadshows/
-date: 2025-03-20
+date: 2025-05-26
 layout: post
 description: ""
 image: ""
@@ -12,6 +12,89 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>June 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sembawang Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0830:1030</p>
+<p>1530:1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1700:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ceylon Sport Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amgen Singapore Manufacturing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>May 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -103,6 +186,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ngee Ann Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 May - 1 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1130:1430</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Family Festival 2025</p>
+<p>Singapore Expo, Hall 6</p>
 </td>
 </tr>
 <tr>
