@@ -26,12 +26,23 @@ were distributed to 209 public entertainment outlets islandwide. Advisory
 videos featuring local media personalities, Li Nanxing and others, were
 also launched and screened at nightspots delivering key messages that reinforce
 the importance of respecting boundaries and staying calm in tense situations.</p>
-<p></p>
+<p><strong>Securing Valuables:</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="589" width="1047" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PWubx_5XLZY?si=p4LQw7HzwZRQnEBQ"></iframe>
+</div>
+<p><strong>Respect Boundaries:</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="589" width="1047" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ucObt106swc"></iframe>
+</div>
 <p>The 5<sup>th</sup> edition of SCC aimed to reinforce the collaboration
 with industry partners to co-create a safe and respectful nightlife environment
 for all in our public entertainment outlets. With the tag line – “Celebrate
 Right, Enjoy Responsibly”, this year’s campaign emphasised on the importance
 of responsible and moderate drinking habits while enjoying a night out.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
