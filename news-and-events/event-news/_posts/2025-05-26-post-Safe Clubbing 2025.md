@@ -34,12 +34,12 @@ the importance of respecting boundaries and staying calm in tense situations.</p
 <p><strong>Securing Valuables:</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="399" width="857" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PWubx_5XLZY?si=p4LQw7HzwZRQnEBQ"></iframe>
+<iframe height="299" width="757" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PWubx_5XLZY?si=p4LQw7HzwZRQnEBQ"></iframe>
 </div>
 <p><strong>理性庆祝.快乐守规:</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="399" width="857" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QeBC0Rywg8M"></iframe>
+<iframe height="299" width="757" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QeBC0Rywg8M"></iframe>
 </div>
 <p>The 5<sup>th</sup> edition of SCC aimed to reinforce the collaboration
 with industry partners to co-create a safe and respectful nightlife environment
