@@ -163,7 +163,7 @@ Pte Ltd</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Jimmy Toh Yong Leng, PPA(G), PBS</div>
+<div class="isomer-card-title">Mr Jimmy Toh Yong Leng, PPA (E)(COVID-19), PPA (P), PBS, CRM</div>
 	<div class="isomer-card-description">Chief Executive Director <br> <i>People’s Association</i></div>
 </div>
 </div>
