@@ -12,6 +12,144 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>July 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1130:12530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ExxonMobil</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 482 Segar Road, Link house</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scout Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St Anthony Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition, Pa Pa Zao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Coast Mall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1200:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AIA Tampines</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buangkok CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines West CC</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>June 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>
