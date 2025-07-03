@@ -40,7 +40,7 @@ variant: tiptap
 <p>3 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1130:12530</p>
+<p>1130:1230</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Crime Prevention Exhibition</p>
