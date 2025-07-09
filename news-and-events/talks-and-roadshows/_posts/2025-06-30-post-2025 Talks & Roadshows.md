@@ -107,20 +107,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1200:1400</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crime Prevention Talk</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AIA Tampines</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>18 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
