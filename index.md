@@ -6,7 +6,11 @@ description: National Crime Prevention Council is a non-profit organization
   propagate the concept of self-help in crime prevention.
 image: /images/NCPC_logo__1_.png
 permalink: /
-notification: ""
+notification: We have received reports of scammers attempting to impersonate
+  NCPC. We wish to alert the public that NCPC staff will never ask you to
+  transfer money or disclose your bank login details over the phone. NCPC does
+  not transfer calls to government agencies, banks or any organisations. As a
+  non-profit organisation, NCPC does not possess any investigative powers.
 sections:
   - hero:
       background: /images/Banners/hero-banner-home-bg-revised-2.png
