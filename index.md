@@ -10,7 +10,8 @@ notification: We have received reports of scammers attempting to impersonate
   NCPC. We wish to alert the public that NCPC staff will never ask you to
   transfer money or disclose your bank login details over the phone. NCPC does
   not transfer calls to government agencies, banks or any organisations. As a
-  non-profit organisation, NCPC does not possess any investigative powers.
+  non-profit organisation, NCPC does not possess any investigative powers. Call
+  our 24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       background: /images/Banners/hero-banner-home-bg-revised-2.png
