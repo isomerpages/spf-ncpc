@@ -12,6 +12,159 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>August 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edgefield Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 189, Punggol Central</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0730:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gain City, Sungei Kadut</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0730:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Field in front of</p>
+<p>Blk 302, Yishun Central</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition, Anti-scam Seminar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic - Convention Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1550:1620</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Devan Nair Institute</p>
+<p>Hall 1, 80, Jurong East St 21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACE The Place Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Bus Interchange</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1300:1800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Macpherson Community Club</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>July 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>
