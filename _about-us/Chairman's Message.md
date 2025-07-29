@@ -8,65 +8,18 @@ variant: markdown
 
 ![](/images/About/header-border.png)
 
-In 2023, while the total number of physical crime cases
-dropped by 1.1%, scams and cybercrime cases increased
-significantly by 49.6%. Singapore continued to be a safe
-and secure city for everyone but the cyberspace still
-continues to be a concern.
+In 2024, the total number of physical crime cases reported was 19,969, almost equal to the 19,966 cases in 2023. According to figures from the police, there were more shop theft and voyeurism cases. However, the number of cases of theft in dwelling and outrage of modesty fell. 
 
-There were 277 days last year which were free from
-robbery, snatch theft and theft of motor vehicle. Compared
-to the 241 days in 2022, it was an improvement of 36
-days. The top physical crimes included shop theft, theft
-in dwelling, outrage of modesty and voyeurism. Shop
-theft alone accounted for 19.7% of all physical crimes.
-More than 68% of the cases took place at department
-stores, supermarkets and pharmacies.
+Shop theft accounted for 21.1% of all physical crime cases, increasing by 7.6% to 4,237 cases in 2024 from 3,939 cases in 2023. It is noteworthy that shop theft was one of the top offences again for youths arrested by the police in 2024. Most of them were caught at supermarkets, beauty shops, personal care/health and wellness shops. NCPC will continue to engage schools and major retailers to educate youths on the consequences of shop theft. 
 
-Although the number of outrage of modesty (OM) cases
-fell to 1,528 in 2023 (from 1,610 in 2022), NCPC continued
-to work with SPF and stakeholders to educate the public
-on the preventive measures. In January 2024, the fourth
-edition of the Safe Clubbing Campaign (formerly known
-as Smart Clubbing Campaign) was kicked off. It was
-strongly supported by the Singapore Nightlife Business
-Association and Singapore River One to foster a safe
-environment for patrons and staff of public entertainment
-outlets. NCPC has also been working with public
-transport operators to put up educational posters on OM
-at train stations, bus interchanges and on MRT trains.
+As for scams and cybercrimes, Singapore saw the number of cases jump by 10.8% to 55,810 cases, compared to 50,376 cases in 2023. For the first time, the total amount lost crossed the billion dollar mark – it spiked by 70.6% to more than $1.1 billion in 2024, eclipsing the $651.8 million in 2023.In terms of the total amount lost, investment scams, job scams and government officials impersonation scams were the top scam types. 
 
-The number of scams and cybercrime cases increased
-to 50,376 in 2023, compared to 33,669 cases the year
-before. There was a slight decrease in the total amount
-lost by victims, from $660.7 million to $651.8 million.
-Unfortunately, that was still a very large sum of money
-being cheated in a year.
+To provide easily accessible resources for the public to protect themselves against scams, the ScamShield Suite was rolled out in September 2024. It consists of the ScamShield Helpline, ScamShield app, website and Alert channels. NCPC’s anti-scam helpline used to handle around 14 calls a day. Since September, the new 24/7 ScamShield Helpline “1799” has been receiving over 450 chats and calls daily to give advice on scams encountered by the public. 
 
-The top five scam types were job scams, e-commerce
-scams, fake friend call scams, phishing scams and
-investment scams. NCPC’s “I can ACT against Scams”
-campaign continued to educate Singaporeans on the
-common ways to protect themselves from scams. A
-new music video on ACT garnered more than one million
-views on social and digital platforms. Through a survey
-conducted in 2023, we were glad to find out that 79% of
-the 1,000 respondents recalled seeing at least one of our
-campaign posters. In addition, 78% were able to recall
-the messages under the ACT campaign. Meanwhile, the
-ScamShield app achieved more than 850,000 downloads
-and users submitted over 7.9 million suspected SMSes.
-Each report made by the ScamShield user helped to
-enhance the app’s detection capability, thus preventing
-scammers from reaching more victims.
+NCPC’s #XiamTheScams web game was also a huge success, engaging over 519,000 players over a three-month period. Players were able to learn about common scams and protective measures in a fun and educational way. To strengthen our fight against cybercrimes and scams, we expanded our team of Crime Prevention Ambassadors (CPA) with the launch of the Cyber CPA programme in May 2024. Within a few months, these passionate volunteers reached out to more than 15,000 members of the public across 30 events. 
 
-As can be seen, each and everyone of us can play a
-crucial role to keep ourselves and our loved ones safe.
-Indeed, crime prevention is a Shared Responsibility! Last
-but not least, I would like to express my gratitude to all
-the community partners, stakeholders and sponsors for
-contributing to the success of NCPC’s crime prevention
-programmes in 2023.
+In 2025, I look forward to presenting the inaugural Crime Prevention Awards to organisations that help to keep their customers, staff and stakeholders safe from crimes. As we have always been advocating – Crime Prevention is a Shared Responsibility!
+
 
 **GERALD SINGHAM**&nbsp;, JP, BBM (L), PBM  
 Chairman, NCPC
