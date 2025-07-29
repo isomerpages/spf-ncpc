@@ -175,7 +175,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Nicholas Aaron Khoo</div>
-<div class="isomer-card-description">Chief Operating Officer <br><i> Global Star Acquisition Inc.</i></div>
+<div class="isomer-card-description">Chairman, Digital Media Investment Committee <br><i> N PrimePartners Capital</i></div>
 </div>
 </div>
 <div class="isomer-card">
