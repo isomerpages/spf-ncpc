@@ -15,10 +15,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>FY 2024 / 2025</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR24.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://appdev.ifdemo.com/ncpcorgsg/downloads/ar/NCPC_AR2025.pdf"><img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR24.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FY 2023 / 2024</strong>
