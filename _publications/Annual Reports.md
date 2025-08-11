@@ -14,7 +14,11 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>FY 2024 / 2025</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/Annual Reports Cover Page/AR24.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FY 2023 / 2024</strong>
@@ -150,6 +154,6 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<h4></h4>
+<p></p>
 </blockquote>
 <p></p>
