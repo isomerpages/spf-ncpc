@@ -204,20 +204,6 @@ Pte Ltd</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lian Ghim Hua PPA(P), PPA(P) (COVID 19)" src="/images/Council Members/Lian_Ghim_Hua.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Lian Ghim Hua, PPA(P), PPA(P) (COVID 19)</div>
-<div class="isomer-card-description">Deputy Commissioner (Operations)<br><i> Singapore Police Force</i></div>
-</div>
-</div>
-</div>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Majeed Khader PPA (G) &amp; PPA (P), PBS" src="/images/Council Members/Majeed_Khader.jpg">
 </div>
 </div>
@@ -226,6 +212,9 @@ Pte Ltd</div>
 	<div class="isomer-card-description">Chief Psychologist <br> <i> Ministry of Home Affairs</i></div>
 </div>
 </div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -234,7 +223,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Mike Chan, PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS</div>
-<div class="isomer-card-description">Senior Adviser <br> <i>Housing &amp; Development Board</i></div>
+<div class="isomer-card-description">Senior Adviser <br> <i> Housing &amp; Development Board</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -245,7 +234,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Ng Khee Jin, PBM</div>
-	<div class="isomer-card-description">Creative Partner <br> <i> Kheej LLP</i></div>
+<div class="isomer-card-description">Creative Partner <br> <i>Kheej LLP</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -256,7 +245,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Sherrin Chua</div>
-	<div class="isomer-card-description">Director, Community Partnership Department <br><i> Singapore Police Force</i></div>
+	<div class="isomer-card-description">Director, Community Partnership Department <br> <i> Singapore Police Force</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -278,21 +267,25 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Wong Voal Voal</div>
-	<div class="isomer-card-description">Co-founder &amp; Managing Partner <br> <i>IN.FOM</i></div></div>
+	<div class="isomer-card-description">Co-founder &amp; Managing Partner <br><i> IN.FOM</i></div>
 </div>
-<div class="isomer-card"><i>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Zahidi Bin Abdul Rahman BBM, PBM" src="/images/Council Members/Mr_Zahidi.jpg">
 </div>
 </div>
-	</i><div class="isomer-card-body"><i>
+<div class="isomer-card-body">
 <div class="isomer-card-title">Mr Zahidi Bin Abdul Rahman,  BBM, PBM</div>
-		<div class="isomer-card-description">Principal Architect <br><i>Zahidi A.R Arkitek</i></div>
-</i><div class="isomer-card-body"><i>
-<div class="isomer-card-title"></div>
-	</i><div class="isomer-card-description"><i> </i> </div>
+	<div class="isomer-card-description">Principal Architect <br> <i>Zahidi A.R Arkitek</i></div></div>
+</div>
+<div class="isomer-card"><i>
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+
 </div>
 </div>
-</div><i>
-<p></p></i></div>
+	</i><div class="isomer-card-body"><i>
+
+</i></div></div></div>
