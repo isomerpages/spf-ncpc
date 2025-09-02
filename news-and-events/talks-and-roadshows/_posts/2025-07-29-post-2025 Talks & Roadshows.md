@@ -12,6 +12,101 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>September 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 620, Choa Chu Kang Street 62</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 - 14 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Waterway Point</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Henry Park Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1700:1930</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kreta&nbsp;Ayer Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marina Bay Sands</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>August 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>
