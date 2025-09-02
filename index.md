@@ -46,16 +46,6 @@ sections:
       url: https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
       image: /images/Beware_of_impersonation_scams.png
       alt: GOIS
-  - infopic:
-      title: Delta Challenge 2025
-      subtitle: Ready to make an impact?
-      description: Attention, Young ChangeMakers aged 17-35! A safer tomorrow is in
-        your hands. Pick a project in Delta Challenge and work your intellect,
-        skills, and creativity.
-      button: Sign up now!
-      alt: Image alt text
-      url: https://go.gov.sg/deltachallenge2025
-      image: /images/NCPC_Delta_Challenge_MasterKVEdited_3Jun.jpg
   - infobar:
       title: ScamShield
       subtitle: Stay Safe With
@@ -92,13 +82,13 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2025
-      subtitle: Episode 5
+      subtitle: Episode 6
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2025 EP5 - The trio
-        stealing from donation boxes from various places of worship"
-        src="https://www.youtube.com/embed/3dta1WgTvf8" height="355"
+        web-share" frameborder="0" title="Crimewatch 2025 EP6 | Clementi
+        Division's successful arrest of money mule after woman falls for scam"
+        src="https://www.youtube.com/embed/PxrlzDcxOew" height="355"
         width="600"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
