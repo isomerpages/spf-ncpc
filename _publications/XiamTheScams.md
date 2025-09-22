@@ -11,5 +11,24 @@ image: /images/XTS_KV__AREN___002_.png
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/XTS_Winning.png">
 </div>
 <p></p>
+<p>#XiamTheScams challenged players to join the fight against scams in a
+fun, life simulation web game that tested decision-making skills while
+teaching how to avoid scams.</p>
+<p>Earlier this year, over 519,000 players participated, adopting more than
+76,000 real-life anti-scam measures. Players took steps such as downloading
+the ScamShield App, subscribing to ScamShield Alert channels, and visiting
+the ScamShield website, learning practical ways to stay scam-smart.</p>
+<p>The game also offered over $55,000 in cash prizes and up to 3,000 gifts,
+rewarding players for playing smart.</p>
+<p>Due to <strong>YOUR participation and support for #XiamTheScams</strong>,
+the game clinched multiple awards at different awards ceremonies, recognising
+its impact as an educational, web-based life simulator game:</p>
+<p></p>
+<p><strong>Mob-Ex Awards 2025</strong>
+<br>- Gold – Best Campaign (Government, Utility &amp; Services)
+<br>- Gold – Best Mobile Gamification Campaign</p>
+<p><strong>Marketing Excellence Awards 2025</strong>
+<br>- Rose Gold – Excellence in Gaming</p>
+<p></p>
 <h4>Play Now: <a href="https://xiamthescams.sqkii.com/play" rel="noopener nofollow" target="_blank">#XiamTheScams</a></h4>
 <p></p>
