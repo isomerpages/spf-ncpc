@@ -7,10 +7,10 @@ image: /images/XTS_KV__AREN___002_.png
 ---
 <h1>#XiamTheScams</h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/XTS_Winning.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/XTS_Winning__Dedication_Post_.png">
+</div>
 <p>#XiamTheScams challenged players to join the fight against scams in a
 fun, life simulation web game that tested decision-making skills while
 teaching how to avoid scams.</p>
