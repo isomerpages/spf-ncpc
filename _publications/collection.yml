@@ -1,0 +1,18 @@
+collections:
+  publications:
+    output: true
+    order:
+      - Annual Reports.md
+      - Media Releases.md
+      - XiamTheScams.md
+      - CrimeWatch.md
+      - Campaigns.md
+      - Anti illegal Betting.md
+      - Delta League.md
+      - Making Singapore Safe.md
+      - Taxi Driver Handbook.md
+      - ICPC 2011 EBOOK.md
+      - CPTED Guidebook.md
+      - Crime Prevention Test.md
+      - Joint Year End Primary School Holiday Advisory.md
+      - Joint Year End Secondary School Holiday Advisory.md
