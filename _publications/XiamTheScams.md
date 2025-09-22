@@ -30,5 +30,3 @@ its impact as an educational, web-based life simulator game:</p>
 <p><strong>Marketing Excellence Awards 2025</strong>
 <br>- Rose Gold – Excellence in Gaming</p>
 <p></p>
-<h4>Play Now: <a href="https://xiamthescams.sqkii.com/play" rel="noopener nofollow" target="_blank">#XiamTheScams</a></h4>
-<p></p>
