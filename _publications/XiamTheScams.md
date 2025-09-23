@@ -25,8 +25,21 @@ the game clinched multiple awards at different awards ceremonies, recognising
 its impact as an educational, web-based life simulator game:</p>
 <p></p>
 <p><strong>Mob-Ex Awards 2025</strong>
-<br>- Gold – Best Campaign (Government, Utility &amp; Services)
-<br>- Gold – Best Mobile Gamification Campaign</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold – Best Campaign (Government, Utility &amp; Services)</p>
+</li>
+<li>
+<p>Gold – Best Mobile Gamification Campaign</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Marketing Excellence Awards 2025</strong>
-<br>- Rose Gold – Excellence in Gaming</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze – Excellence in Gaming</p>
+</li>
+</ul>
 <p></p>
