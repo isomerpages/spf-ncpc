@@ -54,7 +54,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="Use the ScamShield Suite to Protect
         yourself against scams!" src="https://www.youtube.com/embed/bIAo--B3V3A"
-        height="355" width="600"></iframe>
+        height="355" width="100%"></iframe>
       button: Learn more
       url: /scamshield/
   - resources:
@@ -68,7 +68,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/cKVAeyAR3OU?si=DNOibGa0A7Bw0MXc"
-        height="355" width="600"></iframe>
+        height="355" width="100%"></iframe>
       button: More Video
       url: https://www.youtube.com/@NCPCsingapore
   - infopic:
@@ -89,7 +89,7 @@ sections:
         web-share" frameborder="0" title="Crimewatch 2025 EP6 | Clementi
         Division's successful arrest of money mule after woman falls for scam"
         src="https://www.youtube.com/embed/PxrlzDcxOew" height="355"
-        width="600"></iframe>
+        width="100%"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
