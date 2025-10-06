@@ -82,14 +82,13 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2025
-      subtitle: Episode 6
+      subtitle: Episode 7
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="Crimewatch 2025 EP6 | Clementi
-        Division's successful arrest of money mule after woman falls for scam"
-        src="https://www.youtube.com/embed/PxrlzDcxOew" height="355"
-        width="100%"></iframe>
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/OtNgIqJxWSw?si=CHkf6gg4pFy0s_8v"
+        height="315" width="560"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
