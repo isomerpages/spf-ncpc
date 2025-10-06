@@ -12,6 +12,143 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>October 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1730:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh West CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 215, Boon Lay Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 - 10 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marina Bay Sands</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 117, Aljunied Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Changkat CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 445, Ang Mo Kio Coffee Shop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1130:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Braddell Heights Community Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>September 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>
