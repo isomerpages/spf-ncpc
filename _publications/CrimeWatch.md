@@ -32,6 +32,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025 EP7 - $1,700 Clothing Heist thwarted by Tanglin Division!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=OtNgIqJxWSw&amp;list=PL4bszwf0jJI7qU5kjfKhYWyZoIAu5PkiP&amp;index=1" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2025 EP6 - Clementi Division's successful arrest of money mule after woman
 falls for scam</p>
 </td>
