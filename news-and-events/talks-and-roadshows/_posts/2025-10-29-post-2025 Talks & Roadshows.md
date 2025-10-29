@@ -1,7 +1,7 @@
 ---
 title: 2025 Talks & Roadshows
 permalink: /2025-talks-roadshows/
-date: 2025-10-01
+date: 2025-10-29
 layout: post
 description: ""
 image: ""
@@ -12,6 +12,101 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>November 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vico Construction Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS Global</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 - 9 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“We Can ACT Against Scams” Roadshow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 - 23 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCPC Year End Crime Prevention Roadshow 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Tampines Hub, Festive Walk East</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 - 30 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Police Community Roadshow 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodlands Causeway Point</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>October 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>

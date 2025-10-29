@@ -32,6 +32,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025 EP8 - $80,000 seafood app SCAM! Huge money mule network reveal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=PeC5gIRenwE" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2025 EP7 - $1,700 Clothing Heist thwarted by Tanglin Division!</p>
 </td>
 <td rowspan="1" colspan="1">
