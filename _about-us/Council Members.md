@@ -14,8 +14,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr K Shanmugam</div>
-	<div class="isomer-card-description"><b>Patron-in-Chief</b> <br> Minister  
-Home Affairs and Law</div>
+	<div class="isomer-card-description"><b>Patron-in-Chief</b> <br>Coordinating Minister for National Security &amp; Minister for Home Affairs</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -280,12 +279,7 @@ Pte Ltd</div>
 <div class="isomer-card-title">Mr Zahidi Bin Abdul Rahman,  BBM, PBM</div>
 	<div class="isomer-card-description">Principal Architect <br> <i>Zahidi A.R Arkitek</i></div></div>
 </div>
-<div class="isomer-card"><i>
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
+
+
 
 </div>
-</div>
-	</i><div class="isomer-card-body"><i>
-
-</i></div></div></div>
