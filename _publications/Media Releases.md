@@ -8,6 +8,7 @@ variant: markdown
 
 | Year | Media Release |
 | -------- | -------- | 
+| 7 Oct 2025  | [INAUGURAL NCPC CRIME PREVENTION AWARDS HONOUR 10 ORGANISATIONS THAT WENT ABOVE AND BEYOND TO KEEP SINGAPORE SAFE](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/NCPC-Appreciation-Dinner-and-Awards.pdf)|
 | 15 Sep 2025  | [1ST ANNIVERSARY OF THE 1799 SCAMSHIELD HELPLINE](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/NCPC-ScamShield-Helpline-1st-Anniversary.pdf)| 
 | 24 May 2024  | [FUTURE-READY SPF: CYBER AND BEYOND](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/POLICE-WORKPLAN-SEMINAR-2024-A-FUTURE-READY-SPF-CYBER-AND-BEYOND.pdf)| 
 | 24 Jan 2024  | [Launch of Safe Clubbing Campaign](https://appdev.ifdemo.com/ncpcorgsg/downloads/mediarelease/News-Release-LAUNCHOFSAFECLUBBINGCAMPAIGNON24JANUARY2024.pdf)| 
