@@ -222,7 +222,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Mike Chan, PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS</div>
-<div class="isomer-card-description">Senior Adviser <br> <i> Housing &amp; Development Board</i></div>
+<div class="isomer-card-description">Senior Advisor <br> <i> Housing &amp; Development Board</i></div>
 </div>
 </div>
 <div class="isomer-card">
