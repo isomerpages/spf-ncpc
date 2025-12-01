@@ -12,6 +12,59 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/header-border.png">
 </div>
 <p>Below are the events that are happening:</p>
+<h4>December 2025</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 - 7 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:2100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cyber Safe In The City roadshow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junction 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 - 7 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Police Community Road Show</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heartbeat at Bedok</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>November 2025</h4>
 <table style="minWidth: 100px">
 <colgroup>
