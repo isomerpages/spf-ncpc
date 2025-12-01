@@ -138,10 +138,12 @@ variant: tiptap
 <p>1100:2000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCPC Year End Crime Prevention Roadshow 2025</p>
+<p>NCPC Year End</p>
+<p>Crime Prevention Roadshow 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Tampines Hub, Festive Walk East</p>
+<p>Our Tampines Hub,</p>
+<p>Festive Walk East</p>
 </td>
 </tr>
 <tr>
