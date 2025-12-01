@@ -47,7 +47,7 @@ Ltd</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Gerald Balendran Singham, JP, BBM(L), PBM</div>
+<div class="isomer-card-title">Mr Gerald Balendran Singham, PJG, JP, BBM(L), PBM</div>
 	<div class="isomer-card-description"><b>Chairman</b><br> Global Vice-Chair and ASEAN CEO <br> <i>Dentons Rodyk &amp; Davidson LLP</i>
 </div>
 </div>
