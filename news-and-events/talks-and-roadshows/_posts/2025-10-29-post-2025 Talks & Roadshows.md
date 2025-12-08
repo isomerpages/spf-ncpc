@@ -43,7 +43,7 @@ variant: tiptap
 <p>1000:2100</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cyber Safe In The City roadshow</p>
+<p>Cyber Safe In The City Roadshow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Junction 8</p>
@@ -57,10 +57,38 @@ variant: tiptap
 <p>1000:2000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Police Community Road Show</p>
+<p>Police Community Roadshow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heartbeat at Bedok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 9, Jln Kukoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Panjang Gospel Chapel</p>
 </td>
 </tr>
 </tbody>
