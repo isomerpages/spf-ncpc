@@ -32,6 +32,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025 EP9 - Joint SPF and CNB operation exposes a web of drug offences!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=cRLK6tJYgks&amp;list=PL4bszwf0jJI7qU5kjfKhYWyZoIAu5PkiP&amp;index=3" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2025 EP8 - $80,000 seafood app SCAM! Huge money mule network reveal</p>
 </td>
 <td rowspan="1" colspan="1">
