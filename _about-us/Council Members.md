@@ -14,7 +14,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr K Shanmugam</div>
-<div class="isomer-card-description">Patron-in-Chief Coordinating Minister for National Security &amp; Minister
+	<div class="isomer-card-description"><b> Patron-in-Chief </b><br><br> Coordinating Minister for National Security &amp; Minister
 for Home Affairs</div>
 </div>
 </div>
@@ -26,8 +26,8 @@ for Home Affairs</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Shaw Vee Meng, PBM</div>
-<div class="isomer-card-description">Patron Chairman The Shaw Organisation Pte Ltd The Shaw Foundation Pte
-Ltd</div>
+	<div class="isomer-card-description"><b> Patron </b> <br><br> Chairman <br> <i>The Shaw Organisation Pte Ltd <br> The Shaw Foundation Pte Ltd </i>
+</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -38,7 +38,7 @@ Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Lim Hock Chee, BBM</div>
-<div class="isomer-card-description">Patron Chief Executive Officer Sheng Siong Group Ltd</div>
+<div class="isomer-card-description"><b> Patron </b> <br> <br> Chief Executive Officer <br> <i> Sheng Siong Group Ltd </i> </div>
 </div>
 </div>
 <div class="isomer-card">
@@ -49,8 +49,8 @@ Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Gerald Balendran Singham, PJG, JP, BBM(L), PBM</div>
-<div class="isomer-card-description">Chairman Global Vice-Chair and ASEAN CEO Dentons Rodyk &amp; Davidson
-LLP</div>
+	<div class="isomer-card-description"><b>Chairman</b> <br><br> Global Vice-Chair and ASEAN CEO <br><i> Dentons Rodyk &amp; Davidson LLP</i>
+</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -61,8 +61,7 @@ LLP</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Tan Puay Kern, BBM, PBM, PPA(P)</div>
-<div class="isomer-card-description">Vice Chairman Vice President Security Service Department Marina Bay Sands
-Pte Ltd</div>
+<div class="isomer-card-description"><b> Vice Chairman </b> <br> <br> Vice President Security Service Department <br> <i> Marina Bay Sands Pte Ltd </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -73,7 +72,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Lim Chin Keong, PBM</div>
-<div class="isomer-card-description">Honorary Treasurer Managing Director Progress Galvanizing Pte Ltd</div>
+	<div class="isomer-card-description"><b>Honorary Treasurer</b> <br><br>Managing Director <br> <i>Progress Galvanizing Pte Ltd</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -84,8 +83,7 @@ Pte Ltd</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Abigail Ng</div>
-<div class="isomer-card-description">Executive Director Markets Policy and Consumer Department Monetary Authority
-of Singapore</div>
+<div class="isomer-card-description">Executive Director <br> Markets Policy and Consumer Department <br> <i> Monetary Authority of Singapore </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -96,7 +94,7 @@ of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Alvin Moh</div>
-<div class="isomer-card-description">Deputy Commissioner of Police (Operations) Singapore Police Force</div>
+<div class="isomer-card-description">Deputy Commissioner of Police (Operations) <br> <i>Singapore Police Force</i></div>
 </div>
 </div>
 <div class="isomer-card">
