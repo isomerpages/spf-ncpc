@@ -82,12 +82,12 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2025
-      subtitle: Episode 8
+      subtitle: Episode 10
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/PeC5gIRenwE?si=3VXHQgkBloF0h1vf"
+        src="https://www.youtube.com/embed/GJ9XSYH5-yI?si=XYmBlLFOwIjpEaId"
         height="315" width="560"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
