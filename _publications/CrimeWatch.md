@@ -32,6 +32,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025 EP10 - S$120,000 vanishes mid-flight, airport police solve high-stakes
+theft!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=GJ9XSYH5-yI" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2025 EP9 - Joint SPF and CNB operation exposes a web of drug offences!</p>
 </td>
 <td rowspan="1" colspan="1">
