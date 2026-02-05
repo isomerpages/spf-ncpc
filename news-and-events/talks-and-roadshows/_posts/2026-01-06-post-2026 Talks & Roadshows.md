@@ -8,6 +8,74 @@ image: ""
 variant: tiptap
 ---
 <h3>Below are the events that are happening:</h3>
+<p></p>
+<h4>February 2026</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 186, Punggol Central</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bidadari CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 &amp; 12 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St Anthony Primary School</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>January 2026</h4>
 <table style="minWidth: 100px">
 <colgroup>
