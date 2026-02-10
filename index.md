@@ -62,13 +62,14 @@ sections:
       subtitle: Join & Engage with us
       button: View More
   - infobar:
-      title: ACT Campaign Video
+      title: WE JAGA TOGETHER
       subtitle: Latest Video
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/cKVAeyAR3OU?si=DNOibGa0A7Bw0MXc"
-        height="355" width="100%"></iframe>
+      description: <iframe allowfullscreen=""
+        referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" frameborder="0" title="WE JAGA TOGETHER"
+        src="https://www.youtube.com/embed/G3LE0EJa7pY" height="355"
+        width="100%"></iframe>
       button: More Video
       url: https://www.youtube.com/@NCPCsingapore
   - infopic:
