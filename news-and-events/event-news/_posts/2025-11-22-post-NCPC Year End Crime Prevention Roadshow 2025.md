@@ -34,6 +34,10 @@ low crime does not mean no crime. The video heavily incorporates AI-generated
 visuals and musical elements to creatively communicate important public
 messages.</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G3LE0EJa7pY"></iframe>
+</div>
+<p></p>
 <h4><strong>Delta Challenge: Art Against Scams – Prize Presentation</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
