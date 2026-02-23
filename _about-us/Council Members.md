@@ -226,17 +226,6 @@ for Home Affairs</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Mike Chan PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS" src="/images/Council Members/Mike_Chan.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Mike Chan, PPA(E) (COVID 19), PPA(P)(L), PPA(P), PPA(G), PBS</div>
-	<div class="isomer-card-description">Senior Advisor <br> <i> Housing &amp; Development Board</i></div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Ng Khee Jin PBM" src="/images/Council Members/Ng_Khee_Jin.jpg">
 </div>
 </div>
@@ -253,7 +242,7 @@ for Home Affairs</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Sherrin Chua</div>
-<div class="isomer-card-description">Director, Community Partnership Department <br> <i> Singapore Police Force </i></div>
+	<div class="isomer-card-description">Director, Community Partnership Department <br> <i> Singapore Police Force </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -264,7 +253,7 @@ for Home Affairs</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Steven Goh</div>
-	<div class="isomer-card-description">Managing Director <br> <i>Orchard Road Business Association</i></div>
+<div class="isomer-card-description">Managing Director <br> <i>Orchard Road Business Association</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -286,8 +275,6 @@ for Home Affairs</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Zahidi Bin Abdul Rahman, BBM, PBM</div>
-<div class="isomer-card-description">Principal Architect <br> <i> Zahidi A.R Arkitek</i></div>
+<div class="isomer-card-description">Principal Architect <br> <i> Zahidi A.R Arkitek</i></div></div>
 </div>
 </div>
-</div>
-<p></p>
