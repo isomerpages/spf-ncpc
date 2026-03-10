@@ -53,7 +53,7 @@ Ambassadors. This new role focuses on educating the community about cybercrime
 prevention through workshops, seminars, and public talks. Cyber CPAs will
 support relevant stakeholders and cybersecurity experts, to galvanise the
 community to take a more proactive role in safeguarding our cyberspace.</p>
-<p><a href="https://www.mha.gov.sg/volunteers/home-team-volunteer-scheme/detail/Details/crime-prevention-ambassador-ncpc" rel="noopener noreferrer nofollow" target="_blank">Be part of our Crime Prevention Programme</a>&nbsp;to
+<p><a href="https://www.mha.gov.sg/getinvolved/i-want-to-volunteer/home-team-volunteer-schemes/crime-prevention-ambassador-ncpc/" rel="noopener noreferrer nofollow" target="_blank">Be part of our Crime Prevention Programme</a>&nbsp;to
 play your part in keeping Singapore safe and secure for all.
 <br>
 <br>
