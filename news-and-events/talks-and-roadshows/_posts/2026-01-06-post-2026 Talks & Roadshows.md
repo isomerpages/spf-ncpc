@@ -92,7 +92,7 @@ variant: tiptap
 <p>25 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14:30:1530</p>
+<p>0930:1200</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Crime Prevention Exhibition</p>
@@ -201,7 +201,7 @@ variant: tiptap
 <p>25 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14:30:1530</p>
+<p>1430:1530</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Crime Prevention Talk via Zoom</p>
