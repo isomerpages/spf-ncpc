@@ -189,12 +189,12 @@ for Home Affairs</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Koh Chong Mong PPA(P), PBS" src="/images/Council Members/Koh_Chong_Mong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Koh Chong Mong PPA(P), PBS" src="/images/Council Members/Ling_Khoon_Chow__Website_">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Koh Chong Mong, PPA(P), PBS</div>
-<div class="isomer-card-description">Cluster Superintendent, East 4 <br> <i>Ministry of Education</i></div>
+<div class="isomer-card-title">Mr Ling Khoon Chow</div>
+<div class="isomer-card-description">Superintendent, South 1<br> <i>Ministry of Education</i></div>
 </div>
 </div>
 <div class="isomer-card">
