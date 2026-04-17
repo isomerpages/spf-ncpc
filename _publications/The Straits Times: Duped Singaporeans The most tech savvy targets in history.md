@@ -4,3 +4,12 @@ permalink: /the-straits-times-duped-singaporeans-the-most-tech-savvy-targets-in-
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/ST_27_Feb_2026_pB2__002_.jpg">
+</div>
+<p><em>Source: <a href="https://www.straitstimes.com/" rel="noopener noreferrer nofollow" target="_blank">The Straits Times</a>&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.&nbsp;</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
