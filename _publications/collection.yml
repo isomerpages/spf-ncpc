@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - "Duped Singaporeans: The most tech savvy targets in history.md"
       - Annual Reports.md
       - Media Releases.md
       - XiamTheScams.md
