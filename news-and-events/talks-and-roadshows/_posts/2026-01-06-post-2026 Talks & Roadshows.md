@@ -8,6 +8,129 @@ image: ""
 variant: tiptap
 ---
 <h3>Below are the events that are happening:</h3>
+<h4>May 2026</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sembawang Recreation Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 - 3 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SaferSG, Together Roadshow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keat Hong CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huationg&nbsp;Contractor Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk&nbsp;71, Bedok South Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chai Chee CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS Global</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS Global</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>April 2026</h4>
 <table style="minWidth: 100px">
 <colgroup>
