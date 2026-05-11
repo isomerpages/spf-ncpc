@@ -29,7 +29,7 @@ variant: tiptap
 <p>News articles:</p>
 <p><strong><a href="https://www.asiaone.com/singapore/illegal-gambling-6-arrested-70k-cash" rel="noopener noreferrer nofollow" target="_blank">More than $70k cash seized, 6 arrested in islandwide crackdown on illegal gambling</a></strong>
 </p>
-<p><strong>One illegal bet is all it takes for a lifetime </strong>
+<p><strong>One illegal bet is all it takes for a lifetime</strong>
 </p>
 <p></p>
 <p></p>
