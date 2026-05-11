@@ -2,7 +2,6 @@ collections:
   crime-preventive-advisories:
     output: true
     order:
-      - Individual/Anti Illegal Betting.md
       - Individual/.keep
       - Individual/House Breaking.md
       - Individual/Robbery.md
