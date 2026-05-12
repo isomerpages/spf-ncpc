@@ -36,7 +36,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ncpc.org.sg/hey-bro-it-isnt-worth-it-campaign/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About/download.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">"Hey Bro, It Isn't Worth It." Campaign</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.ncpc.org.sg/red-card-anti-illegal-betting-campaign/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://ncpc.org.sg/red-card-anti-illegal-betting-campaign/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="&quot;Red Card&quot; Anti Illegal Betting Campaign" src="/images/download__1_.jpg">
