@@ -1,4 +1,5 @@
 collections:
   side-link:
     output: true
-    order: []
+    order:
+      - Hey Bro, It Isn't Worth It Campaign.md
