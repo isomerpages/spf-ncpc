@@ -1,5 +1,5 @@
 collections:
-  side-link:
+  past-campaigns:
     output: true
     order:
       - Red Card Anti Illegal Betting Campaign.md
