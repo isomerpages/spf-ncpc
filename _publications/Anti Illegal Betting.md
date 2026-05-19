@@ -23,9 +23,13 @@ variant: tiptap
 <li>
 <p>Up to <strong>6 months’ imprisonment</strong>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="510" width="907" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QPDUKyaEhmA"></iframe>
+</div>
+<p></p>
 <p>News articles:</p>
 <p><strong><a href="https://www.asiaone.com/singapore/illegal-gambling-6-arrested-70k-cash" rel="noopener noreferrer nofollow" target="_blank">More than $70k cash seized, 6 arrested in islandwide crackdown on illegal gambling</a></strong>
 </p>
