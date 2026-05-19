@@ -142,6 +142,18 @@ for Home Affairs</div>
 <div class="isomer-card-description">Assistant Chief Executive (National Cyber Resilience) <br> <i>Cyber Security Agency of Singapore</i></div>
 </div>
 </div>
+	<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Daniel Chan" src="/images/Council Members/Daniel_Chan.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Daniel Chan </div>
+<div class="isomer-card-description">Group Director (Housing Management)
+ <br> <i>Housing Development Board</i></div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -209,9 +221,6 @@ for Home Affairs</div>
 	Banking<br> <i>United Overseas Bank Limited</i></div>
 </div>
 </div>
-</div>
-<p></p>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
