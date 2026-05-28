@@ -32,6 +32,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Crimewatch 2026 EP3 - Retail staff spots suspicious trio behind theft
+spree?!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=8QryYYsQiHU" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Crimewatch 2026 EP2 - Violent assault sparked by a baby’s cries?!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=k7mGnc2UFOY&amp;t=10s" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Crimewatch 2026 EP1 - Causing harm just to clear unlicensed moneylending
 debts?!</p>
 </td>

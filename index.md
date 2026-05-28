@@ -83,15 +83,15 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2026
-      subtitle: Episode 1
+      subtitle: Episode 3
       id: infobar
       description: <iframe allowfullscreen=""
         referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" frameborder="0" title="Crimewatch 2026
-        EP1 - Causing harm just to clear unlicensed moneylending debts?!"
-        src="https://www.youtube.com/embed/_0QiWvXcqZU" height="305"
-        width="560"></iframe>
+        picture-in-picture; web-share" frameborder="0" title="YouTube video
+        player"
+        src="https://www.youtube.com/embed/8QryYYsQiHU?si=acyx-mkJnkhVA5z8"
+        height="315" width="560"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/
   - hero:
