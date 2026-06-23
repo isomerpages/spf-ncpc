@@ -32,6 +32,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Crimewatch 2026 EP4 - Retail staff spots suspicious trio behind theft
+spree?!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=dzcPbU5nTzU&amp;t=4s" rel="noopener noreferrer nofollow" target="_blank">Watch now</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Crimewatch 2026 EP3 - Retail staff spots suspicious trio behind theft
 spree?!</p>
 </td>
