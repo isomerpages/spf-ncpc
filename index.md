@@ -83,14 +83,14 @@ sections:
       image: /images/Home/img-21-revised-2.jpg
   - infobar:
       title: CrimeWatch 2026
-      subtitle: Episode 3
+      subtitle: Episode 4
       id: infobar
       description: <iframe allowfullscreen=""
         referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture; web-share" frameborder="0" title="YouTube video
         player"
-        src="https://www.youtube.com/embed/8QryYYsQiHU?si=acyx-mkJnkhVA5z8"
+        src="https://www.youtube.com/embed/dzcPbU5nTzU?si=rLsCCwxzYJaBV83E"
         height="315" width="560"></iframe>
       button: Watch More
       url: https://www.ncpc.org.sg/publications/crime-watch/

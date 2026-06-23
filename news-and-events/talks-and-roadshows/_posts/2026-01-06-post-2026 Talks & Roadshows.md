@@ -8,6 +8,115 @@ image: ""
 variant: tiptap
 ---
 <h3>Below are the events that are happening:</h3>
+<h3>June 2026</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol One CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1600:1900</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I can ACT against scams roadshow (4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol 21 CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Income Insurance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Kapor Church</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tengah Air Base</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 - 28 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SaferSG, Together Roadshow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Coast Mall</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>May 2026</h4>
 <table style="minWidth: 100px">
 <colgroup>
