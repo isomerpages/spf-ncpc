@@ -8,6 +8,115 @@ image: ""
 variant: tiptap
 ---
 <h3>Below are the events that are happening:</h3>
+<h3>July 2026</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Skit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Telok Kurau Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900:1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 626 Choa Chu Kang Street 62</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 612, Choa Chu Kang St 62</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1330:1630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 51, Kent Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800:2100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap Community Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0930:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk Via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Income Insurance</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>June 2026</h3>
 <table style="minWidth: 100px">
 <colgroup>
