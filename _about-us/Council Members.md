@@ -106,7 +106,7 @@ for Home Affairs</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Benjamin Tay</div>
 	<div class="isomer-card-description">Chairman
-SP Group <br> <i>SP Power Energy (Thailand) Limited<br>
+ <br> <i>SP Power Energy (Thailand) Limited<br>
 		SP Energy (Vietnam) Co. Ltd</i></div>
 	
 </div>
