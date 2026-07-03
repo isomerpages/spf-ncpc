@@ -83,7 +83,7 @@ for Home Affairs</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Abigail Ng</div>
-<div class="isomer-card-description">Executive Director <br> Markets Policy and Consumer Department <br> <i> Monetary Authority of Singapore </i></div>
+<div class="isomer-card-description">Chief Sustainability Officer <br> <i>Monetary Authority of Singapore  </i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -105,7 +105,10 @@ for Home Affairs</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Benjamin Tay</div>
-	<div class="isomer-card-description">Chief Executive Officer <br> <i>Power Automation Pte Ltd</i></div>
+	<div class="isomer-card-description">Chairman
+SP Group <br> <i>SP Power Energy (Thailand) Limited<br>
+		SP Energy (Vietnam) Co. Ltd</i></div>
+	
 </div>
 </div>
 <div class="isomer-card">
@@ -173,7 +176,7 @@ for Home Affairs</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Hana Alhadad</div>
-	<div class="isomer-card-description">Adjunct Faculty <br> <i> National University of Singapore</i></div>
+	<div class="isomer-card-description">Co-Founder<br> <i>Hayat Collective</i></div>
 </div>
 </div>
 <div class="isomer-card">
