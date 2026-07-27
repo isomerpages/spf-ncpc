@@ -14,8 +14,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr K Shanmugam</div>
-	<div class="isomer-card-description"><b> Patron-in-Chief </b><br><br> Coordinating Minister for National Security &amp; Minister
-for Home Affairs</div>
+	<div class="isomer-card-description"><b> Patron-in-Chief </b><br><br>Senior Minister, Coordinating Minister for National Security, and Minister for Home Affairs</div>
 </div>
 </div>
 <div class="isomer-card">
