@@ -47,7 +47,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Gerald Balendran Singham, PJG, JP, BBM(L), PBM</div>
+<div class="isomer-card-title">Mr Gerald Balendran Singham, JP, PJG, BBM(L), BBM</div>
 	<div class="isomer-card-description"><b>Chairman</b> <br><br> Global Vice-Chair and ASEAN CEO <br><i> Dentons Rodyk &amp; Davidson LLP</i>
 </div>
 </div>
@@ -118,7 +118,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Bernard Choo</div>
-<div class="isomer-card-description">Editor <br>Shin Min Daily News <br> <i>Singapore Press Holdings</i></div>
+<div class="isomer-card-description">Editor <br>Shin Min Daily News <br> <i>SPH Media Trust</i></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -164,7 +164,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Daryl Poon</div>
-<div class="isomer-card-description">Head of Trust &amp; Safety (Southeast-Asia I &amp; Northeast Asia) <br> <i>Meta</i></div>
+<div class="isomer-card-description">Director, Trust &amp; Safety – Law Enforcement, APAC <br> <i>Meta</i></div>
 </div>
 </div>
 <div class="isomer-card">
