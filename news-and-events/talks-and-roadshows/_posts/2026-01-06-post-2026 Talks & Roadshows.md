@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3>Below are the events that are happening:</h3>
-<h3>July 2026</h3>
+<h3>August 2026</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -33,21 +33,203 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 July</p>
+<p>1 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1030:1230</p>
+<p>1000:1130</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Crime Prevention Skit</p>
+<p>Crime Prevention Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Telok Kurau Park</p>
+<p>Blk 529 Bedok North Ave 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 July</p>
+<p>1 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delta Challenge Launchpad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amara Singapore, Ballroom 1 &amp; 2 (Level 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 189, Punggol Central</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Keng CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>63 Nanyang Drive, Singapore 636922</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HobbyCon Asia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marina Bay Sands Hall C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0700:1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gain City</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400:1500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sheng Siong Supermarket</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk via Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Proficiency Badge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1030:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria School (Scouts)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 – 16 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:1500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Funan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1730:2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Tee CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100:1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk &amp; Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Pools</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1430:1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Tee Community Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0900:1100</p>
@@ -56,63 +238,7 @@ variant: tiptap
 <p>Crime Prevention Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Block 626 Choa Chu Kang Street 62</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1030:1230</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crime Prevention Exhibition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 612, Choa Chu Kang St 62</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1330:1630</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crime Prevention Exhibition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 51, Kent Road</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1800:2100</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crime Prevention Exhibition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Siglap Community Centre</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0930:1200</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crime Prevention Talk Via Zoom</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Income Insurance</p>
+<p>Yew Tee Community Centre</p>
 </td>
 </tr>
 </tbody>
