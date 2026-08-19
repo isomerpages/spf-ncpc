@@ -28,6 +28,7 @@ to help prevent and combat them.</p>
 <p>Guest speakers also shared valuable insights into the two challenge tracks, <strong>Art Against Scams</strong> and <strong>Guardians of Tomorrow,</strong> highlighting
 the key issues each track seeks to address and equipping participants with
 ideas to develop impactful solutions.</p>
+<p></p>
 <p><strong><a href="https://eureka-events.zohobackstage.com/DeltaChallenge#/" rel="noopener noreferrer nofollow" target="_blank">Register here</a></strong> for
 the Delta Challenge now and stand a chance to win a share of the total
 prize pool of up to <strong>$25,000</strong>.</p>
@@ -39,14 +40,15 @@ where they had the opportunity to sharpen their ideas, strengthen their
 concepts and explore creative ways to bring their designs to life. The
 sessions gave them practical tips and feedback to turn their ideas into
 stronger, more impactful submissions.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Epixfoto_0118.jpg">
+</div>
 <p>The Delta Challenge comprises of two exciting tracks:</p>
 <p><strong>Track A: Art Against Shop Theft – </strong>Unleash your creativity
 for a cause! Design a poster or other collateral to raise awareness about
 shop theft prevention. Selected designs will be transformed into actual
 campaign materials and showcased to the public, turning your creativity
 into a powerful tool for crime prevention education.</p>
-<p>&nbsp;</p>
 <p><strong>Track B: Guardians of Tomorrow</strong> – Got a bold idea? Share
 your innovative solutions to address key crime prevention issues. Selected
 proposals may receive a grant of up to <strong>$5,000</strong> to bring your
