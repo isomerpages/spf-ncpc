@@ -8,6 +8,101 @@ image: ""
 variant: tiptap
 ---
 <h3>Below are the events that are happening:</h3>
+<h3>September 2026</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1200:1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Transport Security Command Community Roadshow 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Coast Mall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Besar Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1500:1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HSA Building Site Office</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 113 Hougang Avenue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000:1330</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crime Prevention Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lay Community Club</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>August 2026</h3>
 <table style="minWidth: 100px">
 <colgroup>
